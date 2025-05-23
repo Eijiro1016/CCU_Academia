@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: ffe4377faacbbbb469319e5c3fbccc46
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3505113786848560788
+    second: hat_lucky_walk_0
+  - first:
+      213: -4498403797013912656
+    second: hat_lucky_walk_1
+  - first:
+      213: 6047764176761987281
+    second: hat_lucky_walk_2
+  - first:
+      213: -8786145102627301775
+    second: hat_lucky_walk_3
+  - first:
+      213: -6333054350530167495
+    second: hat_lucky_walk_4
+  - first:
+      213: -4455202917407642393
+    second: hat_lucky_walk_5
+  - first:
+      213: -2839063183900992258
+    second: hat_lucky_walk_6
+  - first:
+      213: -664370843867187537
+    second: hat_lucky_walk_7
+  - first:
+      213: 8717802834382267794
+    second: hat_lucky_walk_8
+  - first:
+      213: 3797546422351336129
+    second: hat_lucky_walk_9
+  - first:
+      213: -4265025586607272101
+    second: hat_lucky_walk_10
+  - first:
+      213: -3516313858401806524
+    second: hat_lucky_walk_11
+  - first:
+      213: 6274010492913863253
+    second: hat_lucky_walk_12
+  - first:
+      213: -2190729555036219691
+    second: hat_lucky_walk_13
+  - first:
+      213: -8903318320117753230
+    second: hat_lucky_walk_14
+  - first:
+      213: -8367350048681897650
+    second: hat_lucky_walk_15
+  - first:
+      213: -31645807118526570
+    second: hat_lucky_walk_16
+  - first:
+      213: -6880531311774678895
+    second: hat_lucky_walk_17
+  - first:
+      213: -8674451657337341804
+    second: hat_lucky_walk_18
+  - first:
+      213: 6305802472002964637
+    second: hat_lucky_walk_19
+  - first:
+      213: 8443124574596121709
+    second: hat_lucky_walk_20
+  - first:
+      213: 1220190281223662277
+    second: hat_lucky_walk_21
+  - first:
+      213: -2231776851149086582
+    second: hat_lucky_walk_22
+  - first:
+      213: 4940804963509031250
+    second: hat_lucky_walk_23
+  - first:
+      213: -6381906748983329291
+    second: hat_lucky_walk_24
+  - first:
+      213: -5086900732722854776
+    second: hat_lucky_walk_25
+  - first:
+      213: -1492370010095737996
+    second: hat_lucky_walk_26
+  - first:
+      213: -5927205794030455984
+    second: hat_lucky_walk_27
+  - first:
+      213: 8780335955682916431
+    second: hat_lucky_walk_28
+  - first:
+      213: 2931377374416504565
+    second: hat_lucky_walk_29
+  - first:
+      213: 8395863803563823525
+    second: hat_lucky_walk_30
+  - first:
+      213: -8781956198651313000
+    second: hat_lucky_walk_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hat_lucky_walk_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 107
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69319de4955b5fc0800000000000000
+      internalID: -3505113786848560788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_walk_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 108
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3a7b684957291c0800000000000000
+      internalID: -4498403797013912656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_walk_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 109
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d02b31f979fde350800000000000000
+      internalID: 6047764176761987281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_walk_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 107
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1769cd48497511680800000000000000
+      internalID: -8786145102627301775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_walk_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 107
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d38654f987c18a0800000000000000
+      internalID: -6333054350530167495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_walk_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 108
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec22a12d80fb22c0800000000000000
+      internalID: -4455202917407642393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_walk_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 109
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc11b4831f9998d0800000000000000
+      internalID: -2839063183900992258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_walk_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 107
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa67b2ccc3ea7c6f0800000000000000
+      internalID: -664370843867187537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_walk_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 75
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 295af3d2d7bdbf870800000000000000
+      internalID: 8717802834382267794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_walk_9
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 76
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c29e42d95893b430800000000000000
+      internalID: 3797546422351336129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_walk_10
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 77
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f425873d59fc4c0800000000000000
+      internalID: -4265025586607272101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_walk_11
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 75
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4475d2f0d2b833fc0800000000000000
+      internalID: -3516313858401806524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_walk_12
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 75
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a443b5d43c11750800000000000000
+      internalID: 6274010492913863253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_walk_13
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 76
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6dd11a317f891e0800000000000000
+      internalID: -2190729555036219691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_walk_14
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 77
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a572fd82f017480800000000000000
+      internalID: -8903318320117753230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_walk_15
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 75
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41d7fc767331eb80800000000000000
+      internalID: -8367350048681897650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_walk_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 43
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697d11c5e429f8ff0800000000000000
+      internalID: -31645807118526570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_walk_17
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 44
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190c7bff9317380a0800000000000000
+      internalID: -6880531311774678895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_walk_18
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 45
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498fb174d282e9780800000000000000
+      internalID: -8674451657337341804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_walk_19
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 43
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c448f40f5b28750800000000000000
+      internalID: 6305802472002964637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_walk_20
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 43
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d644c2721110c2570800000000000000
+      internalID: 8443124574596121709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_walk_21
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 44
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca68be889cfee010800000000000000
+      internalID: 1220190281223662277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_walk_22
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 45
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a80a15147c22701e0800000000000000
+      internalID: -2231776851149086582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_walk_23
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 43
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2515172dfe3419440800000000000000
+      internalID: 4940804963509031250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_walk_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 11
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd3e25ef99ee67a0800000000000000
+      internalID: -6381906748983329291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_walk_25
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 12
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88441623cb2b769b0800000000000000
+      internalID: -5086900732722854776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_walk_26
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 13
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4732ccaf1690a4be0800000000000000
+      internalID: -1492370010095737996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_walk_27
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 11
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0537d28ebb55ebda0800000000000000
+      internalID: -5927205794030455984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_walk_28
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 11
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48f11f08050ad970800000000000000
+      internalID: 8780335955682916431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_walk_29
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 12
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f686b0e0385ea820800000000000000
+      internalID: 2931377374416504565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_walk_30
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 13
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a15bf965a9148470800000000000000
+      internalID: 8395863803563823525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_walk_31
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 11
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894495abd59302680800000000000000
+      internalID: -8781956198651313000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hat_lucky_walk_0: -3505113786848560788
+      hat_lucky_walk_1: -4498403797013912656
+      hat_lucky_walk_10: -4265025586607272101
+      hat_lucky_walk_11: -3516313858401806524
+      hat_lucky_walk_12: 6274010492913863253
+      hat_lucky_walk_13: -2190729555036219691
+      hat_lucky_walk_14: -8903318320117753230
+      hat_lucky_walk_15: -8367350048681897650
+      hat_lucky_walk_16: -31645807118526570
+      hat_lucky_walk_17: -6880531311774678895
+      hat_lucky_walk_18: -8674451657337341804
+      hat_lucky_walk_19: 6305802472002964637
+      hat_lucky_walk_2: 6047764176761987281
+      hat_lucky_walk_20: 8443124574596121709
+      hat_lucky_walk_21: 1220190281223662277
+      hat_lucky_walk_22: -2231776851149086582
+      hat_lucky_walk_23: 4940804963509031250
+      hat_lucky_walk_24: -6381906748983329291
+      hat_lucky_walk_25: -5086900732722854776
+      hat_lucky_walk_26: -1492370010095737996
+      hat_lucky_walk_27: -5927205794030455984
+      hat_lucky_walk_28: 8780335955682916431
+      hat_lucky_walk_29: 2931377374416504565
+      hat_lucky_walk_3: -8786145102627301775
+      hat_lucky_walk_30: 8395863803563823525
+      hat_lucky_walk_31: -8781956198651313000
+      hat_lucky_walk_4: -6333054350530167495
+      hat_lucky_walk_5: -4455202917407642393
+      hat_lucky_walk_6: -2839063183900992258
+      hat_lucky_walk_7: -664370843867187537
+      hat_lucky_walk_8: 8717802834382267794
+      hat_lucky_walk_9: 3797546422351336129
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

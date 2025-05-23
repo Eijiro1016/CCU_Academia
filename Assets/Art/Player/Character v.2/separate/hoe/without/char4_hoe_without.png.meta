@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: dcdc40626e5d81a4fa81577ae75f23e9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2009853383856525775
+    second: char4_hoe_without_0
+  - first:
+      213: 5674348646678780455
+    second: char4_hoe_without_1
+  - first:
+      213: 5836106579045423523
+    second: char4_hoe_without_2
+  - first:
+      213: 6409514563926250579
+    second: char4_hoe_without_3
+  - first:
+      213: 5221559288162302786
+    second: char4_hoe_without_4
+  - first:
+      213: -4884906870440694975
+    second: char4_hoe_without_5
+  - first:
+      213: 6442756130021362138
+    second: char4_hoe_without_6
+  - first:
+      213: -920365751711285563
+    second: char4_hoe_without_7
+  - first:
+      213: 2119118565222146524
+    second: char4_hoe_without_8
+  - first:
+      213: 4321210514518389192
+    second: char4_hoe_without_9
+  - first:
+      213: -2770764787692401012
+    second: char4_hoe_without_10
+  - first:
+      213: 5858869043025970952
+    second: char4_hoe_without_11
+  - first:
+      213: -3224611723096453731
+    second: char4_hoe_without_12
+  - first:
+      213: -1346287851849049716
+    second: char4_hoe_without_13
+  - first:
+      213: -1298420925777874278
+    second: char4_hoe_without_14
+  - first:
+      213: -1571773047759193872
+    second: char4_hoe_without_15
+  - first:
+      213: 5977472426472042052
+    second: char4_hoe_without_16
+  - first:
+      213: 8170331825521140193
+    second: char4_hoe_without_17
+  - first:
+      213: 342026135348366727
+    second: char4_hoe_without_18
+  - first:
+      213: -5441956504565467701
+    second: char4_hoe_without_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: char4_hoe_without_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 103
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc19263010f64eb10800000000000000
+      internalID: 2009853383856525775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char4_hoe_without_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 101
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ad109b7065fbe40800000000000000
+      internalID: 5674348646678780455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char4_hoe_without_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 101
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9925b33040ef050800000000000000
+      internalID: 5836106579045423523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char4_hoe_without_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 101
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354548d698b23f850800000000000000
+      internalID: 6409514563926250579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char4_hoe_without_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 101
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b3e80f184b67840800000000000000
+      internalID: 5221559288162302786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char4_hoe_without_5
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 63
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b648a2513553cb0800000000000000
+      internalID: -4884906870440694975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char4_hoe_without_6
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 63
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9c468a094496950800000000000000
+      internalID: 6442756130021362138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char4_hoe_without_7
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 63
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce30d1a9343a33f0800000000000000
+      internalID: -920365751711285563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char4_hoe_without_8
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 63
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd160058b1f986d10800000000000000
+      internalID: 2119118565222146524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char4_hoe_without_9
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 63
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c13d85711608fb30800000000000000
+      internalID: 4321210514518389192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char4_hoe_without_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 32
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e0f611b144c89d0800000000000000
+      internalID: -2770764787692401012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char4_hoe_without_11
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 32
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807881f5a52ee4150800000000000000
+      internalID: 5858869043025970952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char4_hoe_without_12
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 32
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d864af8b0ef33d0800000000000000
+      internalID: -3224611723096453731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char4_hoe_without_13
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 32
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c891d19e456015de0800000000000000
+      internalID: -1346287851849049716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char4_hoe_without_14
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 32
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92731e1c051bfde0800000000000000
+      internalID: -1298420925777874278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char4_hoe_without_15
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8b7cc9db0ff2ae0800000000000000
+      internalID: -1571773047759193872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char4_hoe_without_16
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44eee8a708f34f250800000000000000
+      internalID: 5977472426472042052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char4_hoe_without_17
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1a14dc189d26170800000000000000
+      internalID: 8170331825521140193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char4_hoe_without_18
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78dc65d35fe1fb400800000000000000
+      internalID: 342026135348366727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char4_hoe_without_19
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 0
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5bf3e44694a74b0800000000000000
+      internalID: -5441956504565467701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      char4_hoe_without_0: 2009853383856525775
+      char4_hoe_without_1: 5674348646678780455
+      char4_hoe_without_10: -2770764787692401012
+      char4_hoe_without_11: 5858869043025970952
+      char4_hoe_without_12: -3224611723096453731
+      char4_hoe_without_13: -1346287851849049716
+      char4_hoe_without_14: -1298420925777874278
+      char4_hoe_without_15: -1571773047759193872
+      char4_hoe_without_16: 5977472426472042052
+      char4_hoe_without_17: 8170331825521140193
+      char4_hoe_without_18: 342026135348366727
+      char4_hoe_without_19: -5441956504565467701
+      char4_hoe_without_2: 5836106579045423523
+      char4_hoe_without_3: 6409514563926250579
+      char4_hoe_without_4: 5221559288162302786
+      char4_hoe_without_5: -4884906870440694975
+      char4_hoe_without_6: 6442756130021362138
+      char4_hoe_without_7: -920365751711285563
+      char4_hoe_without_8: 2119118565222146524
+      char4_hoe_without_9: 4321210514518389192
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

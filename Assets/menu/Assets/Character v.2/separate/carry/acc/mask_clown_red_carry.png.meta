@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: 913198718bd72294c9431bf5fb71bd4f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7066984293549758903
+    second: mask_clown_red_carry_0
+  - first:
+      213: -3074267605975994658
+    second: mask_clown_red_carry_1
+  - first:
+      213: -444434722242539322
+    second: mask_clown_red_carry_2
+  - first:
+      213: -629104470721666549
+    second: mask_clown_red_carry_3
+  - first:
+      213: 1505652196424502998
+    second: mask_clown_red_carry_4
+  - first:
+      213: -8757146996941125440
+    second: mask_clown_red_carry_5
+  - first:
+      213: -2376048671903490457
+    second: mask_clown_red_carry_6
+  - first:
+      213: -8188416989861071188
+    second: mask_clown_red_carry_7
+  - first:
+      213: -2661136187004619138
+    second: mask_clown_red_carry_8
+  - first:
+      213: -2001945132038082123
+    second: mask_clown_red_carry_9
+  - first:
+      213: -6312775872060774867
+    second: mask_clown_red_carry_10
+  - first:
+      213: -191732615662762291
+    second: mask_clown_red_carry_11
+  - first:
+      213: -439722175447380152
+    second: mask_clown_red_carry_12
+  - first:
+      213: 5800793807665352736
+    second: mask_clown_red_carry_13
+  - first:
+      213: -4301513167081541099
+    second: mask_clown_red_carry_14
+  - first:
+      213: 3556355359540471789
+    second: mask_clown_red_carry_15
+  - first:
+      213: 8237923472457052168
+    second: mask_clown_red_carry_16
+  - first:
+      213: -5987183044839978024
+    second: mask_clown_red_carry_17
+  - first:
+      213: 4380988515946818569
+    second: mask_clown_red_carry_18
+  - first:
+      213: -2910987850459154942
+    second: mask_clown_red_carry_19
+  - first:
+      213: -5269880555084161139
+    second: mask_clown_red_carry_20
+  - first:
+      213: 4042142517386967900
+    second: mask_clown_red_carry_21
+  - first:
+      213: -3695279557963075997
+    second: mask_clown_red_carry_22
+  - first:
+      213: 3412584142149340716
+    second: mask_clown_red_carry_23
+  - first:
+      213: -5683015791367370811
+    second: mask_clown_red_carry_24
+  - first:
+      213: -3985325225484412363
+    second: mask_clown_red_carry_25
+  - first:
+      213: -3198086219340732256
+    second: mask_clown_red_carry_26
+  - first:
+      213: -7091301057952911338
+    second: mask_clown_red_carry_27
+  - first:
+      213: -7141142529686801768
+    second: mask_clown_red_carry_28
+  - first:
+      213: -1531589219229941161
+    second: mask_clown_red_carry_29
+  - first:
+      213: -209472786310160643
+    second: mask_clown_red_carry_30
+  - first:
+      213: 1904068528946237953
+    second: mask_clown_red_carry_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mask_clown_red_carry_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 101
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946a3bd3a370ded90800000000000000
+      internalID: -7066984293549758903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_red_carry_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 102
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede6f4986e10655d0800000000000000
+      internalID: -3074267605975994658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_red_carry_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 103
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c052ee89fc05d9f0800000000000000
+      internalID: -444434722242539322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_red_carry_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 101
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02660821d8f447f0800000000000000
+      internalID: -629104470721666549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_red_carry_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 101
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de4b2302b625e410800000000000000
+      internalID: 1505652196424502998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_red_carry_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 102
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c80271243d587680800000000000000
+      internalID: -8757146996941125440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_red_carry_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 103
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e572e5254960fd0800000000000000
+      internalID: -2376048671903490457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_red_carry_7
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 101
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6be8eb126ec5e80800000000000000
+      internalID: -8188416989861071188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_red_carry_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 71
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76f6aabcbeb11bd0800000000000000
+      internalID: -2661136187004619138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_red_carry_9
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 72
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b13c095289a734e0800000000000000
+      internalID: -2001945132038082123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_red_carry_10
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 73
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2629277ac38468a0800000000000000
+      internalID: -6312775872060774867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_red_carry_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 71
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6809fa334d65df0800000000000000
+      internalID: -191732615662762291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_red_carry_12
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 71
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84fc89cd20bc5e9f0800000000000000
+      internalID: -439722175447380152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_red_carry_13
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 72
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020dd21fb3f808050800000000000000
+      internalID: 5800793807665352736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_red_carry_14
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 73
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512707f9094fd44c0800000000000000
+      internalID: -4301513167081541099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_red_carry_15
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 71
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7677c6b56ba5130800000000000000
+      internalID: 3556355359540471789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_red_carry_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 37
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800b7a670cbf25270800000000000000
+      internalID: 8237923472457052168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_red_carry_17
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 38
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db421ffdb049eca0800000000000000
+      internalID: -5987183044839978024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_red_carry_18
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 39
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c631208d56ccc30800000000000000
+      internalID: 4380988515946818569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_red_carry_19
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 37
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20677eb19f71a97d0800000000000000
+      internalID: -2910987850459154942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_red_carry_20
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 37
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f58716e8f9dd6b0800000000000000
+      internalID: -5269880555084161139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_red_carry_21
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 38
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b7a501433981830800000000000000
+      internalID: 4042142517386967900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_red_carry_22
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 39
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e29d902dab7bcc0800000000000000
+      internalID: -3695279557963075997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_red_carry_23
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 37
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e41f6523feb5f20800000000000000
+      internalID: 3412584142149340716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_red_carry_24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 5
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7cc966f3fd121b0800000000000000
+      internalID: -5683015791367370811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_red_carry_25
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 6
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a199492d741b8c0800000000000000
+      internalID: -3985325225484412363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_red_carry_26
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 7
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8af17178d1e93d0800000000000000
+      internalID: -3198086219340732256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_red_carry_27
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 5
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6107d555243a69d90800000000000000
+      internalID: -7091301057952911338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_red_carry_28
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 5
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892759364b095ec90800000000000000
+      internalID: -7141142529686801768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_red_carry_29
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 6
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7524bf548b3bebae0800000000000000
+      internalID: -1531589219229941161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_red_carry_30
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 7
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe1fd55c9dc71df0800000000000000
+      internalID: -209472786310160643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_red_carry_31
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 5
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10257d72d3c9c6a10800000000000000
+      internalID: 1904068528946237953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mask_clown_red_carry_0: -7066984293549758903
+      mask_clown_red_carry_1: -3074267605975994658
+      mask_clown_red_carry_10: -6312775872060774867
+      mask_clown_red_carry_11: -191732615662762291
+      mask_clown_red_carry_12: -439722175447380152
+      mask_clown_red_carry_13: 5800793807665352736
+      mask_clown_red_carry_14: -4301513167081541099
+      mask_clown_red_carry_15: 3556355359540471789
+      mask_clown_red_carry_16: 8237923472457052168
+      mask_clown_red_carry_17: -5987183044839978024
+      mask_clown_red_carry_18: 4380988515946818569
+      mask_clown_red_carry_19: -2910987850459154942
+      mask_clown_red_carry_2: -444434722242539322
+      mask_clown_red_carry_20: -5269880555084161139
+      mask_clown_red_carry_21: 4042142517386967900
+      mask_clown_red_carry_22: -3695279557963075997
+      mask_clown_red_carry_23: 3412584142149340716
+      mask_clown_red_carry_24: -5683015791367370811
+      mask_clown_red_carry_25: -3985325225484412363
+      mask_clown_red_carry_26: -3198086219340732256
+      mask_clown_red_carry_27: -7091301057952911338
+      mask_clown_red_carry_28: -7141142529686801768
+      mask_clown_red_carry_29: -1531589219229941161
+      mask_clown_red_carry_3: -629104470721666549
+      mask_clown_red_carry_30: -209472786310160643
+      mask_clown_red_carry_31: 1904068528946237953
+      mask_clown_red_carry_4: 1505652196424502998
+      mask_clown_red_carry_5: -8757146996941125440
+      mask_clown_red_carry_6: -2376048671903490457
+      mask_clown_red_carry_7: -8188416989861071188
+      mask_clown_red_carry_8: -2661136187004619138
+      mask_clown_red_carry_9: -2001945132038082123
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

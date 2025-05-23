@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 0fe3a0fccd201f14bb5d7aaed854dc20
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8498827776464100346
+    second: char4_pickaxe_0
+  - first:
+      213: 4148936557699209024
+    second: char4_pickaxe_1
+  - first:
+      213: -6361060257819713237
+    second: char4_pickaxe_2
+  - first:
+      213: 6686744730021170083
+    second: char4_pickaxe_3
+  - first:
+      213: 3939304316138439813
+    second: char4_pickaxe_4
+  - first:
+      213: -443485342840676861
+    second: char4_pickaxe_5
+  - first:
+      213: -6722572440427163977
+    second: char4_pickaxe_6
+  - first:
+      213: -8977086190503919030
+    second: char4_pickaxe_7
+  - first:
+      213: -8493935176547611623
+    second: char4_pickaxe_8
+  - first:
+      213: 6889486207842817300
+    second: char4_pickaxe_9
+  - first:
+      213: -7400835303056954093
+    second: char4_pickaxe_10
+  - first:
+      213: -3651843609019748249
+    second: char4_pickaxe_11
+  - first:
+      213: -4891519776518665104
+    second: char4_pickaxe_12
+  - first:
+      213: 7798214045411089391
+    second: char4_pickaxe_13
+  - first:
+      213: 4789130072398795153
+    second: char4_pickaxe_14
+  - first:
+      213: -888063930855079789
+    second: char4_pickaxe_15
+  - first:
+      213: 554989101856040804
+    second: char4_pickaxe_16
+  - first:
+      213: 3753779388489204449
+    second: char4_pickaxe_17
+  - first:
+      213: -8224304992055290350
+    second: char4_pickaxe_18
+  - first:
+      213: -5139498446731255542
+    second: char4_pickaxe_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: char4_pickaxe_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 95
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60462a08a291e0a80800000000000000
+      internalID: -8498827776464100346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char4_pickaxe_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 95
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0471b4531dbf39930800000000000000
+      internalID: 4148936557699209024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char4_pickaxe_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 95
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b212dc9d569f8b7a0800000000000000
+      internalID: -6361060257819713237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char4_pickaxe_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 95
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab80a077e61ccc50800000000000000
+      internalID: 6686744730021170083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char4_pickaxe_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 95
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584489977683ba630800000000000000
+      internalID: 3939304316138439813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char4_pickaxe_5
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 63
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e93ec2e6c68d9f0800000000000000
+      internalID: -443485342840676861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char4_pickaxe_6
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 63
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be028fabff94b2a0800000000000000
+      internalID: -6722572440427163977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char4_pickaxe_7
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 63
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4203f02cabfa6380800000000000000
+      internalID: -8977086190503919030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char4_pickaxe_8
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 63
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c4fa0b5fa7f1a80800000000000000
+      internalID: -8493935176547611623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char4_pickaxe_9
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 64
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4159c67343f5c9f50800000000000000
+      internalID: 6889486207842817300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char4_pickaxe_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 31
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31dae10d083fa4990800000000000000
+      internalID: -7400835303056954093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char4_pickaxe_11
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 31
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760f81df59b025dc0800000000000000
+      internalID: -3651843609019748249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char4_pickaxe_12
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 31
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c8eccfda4dd1cb0800000000000000
+      internalID: -4891519776518665104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char4_pickaxe_13
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 31
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb903b8b52d83c60800000000000000
+      internalID: 7798214045411089391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char4_pickaxe_14
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 31
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191987c4d68667240800000000000000
+      internalID: 4789130072398795153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char4_pickaxe_15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390cb8f5f86fca3f0800000000000000
+      internalID: -888063930855079789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char4_pickaxe_16
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467a75ec5a7b3b700800000000000000
+      internalID: 554989101856040804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char4_pickaxe_17
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 0
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e20518277a181430800000000000000
+      internalID: 3753779388489204449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char4_pickaxe_18
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 0
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21692181f266ddd80800000000000000
+      internalID: -8224304992055290350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char4_pickaxe_19
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0169e69465dca8b0800000000000000
+      internalID: -5139498446731255542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      char4_pickaxe_0: -8498827776464100346
+      char4_pickaxe_1: 4148936557699209024
+      char4_pickaxe_10: -7400835303056954093
+      char4_pickaxe_11: -3651843609019748249
+      char4_pickaxe_12: -4891519776518665104
+      char4_pickaxe_13: 7798214045411089391
+      char4_pickaxe_14: 4789130072398795153
+      char4_pickaxe_15: -888063930855079789
+      char4_pickaxe_16: 554989101856040804
+      char4_pickaxe_17: 3753779388489204449
+      char4_pickaxe_18: -8224304992055290350
+      char4_pickaxe_19: -5139498446731255542
+      char4_pickaxe_2: -6361060257819713237
+      char4_pickaxe_3: 6686744730021170083
+      char4_pickaxe_4: 3939304316138439813
+      char4_pickaxe_5: -443485342840676861
+      char4_pickaxe_6: -6722572440427163977
+      char4_pickaxe_7: -8977086190503919030
+      char4_pickaxe_8: -8493935176547611623
+      char4_pickaxe_9: 6889486207842817300
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

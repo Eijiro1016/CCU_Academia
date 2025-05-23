@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: 94a29f4a452876547828cdf48347a429
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2528354192136865570
+    second: hat_witch_walk_0
+  - first:
+      213: 610256922656071641
+    second: hat_witch_walk_1
+  - first:
+      213: -2616347440785819284
+    second: hat_witch_walk_2
+  - first:
+      213: -2429113400694871866
+    second: hat_witch_walk_3
+  - first:
+      213: 6201778529176444801
+    second: hat_witch_walk_4
+  - first:
+      213: 9179800163498639802
+    second: hat_witch_walk_5
+  - first:
+      213: -2079180481214440002
+    second: hat_witch_walk_6
+  - first:
+      213: 7778260860475383515
+    second: hat_witch_walk_7
+  - first:
+      213: -8539796761667521841
+    second: hat_witch_walk_8
+  - first:
+      213: 3025351611072166986
+    second: hat_witch_walk_9
+  - first:
+      213: -1596869840175044368
+    second: hat_witch_walk_10
+  - first:
+      213: 1748349128649102508
+    second: hat_witch_walk_11
+  - first:
+      213: 6136483538524477017
+    second: hat_witch_walk_12
+  - first:
+      213: -2355819556202974260
+    second: hat_witch_walk_13
+  - first:
+      213: -8073594213026530595
+    second: hat_witch_walk_14
+  - first:
+      213: 5445542894226270989
+    second: hat_witch_walk_15
+  - first:
+      213: 1571416153523701310
+    second: hat_witch_walk_16
+  - first:
+      213: -8800866903318280213
+    second: hat_witch_walk_17
+  - first:
+      213: -8314618417113986732
+    second: hat_witch_walk_18
+  - first:
+      213: 2409566986364324311
+    second: hat_witch_walk_19
+  - first:
+      213: -2295063656095727009
+    second: hat_witch_walk_20
+  - first:
+      213: 9210391221226189403
+    second: hat_witch_walk_21
+  - first:
+      213: -5636698473823539265
+    second: hat_witch_walk_22
+  - first:
+      213: 3559478557764855082
+    second: hat_witch_walk_23
+  - first:
+      213: -2965249800744966829
+    second: hat_witch_walk_24
+  - first:
+      213: -5381543663214908494
+    second: hat_witch_walk_25
+  - first:
+      213: -4108228039326905690
+    second: hat_witch_walk_26
+  - first:
+      213: -6820054907974958471
+    second: hat_witch_walk_27
+  - first:
+      213: 7568395224579491395
+    second: hat_witch_walk_28
+  - first:
+      213: -2843761719661694621
+    second: hat_witch_walk_29
+  - first:
+      213: 4432201208747798360
+    second: hat_witch_walk_30
+  - first:
+      213: -316962982667181693
+    second: hat_witch_walk_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hat_witch_walk_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 107
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8ff4f024b79ecd0800000000000000
+      internalID: -2528354192136865570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_walk_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 108
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df53a81071187800800000000000000
+      internalID: 610256922656071641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_walk_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 109
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6975f65dddd0bbd0800000000000000
+      internalID: -2616347440785819284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_walk_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 107
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8e0786b3e0a4ed0800000000000000
+      internalID: -2429113400694871866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_walk_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 107
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18fd43fb6b4211650800000000000000
+      internalID: 6201778529176444801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_walk_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 108
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1c86eac93356f70800000000000000
+      internalID: 9179800163498639802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_walk_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 109
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd99494e544523e0800000000000000
+      internalID: -2079180481214440002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_walk_7
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 107
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde95f6aa0fe1fb60800000000000000
+      internalID: 7778260860475383515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_walk_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 75
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2b6ce471c8c7980800000000000000
+      internalID: -8539796761667521841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_walk_9
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 76
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4cbc92e2453cf920800000000000000
+      internalID: 3025351611072166986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_walk_10
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 77
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8e4d74757c6d9e0800000000000000
+      internalID: -1596869840175044368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_walk_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 75
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca45e74f442634810800000000000000
+      internalID: 1748349128649102508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_walk_12
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 75
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95698cb044b292550800000000000000
+      internalID: 6136483538524477017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_walk_13
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 76
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc37a9568927e4fd0800000000000000
+      internalID: -2355819556202974260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_walk_14
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 77
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda77e7c6d4d4ff80800000000000000
+      internalID: -8073594213026530595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_walk_15
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 75
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b628b1964729b40800000000000000
+      internalID: 5445542894226270989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_walk_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 43
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3647197aaacec510800000000000000
+      internalID: 1571416153523701310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_walk_17
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 44
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7c8303e2a0dd580800000000000000
+      internalID: -8800866903318280213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_walk_18
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 45
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45900053a9a8c9c80800000000000000
+      internalID: -8314618417113986732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_walk_19
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 43
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d901cc5860807120800000000000000
+      internalID: 2409566986364324311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_walk_20
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 43
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f524189b3cb4620e0800000000000000
+      internalID: -2295063656095727009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_walk_21
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 44
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5230975402e1df70800000000000000
+      internalID: 9210391221226189403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_walk_22
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 45
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbfe2c14a9c66c1b0800000000000000
+      internalID: -5636698473823539265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_walk_23
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 43
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25a13da3eec56130800000000000000
+      internalID: 3559478557764855082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_walk_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 11
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3556c4c440159d6d0800000000000000
+      internalID: -2965249800744966829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_walk_25
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 12
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb22da0d8ae055b0800000000000000
+      internalID: -5381543663214908494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_walk_26
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 13
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aace935d54acf6c0800000000000000
+      internalID: -4108228039326905690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_walk_27
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 11
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9724e75023c4a51a0800000000000000
+      internalID: -6820054907974958471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_walk_28
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 11
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346c2d09b57580960800000000000000
+      internalID: 7568395224579491395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_walk_29
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 12
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361f5b968cde888d0800000000000000
+      internalID: -2843761719661694621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_walk_30
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 13
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f287c3487528d30800000000000000
+      internalID: 4432201208747798360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_walk_31
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 11
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381ac2bb8dbe99bf0800000000000000
+      internalID: -316962982667181693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hat_witch_walk_0: -2528354192136865570
+      hat_witch_walk_1: 610256922656071641
+      hat_witch_walk_10: -1596869840175044368
+      hat_witch_walk_11: 1748349128649102508
+      hat_witch_walk_12: 6136483538524477017
+      hat_witch_walk_13: -2355819556202974260
+      hat_witch_walk_14: -8073594213026530595
+      hat_witch_walk_15: 5445542894226270989
+      hat_witch_walk_16: 1571416153523701310
+      hat_witch_walk_17: -8800866903318280213
+      hat_witch_walk_18: -8314618417113986732
+      hat_witch_walk_19: 2409566986364324311
+      hat_witch_walk_2: -2616347440785819284
+      hat_witch_walk_20: -2295063656095727009
+      hat_witch_walk_21: 9210391221226189403
+      hat_witch_walk_22: -5636698473823539265
+      hat_witch_walk_23: 3559478557764855082
+      hat_witch_walk_24: -2965249800744966829
+      hat_witch_walk_25: -5381543663214908494
+      hat_witch_walk_26: -4108228039326905690
+      hat_witch_walk_27: -6820054907974958471
+      hat_witch_walk_28: 7568395224579491395
+      hat_witch_walk_29: -2843761719661694621
+      hat_witch_walk_3: -2429113400694871866
+      hat_witch_walk_30: 4432201208747798360
+      hat_witch_walk_31: -316962982667181693
+      hat_witch_walk_4: 6201778529176444801
+      hat_witch_walk_5: 9179800163498639802
+      hat_witch_walk_6: -2079180481214440002
+      hat_witch_walk_7: 7778260860475383515
+      hat_witch_walk_8: -8539796761667521841
+      hat_witch_walk_9: 3025351611072166986
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 51d70dac5cfb2d747b83a3395a4a63f2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5667357218997826702
+    second: mask_spooky_pickup_0
+  - first:
+      213: -8625884281497962470
+    second: mask_spooky_pickup_1
+  - first:
+      213: -54393855952770870
+    second: mask_spooky_pickup_2
+  - first:
+      213: 625335128016560795
+    second: mask_spooky_pickup_3
+  - first:
+      213: -2367278693051827176
+    second: mask_spooky_pickup_4
+  - first:
+      213: 8660499069036580683
+    second: mask_spooky_pickup_5
+  - first:
+      213: -2046682682995627450
+    second: mask_spooky_pickup_6
+  - first:
+      213: -3654598262139995103
+    second: mask_spooky_pickup_7
+  - first:
+      213: -3523501453607452890
+    second: mask_spooky_pickup_8
+  - first:
+      213: 1435965617359726475
+    second: mask_spooky_pickup_9
+  - first:
+      213: -1656006390127141856
+    second: mask_spooky_pickup_10
+  - first:
+      213: 700972306303989431
+    second: mask_spooky_pickup_11
+  - first:
+      213: 1151391854643878451
+    second: mask_spooky_pickup_12
+  - first:
+      213: -8760015174226362294
+    second: mask_spooky_pickup_13
+  - first:
+      213: -7593630003341645288
+    second: mask_spooky_pickup_14
+  - first:
+      213: 2045765184429690486
+    second: mask_spooky_pickup_15
+  - first:
+      213: 8913477580893899463
+    second: mask_spooky_pickup_16
+  - first:
+      213: -7394871264614456908
+    second: mask_spooky_pickup_17
+  - first:
+      213: 7950280116189936710
+    second: mask_spooky_pickup_18
+  - first:
+      213: 80366321337697491
+    second: mask_spooky_pickup_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mask_spooky_pickup_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 101
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b8362e2a08951b0800000000000000
+      internalID: -5667357218997826702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_pickup_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 100
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1830b7a2f3ba4880800000000000000
+      internalID: -8625884281497962470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_pickup_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 101
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8a8f18311ce3ff0800000000000000
+      internalID: -54393855952770870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_pickup_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 101
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92200b5cf2ada800800000000000000
+      internalID: 625335128016560795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_pickup_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 101
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c7b40329cb52fd0800000000000000
+      internalID: -2367278693051827176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_pickup_5
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 73
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4fc68b9406403870800000000000000
+      internalID: 8660499069036580683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_pickup_6
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 74
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a2a1091f8b893e0800000000000000
+      internalID: -2046682682995627450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_pickup_7
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 74
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12cb2645e32484dc0800000000000000
+      internalID: -3654598262139995103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_pickup_8
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 73
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62fb724a8120a1fc0800000000000000
+      internalID: -3523501453607452890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_pickup_9
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 73
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87a664fe139de310800000000000000
+      internalID: 1435965617359726475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_pickup_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 37
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02cd1ba46fea409e0800000000000000
+      internalID: -1656006390127141856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_pickup_11
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 36
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6b2a2499a5ab900800000000000000
+      internalID: 700972306303989431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_pickup_12
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 36
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a935d9ac09aff00800000000000000
+      internalID: 1151391854643878451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_pickup_13
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 37
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40c4319c9c2e6680800000000000000
+      internalID: -8760015174226362294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_pickup_14
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 37
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81aa217aeb10e9690800000000000000
+      internalID: -7593630003341645288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_pickup_15
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 5
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e0bc7a894046c10800000000000000
+      internalID: 2045765184429690486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_pickup_16
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 4
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cac69a52a803bb70800000000000000
+      internalID: 8913477580893899463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_pickup_17
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 4
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b169e8b3c3206990800000000000000
+      internalID: -7394871264614456908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_pickup_18
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 5
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c3a5ea4a1155e60800000000000000
+      internalID: 7950280116189936710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_pickup_19
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 5
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d40d335eb48d1100800000000000000
+      internalID: 80366321337697491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mask_spooky_pickup_0: -5667357218997826702
+      mask_spooky_pickup_1: -8625884281497962470
+      mask_spooky_pickup_10: -1656006390127141856
+      mask_spooky_pickup_11: 700972306303989431
+      mask_spooky_pickup_12: 1151391854643878451
+      mask_spooky_pickup_13: -8760015174226362294
+      mask_spooky_pickup_14: -7593630003341645288
+      mask_spooky_pickup_15: 2045765184429690486
+      mask_spooky_pickup_16: 8913477580893899463
+      mask_spooky_pickup_17: -7394871264614456908
+      mask_spooky_pickup_18: 7950280116189936710
+      mask_spooky_pickup_19: 80366321337697491
+      mask_spooky_pickup_2: -54393855952770870
+      mask_spooky_pickup_3: 625335128016560795
+      mask_spooky_pickup_4: -2367278693051827176
+      mask_spooky_pickup_5: 8660499069036580683
+      mask_spooky_pickup_6: -2046682682995627450
+      mask_spooky_pickup_7: -3654598262139995103
+      mask_spooky_pickup_8: -3523501453607452890
+      mask_spooky_pickup_9: 1435965617359726475
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

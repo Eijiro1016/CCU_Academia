@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: 806fb63bb60730447937deca0a45c033
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1801479975120015188
+    second: mask_spooky_fish_0
+  - first:
+      213: -2748652768344033128
+    second: mask_spooky_fish_1
+  - first:
+      213: -7141316497664666437
+    second: mask_spooky_fish_2
+  - first:
+      213: 8250376879779402697
+    second: mask_spooky_fish_3
+  - first:
+      213: 5887366258234808413
+    second: mask_spooky_fish_4
+  - first:
+      213: 405913005409310163
+    second: mask_spooky_fish_5
+  - first:
+      213: 7289515242701494380
+    second: mask_spooky_fish_6
+  - first:
+      213: 5278255641253794707
+    second: mask_spooky_fish_7
+  - first:
+      213: -3691490526629159338
+    second: mask_spooky_fish_8
+  - first:
+      213: -670541314167342856
+    second: mask_spooky_fish_9
+  - first:
+      213: -7227742578827868253
+    second: mask_spooky_fish_10
+  - first:
+      213: 3722804696290603236
+    second: mask_spooky_fish_11
+  - first:
+      213: -8297752093437535322
+    second: mask_spooky_fish_12
+  - first:
+      213: -1445005800322152081
+    second: mask_spooky_fish_13
+  - first:
+      213: 3017002333923228855
+    second: mask_spooky_fish_14
+  - first:
+      213: -7790412811881213596
+    second: mask_spooky_fish_15
+  - first:
+      213: -2130468677969402809
+    second: mask_spooky_fish_16
+  - first:
+      213: -1125233522171109368
+    second: mask_spooky_fish_17
+  - first:
+      213: -3460758693998348819
+    second: mask_spooky_fish_18
+  - first:
+      213: -4335821028302104936
+    second: mask_spooky_fish_19
+  - first:
+      213: 2260969267065015692
+    second: mask_spooky_fish_20
+  - first:
+      213: -7598679408722708073
+    second: mask_spooky_fish_21
+  - first:
+      213: 3430713451108388325
+    second: mask_spooky_fish_22
+  - first:
+      213: 8390228702847579743
+    second: mask_spooky_fish_23
+  - first:
+      213: -7720855994790038261
+    second: mask_spooky_fish_24
+  - first:
+      213: -5347384710112688149
+    second: mask_spooky_fish_25
+  - first:
+      213: 8937449472643224126
+    second: mask_spooky_fish_26
+  - first:
+      213: -47146453703730110
+    second: mask_spooky_fish_27
+  - first:
+      213: -2057450005959134675
+    second: mask_spooky_fish_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mask_spooky_fish_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 107
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f02032e74200910800000000000000
+      internalID: 1801479975120015188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_fish_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 111
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898b5f3ced2dad9d0800000000000000
+      internalID: -2748652768344033128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_fish_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 105
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb49f005b72f4ec90800000000000000
+      internalID: -7141316497664666437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_fish_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 111
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3d85e4f0a3f7270800000000000000
+      internalID: 8250376879779402697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_fish_4
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 105
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58d4b45b6024b150800000000000000
+      internalID: 5887366258234808413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_fish_5
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 111
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d512215ab712a500800000000000000
+      internalID: 405913005409310163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_fish_6
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 106
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c689402ed7f892560800000000000000
+      internalID: 7289515242701494380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_fish_7
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 108
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39352a25a81204940800000000000000
+      internalID: 5278255641253794707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_fish_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 76
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e9c84ace035ccc0800000000000000
+      internalID: -3691490526629159338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_fish_9
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 76
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8f4d93a32c1b6f0800000000000000
+      internalID: -670541314167342856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_fish_10
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 77
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7cff43b66e1bb90800000000000000
+      internalID: -7227742578827868253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_fish_11
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 78
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0be82a52f0aa330800000000000000
+      internalID: 3722804696290603236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_fish_12
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 77
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6abd6643f6678dc80800000000000000
+      internalID: -8297752093437535322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_fish_13
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 43
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f694b6d61ee42fbe0800000000000000
+      internalID: -1445005800322152081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_fish_14
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 46
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bcb40053ab8ed920800000000000000
+      internalID: 3017002333923228855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_fish_15
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 40
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4611b2ea2d4e2e390800000000000000
+      internalID: -7790412811881213596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_fish_16
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 40
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744a98c660e0f62e0800000000000000
+      internalID: -2130468677969402809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_fish_17
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 45
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80021a5c21e5260f0800000000000000
+      internalID: -1125233522171109368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_fish_18
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 41
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de532eebd4ae8ffc0800000000000000
+      internalID: -3460758693998348819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_fish_19
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 40
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89652663fb114d3c0800000000000000
+      internalID: -4335821028302104936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_fish_20
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 39
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d4c7bb193906f10800000000000000
+      internalID: 2260969267065015692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_fish_21
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 11
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799f10956511c8690800000000000000
+      internalID: -7598679408722708073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_fish_22
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 8
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed487305b75c9f20800000000000000
+      internalID: 3430713451108388325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_fish_23
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 14
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5634894d84107470800000000000000
+      internalID: 8390228702847579743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_fish_24
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 8
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05389c21620ad490800000000000000
+      internalID: -7720855994790038261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_fish_25
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 9
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7c06410f54ac5b0800000000000000
+      internalID: -5347384710112688149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_fish_26
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 13
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32d6e651f2380c70800000000000000
+      internalID: 8937449472643224126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_fish_27
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 8
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24cd196dc80885ff0800000000000000
+      internalID: -47146453703730110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_fish_28
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 7
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d223ea3de187273e0800000000000000
+      internalID: -2057450005959134675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mask_spooky_fish_0: 1801479975120015188
+      mask_spooky_fish_1: -2748652768344033128
+      mask_spooky_fish_10: -7227742578827868253
+      mask_spooky_fish_11: 3722804696290603236
+      mask_spooky_fish_12: -8297752093437535322
+      mask_spooky_fish_13: -1445005800322152081
+      mask_spooky_fish_14: 3017002333923228855
+      mask_spooky_fish_15: -7790412811881213596
+      mask_spooky_fish_16: -2130468677969402809
+      mask_spooky_fish_17: -1125233522171109368
+      mask_spooky_fish_18: -3460758693998348819
+      mask_spooky_fish_19: -4335821028302104936
+      mask_spooky_fish_2: -7141316497664666437
+      mask_spooky_fish_20: 2260969267065015692
+      mask_spooky_fish_21: -7598679408722708073
+      mask_spooky_fish_22: 3430713451108388325
+      mask_spooky_fish_23: 8390228702847579743
+      mask_spooky_fish_24: -7720855994790038261
+      mask_spooky_fish_25: -5347384710112688149
+      mask_spooky_fish_26: 8937449472643224126
+      mask_spooky_fish_27: -47146453703730110
+      mask_spooky_fish_28: -2057450005959134675
+      mask_spooky_fish_3: 8250376879779402697
+      mask_spooky_fish_4: 5887366258234808413
+      mask_spooky_fish_5: 405913005409310163
+      mask_spooky_fish_6: 7289515242701494380
+      mask_spooky_fish_7: 5278255641253794707
+      mask_spooky_fish_8: -3691490526629159338
+      mask_spooky_fish_9: -670541314167342856
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,5213 @@
+fileFormatVersion: 2
+guid: 47aaf5c0153aa5b42a02bc7322fde0ba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4406202230719873180
+    second: stripe_grey_0
+  - first:
+      213: 3994513026161919792
+    second: stripe_grey_1
+  - first:
+      213: 2577875229755134715
+    second: stripe_grey_2
+  - first:
+      213: -2641507193787237501
+    second: stripe_grey_3
+  - first:
+      213: 6889374982318945012
+    second: stripe_grey_4
+  - first:
+      213: -225740335991860615
+    second: stripe_grey_5
+  - first:
+      213: -4700561863245362538
+    second: stripe_grey_6
+  - first:
+      213: 3643830000870597846
+    second: stripe_grey_7
+  - first:
+      213: 6392690085788815389
+    second: stripe_grey_8
+  - first:
+      213: 5125310039852378651
+    second: stripe_grey_9
+  - first:
+      213: 845538343757630910
+    second: stripe_grey_10
+  - first:
+      213: -532805977820152763
+    second: stripe_grey_11
+  - first:
+      213: 3055310295652348789
+    second: stripe_grey_12
+  - first:
+      213: 6287801285597676057
+    second: stripe_grey_13
+  - first:
+      213: 1455797691399717444
+    second: stripe_grey_14
+  - first:
+      213: -3244286994682878598
+    second: stripe_grey_15
+  - first:
+      213: -6015308930780661009
+    second: stripe_grey_16
+  - first:
+      213: -3995286576208721574
+    second: stripe_grey_17
+  - first:
+      213: -2565970418375450769
+    second: stripe_grey_18
+  - first:
+      213: -1660482118326802094
+    second: stripe_grey_19
+  - first:
+      213: 5812450452590420025
+    second: stripe_grey_20
+  - first:
+      213: -1962291523785297732
+    second: stripe_grey_21
+  - first:
+      213: -1175011402316687759
+    second: stripe_grey_22
+  - first:
+      213: 724505778369049976
+    second: stripe_grey_23
+  - first:
+      213: 4052675117534755188
+    second: stripe_grey_24
+  - first:
+      213: -2016929965343599514
+    second: stripe_grey_25
+  - first:
+      213: -8035049790621310103
+    second: stripe_grey_26
+  - first:
+      213: -614698730405926387
+    second: stripe_grey_27
+  - first:
+      213: -249175005495169342
+    second: stripe_grey_28
+  - first:
+      213: -2133355940082958136
+    second: stripe_grey_29
+  - first:
+      213: 3309222893203265988
+    second: stripe_grey_30
+  - first:
+      213: -1624156938868800245
+    second: stripe_grey_31
+  - first:
+      213: -1620850093267425862
+    second: stripe_grey_32
+  - first:
+      213: -625075659649027789
+    second: stripe_grey_33
+  - first:
+      213: 4839133724068226533
+    second: stripe_grey_34
+  - first:
+      213: -5809202159502966292
+    second: stripe_grey_35
+  - first:
+      213: -6808076388822308527
+    second: stripe_grey_36
+  - first:
+      213: -4256044959241878702
+    second: stripe_grey_37
+  - first:
+      213: -5285548583250040487
+    second: stripe_grey_38
+  - first:
+      213: -5993362119275430995
+    second: stripe_grey_39
+  - first:
+      213: -2859312803559782057
+    second: stripe_grey_40
+  - first:
+      213: 5994438070557478325
+    second: stripe_grey_41
+  - first:
+      213: 8498633923199152679
+    second: stripe_grey_42
+  - first:
+      213: 1748660491767309059
+    second: stripe_grey_43
+  - first:
+      213: 8700853325645617131
+    second: stripe_grey_44
+  - first:
+      213: -9032435611487613093
+    second: stripe_grey_45
+  - first:
+      213: -337613567692803983
+    second: stripe_grey_46
+  - first:
+      213: 9077868982673808957
+    second: stripe_grey_47
+  - first:
+      213: 496457874802161435
+    second: stripe_grey_48
+  - first:
+      213: 8130842710738030161
+    second: stripe_grey_49
+  - first:
+      213: 4441322085309247996
+    second: stripe_grey_50
+  - first:
+      213: -7081681092360344191
+    second: stripe_grey_51
+  - first:
+      213: 6742585987860674032
+    second: stripe_grey_52
+  - first:
+      213: -102927532955317037
+    second: stripe_grey_53
+  - first:
+      213: 9170093263894396660
+    second: stripe_grey_54
+  - first:
+      213: 4355155491557291478
+    second: stripe_grey_55
+  - first:
+      213: 8366405476435803545
+    second: stripe_grey_56
+  - first:
+      213: 6257700821997659563
+    second: stripe_grey_57
+  - first:
+      213: 4611060043887945069
+    second: stripe_grey_58
+  - first:
+      213: 1994550869155144654
+    second: stripe_grey_59
+  - first:
+      213: 2084872339838992996
+    second: stripe_grey_60
+  - first:
+      213: 4063718352505829360
+    second: stripe_grey_61
+  - first:
+      213: 4533039154659886971
+    second: stripe_grey_62
+  - first:
+      213: -4796862510299320150
+    second: stripe_grey_63
+  - first:
+      213: -3973831246593741612
+    second: stripe_grey_64
+  - first:
+      213: 4271738347277610703
+    second: stripe_grey_65
+  - first:
+      213: -5011903503799670959
+    second: stripe_grey_66
+  - first:
+      213: 2424334866113142000
+    second: stripe_grey_67
+  - first:
+      213: -5978695301788271390
+    second: stripe_grey_68
+  - first:
+      213: 46852384256957906
+    second: stripe_grey_69
+  - first:
+      213: 1307727013825586409
+    second: stripe_grey_70
+  - first:
+      213: 1930101754662051856
+    second: stripe_grey_71
+  - first:
+      213: -9018593306780653449
+    second: stripe_grey_72
+  - first:
+      213: -8084038575085281477
+    second: stripe_grey_73
+  - first:
+      213: 7931460120549112405
+    second: stripe_grey_74
+  - first:
+      213: 2286083281186171870
+    second: stripe_grey_75
+  - first:
+      213: 3199660903934501317
+    second: stripe_grey_76
+  - first:
+      213: -4738248363784445021
+    second: stripe_grey_77
+  - first:
+      213: -6868800117482124275
+    second: stripe_grey_78
+  - first:
+      213: 1650595741309766649
+    second: stripe_grey_79
+  - first:
+      213: 1599716612106826460
+    second: stripe_grey_80
+  - first:
+      213: 6640265254420493327
+    second: stripe_grey_81
+  - first:
+      213: 2220936131632671051
+    second: stripe_grey_82
+  - first:
+      213: 6220368154097110146
+    second: stripe_grey_83
+  - first:
+      213: 7879857759568695835
+    second: stripe_grey_84
+  - first:
+      213: -2880030320115815818
+    second: stripe_grey_85
+  - first:
+      213: -579564324341824234
+    second: stripe_grey_86
+  - first:
+      213: 1874118662881652238
+    second: stripe_grey_87
+  - first:
+      213: 6445347540817566523
+    second: stripe_grey_88
+  - first:
+      213: -8179003980490179096
+    second: stripe_grey_89
+  - first:
+      213: -627427913586984610
+    second: stripe_grey_90
+  - first:
+      213: 6682075738242286540
+    second: stripe_grey_91
+  - first:
+      213: -5518886831741936299
+    second: stripe_grey_92
+  - first:
+      213: -3274628320122359892
+    second: stripe_grey_93
+  - first:
+      213: -8031866250583949594
+    second: stripe_grey_94
+  - first:
+      213: -2338070405106508146
+    second: stripe_grey_95
+  - first:
+      213: -5522159793686315272
+    second: stripe_grey_96
+  - first:
+      213: 798075296341784367
+    second: stripe_grey_97
+  - first:
+      213: -900089872908864537
+    second: stripe_grey_98
+  - first:
+      213: -699219151920906542
+    second: stripe_grey_99
+  - first:
+      213: 2998673974657902805
+    second: stripe_grey_100
+  - first:
+      213: 7579940140386349305
+    second: stripe_grey_101
+  - first:
+      213: -5110094239283034709
+    second: stripe_grey_102
+  - first:
+      213: 890927007211199497
+    second: stripe_grey_103
+  - first:
+      213: 7915148058666537324
+    second: stripe_grey_104
+  - first:
+      213: -37998218322292443
+    second: stripe_grey_105
+  - first:
+      213: -752113963489419886
+    second: stripe_grey_106
+  - first:
+      213: -1537502873817993038
+    second: stripe_grey_107
+  - first:
+      213: 4252037185007531350
+    second: stripe_grey_108
+  - first:
+      213: 7050449570802785359
+    second: stripe_grey_109
+  - first:
+      213: 4070845067967260328
+    second: stripe_grey_110
+  - first:
+      213: -5054401327916951940
+    second: stripe_grey_111
+  - first:
+      213: 8387876010629689994
+    second: stripe_grey_112
+  - first:
+      213: 3395778721933321457
+    second: stripe_grey_113
+  - first:
+      213: -2485237162301422386
+    second: stripe_grey_114
+  - first:
+      213: -8095742000960503413
+    second: stripe_grey_115
+  - first:
+      213: -7292950959488986896
+    second: stripe_grey_116
+  - first:
+      213: -8865123036910408508
+    second: stripe_grey_117
+  - first:
+      213: -8828133501407147428
+    second: stripe_grey_118
+  - first:
+      213: -4165728376307011028
+    second: stripe_grey_119
+  - first:
+      213: -2517954998105330131
+    second: stripe_grey_120
+  - first:
+      213: 5927676276418873307
+    second: stripe_grey_121
+  - first:
+      213: -9123384552237775089
+    second: stripe_grey_122
+  - first:
+      213: -4441754685406592151
+    second: stripe_grey_123
+  - first:
+      213: -3512982942128841156
+    second: stripe_grey_124
+  - first:
+      213: -4247879011450304126
+    second: stripe_grey_125
+  - first:
+      213: -9090174903025671897
+    second: stripe_grey_126
+  - first:
+      213: 4568594796719988625
+    second: stripe_grey_127
+  - first:
+      213: -4571363327565786600
+    second: stripe_grey_128
+  - first:
+      213: -9042269884708921931
+    second: stripe_grey_129
+  - first:
+      213: 5558059266205870728
+    second: stripe_grey_130
+  - first:
+      213: 5878535359361034089
+    second: stripe_grey_131
+  - first:
+      213: 4400654511725519394
+    second: stripe_grey_132
+  - first:
+      213: -6636621838416961223
+    second: stripe_grey_133
+  - first:
+      213: -4712855999811081773
+    second: stripe_grey_134
+  - first:
+      213: -8855748016810194123
+    second: stripe_grey_135
+  - first:
+      213: -8691803396029594949
+    second: stripe_grey_136
+  - first:
+      213: -2724738639139739592
+    second: stripe_grey_137
+  - first:
+      213: 5083844937759838410
+    second: stripe_grey_138
+  - first:
+      213: 3024795002380191496
+    second: stripe_grey_139
+  - first:
+      213: -5053818789684585204
+    second: stripe_grey_140
+  - first:
+      213: -8611422928030067296
+    second: stripe_grey_141
+  - first:
+      213: 733199470248286452
+    second: stripe_grey_142
+  - first:
+      213: -9078148830191423457
+    second: stripe_grey_143
+  - first:
+      213: 5258090449695703093
+    second: stripe_grey_144
+  - first:
+      213: 1538356834453401490
+    second: stripe_grey_145
+  - first:
+      213: -2260287740416747982
+    second: stripe_grey_146
+  - first:
+      213: 7218363996400141156
+    second: stripe_grey_147
+  - first:
+      213: 2809824995513302247
+    second: stripe_grey_148
+  - first:
+      213: -2759707864537935251
+    second: stripe_grey_149
+  - first:
+      213: -6714718802064126168
+    second: stripe_grey_150
+  - first:
+      213: 7999287117582423628
+    second: stripe_grey_151
+  - first:
+      213: 6021962010111845071
+    second: stripe_grey_152
+  - first:
+      213: 5293182861001223796
+    second: stripe_grey_153
+  - first:
+      213: -4618624277195634604
+    second: stripe_grey_154
+  - first:
+      213: -1881228165232254306
+    second: stripe_grey_155
+  - first:
+      213: -2727943009128678972
+    second: stripe_grey_156
+  - first:
+      213: -3882615759162797339
+    second: stripe_grey_157
+  - first:
+      213: 7707409530270947346
+    second: stripe_grey_158
+  - first:
+      213: 5979381573686569244
+    second: stripe_grey_159
+  - first:
+      213: 2760934004021236763
+    second: stripe_grey_160
+  - first:
+      213: 1910125139522248885
+    second: stripe_grey_161
+  - first:
+      213: 8339195806938476832
+    second: stripe_grey_162
+  - first:
+      213: -6890206541314693403
+    second: stripe_grey_163
+  - first:
+      213: -2162066733463378655
+    second: stripe_grey_164
+  - first:
+      213: 7537084211107605356
+    second: stripe_grey_165
+  - first:
+      213: -3143418612331539690
+    second: stripe_grey_166
+  - first:
+      213: -226442228731026242
+    second: stripe_grey_167
+  - first:
+      213: -8807662613309033918
+    second: stripe_grey_168
+  - first:
+      213: 3966494526816334743
+    second: stripe_grey_169
+  - first:
+      213: -242122102252989366
+    second: stripe_grey_170
+  - first:
+      213: 8690827786573396565
+    second: stripe_grey_171
+  - first:
+      213: 330975668120607250
+    second: stripe_grey_172
+  - first:
+      213: 6702142622964961142
+    second: stripe_grey_173
+  - first:
+      213: -6885087799883132282
+    second: stripe_grey_174
+  - first:
+      213: 2996879434908084601
+    second: stripe_grey_175
+  - first:
+      213: 318415911262820385
+    second: stripe_grey_176
+  - first:
+      213: 5386901459447861990
+    second: stripe_grey_177
+  - first:
+      213: -8085994701171025396
+    second: stripe_grey_178
+  - first:
+      213: 7874228451535221013
+    second: stripe_grey_179
+  - first:
+      213: 470533998822961622
+    second: stripe_grey_180
+  - first:
+      213: 2396544390786380773
+    second: stripe_grey_181
+  - first:
+      213: -6610623567507472703
+    second: stripe_grey_182
+  - first:
+      213: 5675114509725243794
+    second: stripe_grey_183
+  - first:
+      213: -6342885231626216603
+    second: stripe_grey_184
+  - first:
+      213: -2121902208451665227
+    second: stripe_grey_185
+  - first:
+      213: -574102680853574583
+    second: stripe_grey_186
+  - first:
+      213: 396315427438267576
+    second: stripe_grey_187
+  - first:
+      213: -135567407213984343
+    second: stripe_grey_188
+  - first:
+      213: -804634141591379063
+    second: stripe_grey_189
+  - first:
+      213: -38258064949526039
+    second: stripe_grey_190
+  - first:
+      213: 6764316714176505826
+    second: stripe_grey_191
+  - first:
+      213: -5494425128584972683
+    second: stripe_grey_192
+  - first:
+      213: -7196094409314397651
+    second: stripe_grey_193
+  - first:
+      213: 1826128410300484007
+    second: stripe_grey_194
+  - first:
+      213: 2363501593896422347
+    second: stripe_grey_195
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stripe_grey_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1538
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9087927599f52d30800000000000000
+      internalID: 4406202230719873180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1539
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0374d07fe6c5f6730800000000000000
+      internalID: 3994513026161919792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1540
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf255d00dd376c320800000000000000
+      internalID: 2577875229755134715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1538
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b3caad33b775bd0800000000000000
+      internalID: -2641507193787237501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1538
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f275918b0afb9f50800000000000000
+      internalID: 6889374982318945012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1539
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9725ab54c520edcf0800000000000000
+      internalID: -225740335991860615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1540
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a0388d3ef34ceb0800000000000000
+      internalID: -4700561863245362538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_7
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1538
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4adc7741c719230800000000000000
+      internalID: 3643830000870597846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1506
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d109a9a53c567b850800000000000000
+      internalID: 6392690085788815389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_9
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1507
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ae4218352c02740800000000000000
+      internalID: 5125310039852378651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_10
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1508
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd45afc4a4fbbb00800000000000000
+      internalID: 845538343757630910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_11
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1506
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c33dd39c71b98f0800000000000000
+      internalID: -532805977820152763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_12
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1506
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573b3f2b684a66a20800000000000000
+      internalID: 3055310295652348789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_13
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1507
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9124b4e74f1c24750800000000000000
+      internalID: 6287801285597676057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_14
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1508
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442c6b48948043410800000000000000
+      internalID: 1455797691399717444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_15
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1506
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75e184da2af9f2d0800000000000000
+      internalID: -3244286994682878598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1474
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea759ed564558ca0800000000000000
+      internalID: -6015308930780661009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_17
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1475
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a594131e604ed88c0800000000000000
+      internalID: -3995286576208721574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_18
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1476
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f1294ef77d36cd0800000000000000
+      internalID: -2565970418375450769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_19
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1474
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2592e3d9f48c4f8e0800000000000000
+      internalID: -1660482118326802094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_20
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1474
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930e53514e8f9a050800000000000000
+      internalID: 5812450452590420025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_21
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1475
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0740b714a84c4e0800000000000000
+      internalID: -1962291523785297732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_22
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1477
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17651e5ea5581bfe0800000000000000
+      internalID: -1175011402316687759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_23
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1474
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875b765ba26fd0a00800000000000000
+      internalID: 724505778369049976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_24
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1442
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47939b22c8efd3830800000000000000
+      internalID: 4052675117534755188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_25
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1443
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6649ad6f1ec6204e0800000000000000
+      internalID: -2016929965343599514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_26
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1445
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963a07579c4cd7090800000000000000
+      internalID: -8035049790621310103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_27
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1442
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a6542f2c62877f0800000000000000
+      internalID: -614698730405926387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_28
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1442
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ceed8617a0ca8cf0800000000000000
+      internalID: -249175005495169342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_29
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1443
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0c2e3531cc462e0800000000000000
+      internalID: -2133355940082958136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_30
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1444
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c998f730b8bced20800000000000000
+      internalID: 3309222893203265988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_31
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1442
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b054d378ed5d579e0800000000000000
+      internalID: -1624156938868800245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_32
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1410
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5e2a48d659189e0800000000000000
+      internalID: -1620850093267425862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_33
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1409
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33170e4dff84357f0800000000000000
+      internalID: -625075659649027789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_34
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1412
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e523b3bb7e082340800000000000000
+      internalID: 4839133724068226533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_35
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1414
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1c4661a61916fa0800000000000000
+      internalID: -5809202159502966292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_36
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1410
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159a588589ad481a0800000000000000
+      internalID: -6808076388822308527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_37
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1378
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253cb48b8ad7fe4c0800000000000000
+      internalID: -4256044959241878702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_38
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1377
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959ef4c4195f5a6b0800000000000000
+      internalID: -5285548583250040487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_39
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1380
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab3e4e18ec43dca0800000000000000
+      internalID: -5993362119275430995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_40
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1382
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759c71a872ea158d0800000000000000
+      internalID: -2859312803559782057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_41
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1378
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd08af4aa5803350800000000000000
+      internalID: 5994438070557478325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_42
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1346
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722be54868631f570800000000000000
+      internalID: 8498633923199152679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_43
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1345
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303ec84d37d744810800000000000000
+      internalID: 1748660491767309059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_44
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1348
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be712e52004afb870800000000000000
+      internalID: 8700853325645617131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_45
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1350
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f41b0daa756a280800000000000000
+      internalID: -9032435611487613093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_46
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1346
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170715abf3e805bf0800000000000000
+      internalID: -337613567692803983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_47
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1314
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e1fcd3eb11bfd70800000000000000
+      internalID: 9077868982673808957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_48
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1313
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1737898ec5c3e600800000000000000
+      internalID: 496457874802161435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_49
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1316
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e4d1acd5e86d070800000000000000
+      internalID: 8130842710738030161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_50
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1319
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf174fbc7eeb2ad30800000000000000
+      internalID: 4441322085309247996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_51
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1314
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18de24d1190d8bd90800000000000000
+      internalID: -7081681092360344191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_52
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1283
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f536f17b3a729d50800000000000000
+      internalID: 6742585987860674032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_53
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1282
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc479044f3529ef0800000000000000
+      internalID: -102927532955317037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_54
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1283
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4feb0affc37b24f70800000000000000
+      internalID: 9170093263894396660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_55
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1283
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d53ddf48de907c30800000000000000
+      internalID: 4355155491557291478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_56
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1283
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99db6d524717b1470800000000000000
+      internalID: 8366405476435803545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_57
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1251
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba527dd2eb1d7d650800000000000000
+      internalID: 6257700821997659563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_58
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1252
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6520f1fda6cdff30800000000000000
+      internalID: 4611060043887945069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_59
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1252
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3607aa2711eab10800000000000000
+      internalID: 1994550869155144654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_60
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1251
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4620422d854feec10800000000000000
+      internalID: 2084872339838992996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_61
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1251
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f77854af4a356830800000000000000
+      internalID: 4063718352505829360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_62
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1219
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b778076181798ee30800000000000000
+      internalID: 4533039154659886971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_63
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1219
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0783536fe1e6db0800000000000000
+      internalID: -4796862510299320150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_64
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1219
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dcae65198d1ad8c0800000000000000
+      internalID: -3973831246593741612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_65
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1219
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce65eae463484b30800000000000000
+      internalID: 4271738347277610703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_66
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1219
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1572c774154227ab0800000000000000
+      internalID: -5011903503799670959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_67
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1187
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fc944f47b7f4a120800000000000000
+      internalID: 2424334866113142000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_68
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1187
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ecfc9cac48670da0800000000000000
+      internalID: -5978695301788271390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_69
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1187
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd1488cef376a000800000000000000
+      internalID: 46852384256957906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_70
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1187
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4a14a5acaf52210800000000000000
+      internalID: 1307727013825586409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_71
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1187
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0106dfad15919ca10800000000000000
+      internalID: 1930101754662051856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_72
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1154
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 778af978b2587d280800000000000000
+      internalID: -9018593306780653449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_73
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1155
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f9c7d3fb9bfcf80800000000000000
+      internalID: -8084038575085281477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_74
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1156
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ab18bf4f4321e60800000000000000
+      internalID: 7931460120549112405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_75
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1154
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edbaf0ec1acc9bf10800000000000000
+      internalID: 2286083281186171870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_76
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1154
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1a8bcb3aa776c20800000000000000
+      internalID: 3199660903934501317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_77
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1155
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a36d0ba73c5e3eb0800000000000000
+      internalID: -4738248363784445021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_78
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1156
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c01548fae1da0a0800000000000000
+      internalID: -6868800117482124275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_79
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1154
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb8a8cd41818e610800000000000000
+      internalID: 1650595741309766649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_80
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1122
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd23be578c5533610800000000000000
+      internalID: 1599716612106826460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_81
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1123
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f043a183116f62c50800000000000000
+      internalID: 6640265254420493327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_82
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1124
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49abca05a952de10800000000000000
+      internalID: 2220936131632671051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_83
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1122
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c4c1511ef235650800000000000000
+      internalID: 6220368154097110146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_84
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1122
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1292bf02e0ea5d60800000000000000
+      internalID: 7879857759568695835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_85
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1123
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a6423dea31808d0800000000000000
+      internalID: -2880030320115815818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_86
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1124
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615cd135159f4f7f0800000000000000
+      internalID: -579564324341824234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_87
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1122
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0eadff8ef4320a10800000000000000
+      internalID: 1874118662881652238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_88
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1090
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b5e508079727950800000000000000
+      internalID: 6445347540817566523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_89
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1091
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed7066c6375e7e80800000000000000
+      internalID: -8179003980490179096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_90
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1092
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59bb7803adea47f0800000000000000
+      internalID: -627427913586984610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_91
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1090
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc300341b708bbc50800000000000000
+      internalID: 6682075738242286540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_92
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1090
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55dd076baa9f863b0800000000000000
+      internalID: -5518886831741936299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_93
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1091
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf2caf74ee2e82d0800000000000000
+      internalID: -3274628320122359892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_94
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1093
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eebe722334198090800000000000000
+      internalID: -8031866250583949594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_95
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1090
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ed5cbaa518d8fd0800000000000000
+      internalID: -2338070405106508146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_96
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1058
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fef160ece85d53b0800000000000000
+      internalID: -5522159793686315272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_97
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1059
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27777ee045531b00800000000000000
+      internalID: 798075296341784367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_98
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1061
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3375b870d3283f0800000000000000
+      internalID: -900089872908864537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_99
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1058
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2deba9dc2efdb46f0800000000000000
+      internalID: -699219151920906542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_100
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1058
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d861b0a71e6d9920800000000000000
+      internalID: 2998673974657902805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_101
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1059
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0f37eb56b513960800000000000000
+      internalID: 7579940140386349305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_102
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1060
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5c3c22d5c4519b0800000000000000
+      internalID: -5110094239283034709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_103
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1058
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c10a984653d5c00800000000000000
+      internalID: 890927007211199497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_104
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1026
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61117d193148dd60800000000000000
+      internalID: 7915148058666537324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_105
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1025
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5215dce52d0097ff0800000000000000
+      internalID: -37998218322292443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_106
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1026
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d1a97c554ff85f0800000000000000
+      internalID: -752113963489419886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_107
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1026
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0bfe44841b9aae0800000000000000
+      internalID: -1537502873817993038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_108
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 994
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6553020aa45420b30800000000000000
+      internalID: 4252037185007531350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_109
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 995
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c518e978a38d160800000000000000
+      internalID: 7050449570802785359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_110
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 995
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6e6d3650c8e7830800000000000000
+      internalID: 4070845067967260328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_111
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 993
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c765f3985c82bd9b0800000000000000
+      internalID: -5054401327916951940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_112
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 962
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a827a917ac8b76470800000000000000
+      internalID: 8387876010629689994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_113
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 962
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f46aa881ca302f20800000000000000
+      internalID: 3395778721933321457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_114
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 961
+        width: 43
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec48c6ed7f9a28dd0800000000000000
+      internalID: -2485237162301422386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_115
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 930
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b810a8f0b8526af80800000000000000
+      internalID: -8095742000960503413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_116
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 930
+        width: 41
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f09057fdbb3aca90800000000000000
+      internalID: -7292950959488986896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_117
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 929
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cca2de3191c8f480800000000000000
+      internalID: -8865123036910408508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_118
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 897
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ac6ea9a5b2c7580800000000000000
+      internalID: -8828133501407147428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_119
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 867
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22b47bdc1c5036c0800000000000000
+      internalID: -4165728376307011028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_120
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 834
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e2389154d6e0dd0800000000000000
+      internalID: -2517954998105330131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_121
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 709
+        width: 12
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7057fca26534250800000000000000
+      internalID: 5927676276418873307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_122
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 640
+        width: 8
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07c496661a336180800000000000000
+      internalID: -9123384552237775089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_123
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 640
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963c9e4a5a7bb52c0800000000000000
+      internalID: -4441754685406592151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_124
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 610
+        width: 45
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e576070a06f3fc0800000000000000
+      internalID: -3512982942128841156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_125
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 611
+        width: 44
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289caa99b808c05c0800000000000000
+      internalID: -4247879011450304126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_126
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 580
+        width: 12
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721ebf6661639d180800000000000000
+      internalID: -9090174903025671897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_127
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 578
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f513d13c8e66f30800000000000000
+      internalID: 4568594796719988625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_128
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 578
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812913116414f80c0800000000000000
+      internalID: -4571363327565786600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_129
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 579
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd56b6a277638280800000000000000
+      internalID: -9042269884708921931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_130
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 579
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ae4ca6471322d40800000000000000
+      internalID: 5558059266205870728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_131
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 546
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967a94673c0c49150800000000000000
+      internalID: 5878535359361034089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_132
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 546
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222ae9676f3421d30800000000000000
+      internalID: 4400654511725519394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_133
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 547
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931ae8ca99bf5e3a0800000000000000
+      internalID: -6636621838416961223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_134
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 547
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d921bd1072989eb0800000000000000
+      internalID: -4712855999811081773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_135
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 549
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b88a539101a1580800000000000000
+      internalID: -8855748016810194123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_136
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 514
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb24f1accd2806780800000000000000
+      internalID: -8691803396029594949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_137
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 514
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8386b4cd4a8cf2ad0800000000000000
+      internalID: -2724738639139739592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_138
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 515
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0d75819027d8640800000000000000
+      internalID: 5083844937759838410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_139
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 515
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8078f33570b3af920800000000000000
+      internalID: 3024795002380191496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_140
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 517
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0dd7a9469a3dd9b0800000000000000
+      internalID: -5053818789684585204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_141
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 482
+        width: 45
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a51d14e8741e7880800000000000000
+      internalID: -8611422928030067296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_142
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 483
+        width: 44
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f857a59809dc2a00800000000000000
+      internalID: 733199470248286452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_143
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 452
+        width: 12
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10ff4eacbfe30280800000000000000
+      internalID: -9078148830191423457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_144
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 450
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5308cfac76d78f840800000000000000
+      internalID: 5258090449695703093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_145
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 450
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29fa36fe367595510800000000000000
+      internalID: 1538356834453401490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_146
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 451
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2361a4e8648d1a0e0800000000000000
+      internalID: -2260287740416747982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_147
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 451
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46346e86fc7cc2460800000000000000
+      internalID: 7218363996400141156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_148
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 418
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec759242f08ef620800000000000000
+      internalID: 2809824995513302247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_149
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 418
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d625d5a915c83b9d0800000000000000
+      internalID: -2759707864537935251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_150
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 419
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82fc45c53d680d2a0800000000000000
+      internalID: -6714718802064126168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_151
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 419
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46dbdb504d230f60800000000000000
+      internalID: 7999287117582423628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_152
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 421
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc22d9fda8e429350800000000000000
+      internalID: 6021962010111845071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_153
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 386
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ee92184c9257940800000000000000
+      internalID: 5293182861001223796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_154
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 362
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45842ceb0b957efb0800000000000000
+      internalID: -4618624277195634604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_155
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 387
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e922fdd63f884e5e0800000000000000
+      internalID: -1881228165232254306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_156
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 387
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c9ff555946642ad0800000000000000
+      internalID: -2727943009128678972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_157
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 389
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e294cbb98d2e1ac0800000000000000
+      internalID: -3882615759162797339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_158
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 359
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2189246d12836fa60800000000000000
+      internalID: 7707409530270947346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_159
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 327
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19aa147cd70bf250800000000000000
+      internalID: 5979381573686569244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_160
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 327
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b149bfd39dec05620800000000000000
+      internalID: 2760934004021236763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_161
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 295
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b064c1b1b0228a10800000000000000
+      internalID: 1910125139522248885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_162
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 296
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021bef84766cab370800000000000000
+      internalID: 8339195806938476832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_163
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 234
+        width: 11
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e66dd318a11160a0800000000000000
+      internalID: -6890206541314693403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_164
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 264
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125e933d2cbcef1e0800000000000000
+      internalID: -2162066733463378655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_165
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 233
+        width: 76
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b2645282a199860800000000000000
+      internalID: 7537084211107605356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_166
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 233
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61390a73d655064d0800000000000000
+      internalID: -3143418612331539690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_167
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 163
+        width: 12
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4e6522ef38bdcf0800000000000000
+      internalID: -226442228731026242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_168
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 194
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242f938a485e4c580800000000000000
+      internalID: -8807662613309033918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_169
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 195
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7933b6ab1c1db0730800000000000000
+      internalID: 3966494526816334743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_170
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 195
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4490f61b3fc3acf0800000000000000
+      internalID: -242122102252989366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_171
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 196
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a3dce63d50c9870800000000000000
+      internalID: 8690827786573396565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_172
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 163
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a50a7dd9cd79400800000000000000
+      internalID: 330975668120607250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_173
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 163
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67fc4d3c43bc20d50800000000000000
+      internalID: 6702142622964961142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_174
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 163
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6821790ff114370a0800000000000000
+      internalID: -6885087799883132282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_175
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 163
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979ae58c7fd079920800000000000000
+      internalID: 2996879434908084601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_176
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 131
+        width: 42
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12817a1959d3b6400800000000000000
+      internalID: 318415911262820385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_177
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 102
+        width: 44
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e25c6a165e12ca40800000000000000
+      internalID: 5386901459447861990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_178
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 131
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a920529a6c8cf80800000000000000
+      internalID: -8085994701171025396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_179
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 103
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511f706ae01e64d60800000000000000
+      internalID: 7874228451535221013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_180
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 105
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1369ecd2ca78600800000000000000
+      internalID: 470533998822961622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_181
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 131
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3f64d0d6c324120800000000000000
+      internalID: 2396544390786380773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_182
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 103
+        width: 11
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce34e2d3e85244a0800000000000000
+      internalID: -6610623567507472703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_183
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 70
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29996db149e02ce40800000000000000
+      internalID: 5675114509725243794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_184
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 70
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b19d5ec7b89f7a0800000000000000
+      internalID: -6342885231626216603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_185
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 71
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b22f190f2d7d82e0800000000000000
+      internalID: -2121902208451665227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_186
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 72
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c8f1b47a06808f0800000000000000
+      internalID: -574102680853574583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_187
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 71
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc077f08ceff7500800000000000000
+      internalID: 396315427438267576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_188
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 38
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5c3e1592e5e1ef0800000000000000
+      internalID: -135567407213984343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_189
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 39
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9836b48e28d55d4f0800000000000000
+      internalID: -804634141591379063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_190
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 39
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1c3ec1e74187ff0800000000000000
+      internalID: -38258064949526039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_191
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 39
+        width: 39
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e76ab0763eafdd50800000000000000
+      internalID: 6764316714176505826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_192
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 6
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57676bdc471efb3b0800000000000000
+      internalID: -5494425128584972683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_193
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 7
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2214a2e246522c90800000000000000
+      internalID: -7196094409314397651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_194
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 7
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9853a2d16b75910800000000000000
+      internalID: 1826128410300484007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stripe_grey_195
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 7
+        width: 41
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb04426d28dcc020800000000000000
+      internalID: 2363501593896422347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      stripe_grey_0: 4406202230719873180
+      stripe_grey_1: 3994513026161919792
+      stripe_grey_10: 845538343757630910
+      stripe_grey_100: 2998673974657902805
+      stripe_grey_101: 7579940140386349305
+      stripe_grey_102: -5110094239283034709
+      stripe_grey_103: 890927007211199497
+      stripe_grey_104: 7915148058666537324
+      stripe_grey_105: -37998218322292443
+      stripe_grey_106: -752113963489419886
+      stripe_grey_107: -1537502873817993038
+      stripe_grey_108: 4252037185007531350
+      stripe_grey_109: 7050449570802785359
+      stripe_grey_11: -532805977820152763
+      stripe_grey_110: 4070845067967260328
+      stripe_grey_111: -5054401327916951940
+      stripe_grey_112: 8387876010629689994
+      stripe_grey_113: 3395778721933321457
+      stripe_grey_114: -2485237162301422386
+      stripe_grey_115: -8095742000960503413
+      stripe_grey_116: -7292950959488986896
+      stripe_grey_117: -8865123036910408508
+      stripe_grey_118: -8828133501407147428
+      stripe_grey_119: -4165728376307011028
+      stripe_grey_12: 3055310295652348789
+      stripe_grey_120: -2517954998105330131
+      stripe_grey_121: 5927676276418873307
+      stripe_grey_122: -9123384552237775089
+      stripe_grey_123: -4441754685406592151
+      stripe_grey_124: -3512982942128841156
+      stripe_grey_125: -4247879011450304126
+      stripe_grey_126: -9090174903025671897
+      stripe_grey_127: 4568594796719988625
+      stripe_grey_128: -4571363327565786600
+      stripe_grey_129: -9042269884708921931
+      stripe_grey_13: 6287801285597676057
+      stripe_grey_130: 5558059266205870728
+      stripe_grey_131: 5878535359361034089
+      stripe_grey_132: 4400654511725519394
+      stripe_grey_133: -6636621838416961223
+      stripe_grey_134: -4712855999811081773
+      stripe_grey_135: -8855748016810194123
+      stripe_grey_136: -8691803396029594949
+      stripe_grey_137: -2724738639139739592
+      stripe_grey_138: 5083844937759838410
+      stripe_grey_139: 3024795002380191496
+      stripe_grey_14: 1455797691399717444
+      stripe_grey_140: -5053818789684585204
+      stripe_grey_141: -8611422928030067296
+      stripe_grey_142: 733199470248286452
+      stripe_grey_143: -9078148830191423457
+      stripe_grey_144: 5258090449695703093
+      stripe_grey_145: 1538356834453401490
+      stripe_grey_146: -2260287740416747982
+      stripe_grey_147: 7218363996400141156
+      stripe_grey_148: 2809824995513302247
+      stripe_grey_149: -2759707864537935251
+      stripe_grey_15: -3244286994682878598
+      stripe_grey_150: -6714718802064126168
+      stripe_grey_151: 7999287117582423628
+      stripe_grey_152: 6021962010111845071
+      stripe_grey_153: 5293182861001223796
+      stripe_grey_154: -4618624277195634604
+      stripe_grey_155: -1881228165232254306
+      stripe_grey_156: -2727943009128678972
+      stripe_grey_157: -3882615759162797339
+      stripe_grey_158: 7707409530270947346
+      stripe_grey_159: 5979381573686569244
+      stripe_grey_16: -6015308930780661009
+      stripe_grey_160: 2760934004021236763
+      stripe_grey_161: 1910125139522248885
+      stripe_grey_162: 8339195806938476832
+      stripe_grey_163: -6890206541314693403
+      stripe_grey_164: -2162066733463378655
+      stripe_grey_165: 7537084211107605356
+      stripe_grey_166: -3143418612331539690
+      stripe_grey_167: -226442228731026242
+      stripe_grey_168: -8807662613309033918
+      stripe_grey_169: 3966494526816334743
+      stripe_grey_17: -3995286576208721574
+      stripe_grey_170: -242122102252989366
+      stripe_grey_171: 8690827786573396565
+      stripe_grey_172: 330975668120607250
+      stripe_grey_173: 6702142622964961142
+      stripe_grey_174: -6885087799883132282
+      stripe_grey_175: 2996879434908084601
+      stripe_grey_176: 318415911262820385
+      stripe_grey_177: 5386901459447861990
+      stripe_grey_178: -8085994701171025396
+      stripe_grey_179: 7874228451535221013
+      stripe_grey_18: -2565970418375450769
+      stripe_grey_180: 470533998822961622
+      stripe_grey_181: 2396544390786380773
+      stripe_grey_182: -6610623567507472703
+      stripe_grey_183: 5675114509725243794
+      stripe_grey_184: -6342885231626216603
+      stripe_grey_185: -2121902208451665227
+      stripe_grey_186: -574102680853574583
+      stripe_grey_187: 396315427438267576
+      stripe_grey_188: -135567407213984343
+      stripe_grey_189: -804634141591379063
+      stripe_grey_19: -1660482118326802094
+      stripe_grey_190: -38258064949526039
+      stripe_grey_191: 6764316714176505826
+      stripe_grey_192: -5494425128584972683
+      stripe_grey_193: -7196094409314397651
+      stripe_grey_194: 1826128410300484007
+      stripe_grey_195: 2363501593896422347
+      stripe_grey_2: 2577875229755134715
+      stripe_grey_20: 5812450452590420025
+      stripe_grey_21: -1962291523785297732
+      stripe_grey_22: -1175011402316687759
+      stripe_grey_23: 724505778369049976
+      stripe_grey_24: 4052675117534755188
+      stripe_grey_25: -2016929965343599514
+      stripe_grey_26: -8035049790621310103
+      stripe_grey_27: -614698730405926387
+      stripe_grey_28: -249175005495169342
+      stripe_grey_29: -2133355940082958136
+      stripe_grey_3: -2641507193787237501
+      stripe_grey_30: 3309222893203265988
+      stripe_grey_31: -1624156938868800245
+      stripe_grey_32: -1620850093267425862
+      stripe_grey_33: -625075659649027789
+      stripe_grey_34: 4839133724068226533
+      stripe_grey_35: -5809202159502966292
+      stripe_grey_36: -6808076388822308527
+      stripe_grey_37: -4256044959241878702
+      stripe_grey_38: -5285548583250040487
+      stripe_grey_39: -5993362119275430995
+      stripe_grey_4: 6889374982318945012
+      stripe_grey_40: -2859312803559782057
+      stripe_grey_41: 5994438070557478325
+      stripe_grey_42: 8498633923199152679
+      stripe_grey_43: 1748660491767309059
+      stripe_grey_44: 8700853325645617131
+      stripe_grey_45: -9032435611487613093
+      stripe_grey_46: -337613567692803983
+      stripe_grey_47: 9077868982673808957
+      stripe_grey_48: 496457874802161435
+      stripe_grey_49: 8130842710738030161
+      stripe_grey_5: -225740335991860615
+      stripe_grey_50: 4441322085309247996
+      stripe_grey_51: -7081681092360344191
+      stripe_grey_52: 6742585987860674032
+      stripe_grey_53: -102927532955317037
+      stripe_grey_54: 9170093263894396660
+      stripe_grey_55: 4355155491557291478
+      stripe_grey_56: 8366405476435803545
+      stripe_grey_57: 6257700821997659563
+      stripe_grey_58: 4611060043887945069
+      stripe_grey_59: 1994550869155144654
+      stripe_grey_6: -4700561863245362538
+      stripe_grey_60: 2084872339838992996
+      stripe_grey_61: 4063718352505829360
+      stripe_grey_62: 4533039154659886971
+      stripe_grey_63: -4796862510299320150
+      stripe_grey_64: -3973831246593741612
+      stripe_grey_65: 4271738347277610703
+      stripe_grey_66: -5011903503799670959
+      stripe_grey_67: 2424334866113142000
+      stripe_grey_68: -5978695301788271390
+      stripe_grey_69: 46852384256957906
+      stripe_grey_7: 3643830000870597846
+      stripe_grey_70: 1307727013825586409
+      stripe_grey_71: 1930101754662051856
+      stripe_grey_72: -9018593306780653449
+      stripe_grey_73: -8084038575085281477
+      stripe_grey_74: 7931460120549112405
+      stripe_grey_75: 2286083281186171870
+      stripe_grey_76: 3199660903934501317
+      stripe_grey_77: -4738248363784445021
+      stripe_grey_78: -6868800117482124275
+      stripe_grey_79: 1650595741309766649
+      stripe_grey_8: 6392690085788815389
+      stripe_grey_80: 1599716612106826460
+      stripe_grey_81: 6640265254420493327
+      stripe_grey_82: 2220936131632671051
+      stripe_grey_83: 6220368154097110146
+      stripe_grey_84: 7879857759568695835
+      stripe_grey_85: -2880030320115815818
+      stripe_grey_86: -579564324341824234
+      stripe_grey_87: 1874118662881652238
+      stripe_grey_88: 6445347540817566523
+      stripe_grey_89: -8179003980490179096
+      stripe_grey_9: 5125310039852378651
+      stripe_grey_90: -627427913586984610
+      stripe_grey_91: 6682075738242286540
+      stripe_grey_92: -5518886831741936299
+      stripe_grey_93: -3274628320122359892
+      stripe_grey_94: -8031866250583949594
+      stripe_grey_95: -2338070405106508146
+      stripe_grey_96: -5522159793686315272
+      stripe_grey_97: 798075296341784367
+      stripe_grey_98: -900089872908864537
+      stripe_grey_99: -699219151920906542
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

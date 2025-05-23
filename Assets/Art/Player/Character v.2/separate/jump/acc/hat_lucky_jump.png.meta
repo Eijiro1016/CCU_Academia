@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 117ddf34c5411d14a84652d140f370a3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1996636980026356949
+    second: hat_lucky_jump_0
+  - first:
+      213: -6839491603253475883
+    second: hat_lucky_jump_1
+  - first:
+      213: 5777649269137600160
+    second: hat_lucky_jump_2
+  - first:
+      213: -6139277291857449925
+    second: hat_lucky_jump_3
+  - first:
+      213: 2899673874441515190
+    second: hat_lucky_jump_4
+  - first:
+      213: -6827590132940508478
+    second: hat_lucky_jump_5
+  - first:
+      213: -7175452281329281908
+    second: hat_lucky_jump_6
+  - first:
+      213: -8263528598267933599
+    second: hat_lucky_jump_7
+  - first:
+      213: -2108489327740105876
+    second: hat_lucky_jump_8
+  - first:
+      213: -12581222450570751
+    second: hat_lucky_jump_9
+  - first:
+      213: 6236243757105452494
+    second: hat_lucky_jump_10
+  - first:
+      213: -1337095319929612716
+    second: hat_lucky_jump_11
+  - first:
+      213: 3401852838803372354
+    second: hat_lucky_jump_12
+  - first:
+      213: 5813847878665343548
+    second: hat_lucky_jump_13
+  - first:
+      213: 86119081430610305
+    second: hat_lucky_jump_14
+  - first:
+      213: -812916336937436026
+    second: hat_lucky_jump_15
+  - first:
+      213: 6665535341072357134
+    second: hat_lucky_jump_16
+  - first:
+      213: -8538724226099665487
+    second: hat_lucky_jump_17
+  - first:
+      213: -2401354280317331270
+    second: hat_lucky_jump_18
+  - first:
+      213: -5286652609098109279
+    second: hat_lucky_jump_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hat_lucky_jump_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 107
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d431e331ca75bb10800000000000000
+      internalID: 1996636980026356949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_jump_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 106
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d54fcfbf9e3511a0800000000000000
+      internalID: -6839491603253475883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_jump_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 109
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aeedb326655e2050800000000000000
+      internalID: 5777649269137600160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_jump_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 111
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ce63194d7eccaa0800000000000000
+      internalID: -6139277291857449925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_jump_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 107
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b031929606bd3820800000000000000
+      internalID: 2899673874441515190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_jump_5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 75
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c27e1eb2f68f31a0800000000000000
+      internalID: -6827590132940508478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_jump_6
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 74
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c841a94da2cab6c90800000000000000
+      internalID: -7175452281329281908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_jump_7
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 77
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c45fc958c025d80800000000000000
+      internalID: -8263528598267933599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_jump_8
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 79
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b495fa0242db2e0800000000000000
+      internalID: -2108489327740105876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_jump_9
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 75
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a5ef0e17d43dff0800000000000000
+      internalID: -12581222450570751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_jump_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 43
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec59403f7a69b8650800000000000000
+      internalID: 6236243757105452494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_jump_11
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 42
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45612c804eea17de0800000000000000
+      internalID: -1337095319929612716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_jump_12
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 45
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2497703122fc53f20800000000000000
+      internalID: 3401852838803372354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_jump_13
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 47
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c329102b7dfeea050800000000000000
+      internalID: 5813847878665343548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_jump_14
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 43
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 181fd0929d4f13100800000000000000
+      internalID: 86119081430610305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_jump_15
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 11
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c7bb806e0f7b4f0800000000000000
+      internalID: -812916336937436026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_jump_16
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 10
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e071e62c31db08c50800000000000000
+      internalID: 6665535341072357134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_jump_17
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 13
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5ae447e8b508980800000000000000
+      internalID: -8538724226099665487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_jump_18
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 15
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab852d5410dacaed0800000000000000
+      internalID: -2401354280317331270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_jump_19
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 11
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aea0df367902a6b0800000000000000
+      internalID: -5286652609098109279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hat_lucky_jump_0: 1996636980026356949
+      hat_lucky_jump_1: -6839491603253475883
+      hat_lucky_jump_10: 6236243757105452494
+      hat_lucky_jump_11: -1337095319929612716
+      hat_lucky_jump_12: 3401852838803372354
+      hat_lucky_jump_13: 5813847878665343548
+      hat_lucky_jump_14: 86119081430610305
+      hat_lucky_jump_15: -812916336937436026
+      hat_lucky_jump_16: 6665535341072357134
+      hat_lucky_jump_17: -8538724226099665487
+      hat_lucky_jump_18: -2401354280317331270
+      hat_lucky_jump_19: -5286652609098109279
+      hat_lucky_jump_2: 5777649269137600160
+      hat_lucky_jump_3: -6139277291857449925
+      hat_lucky_jump_4: 2899673874441515190
+      hat_lucky_jump_5: -6827590132940508478
+      hat_lucky_jump_6: -7175452281329281908
+      hat_lucky_jump_7: -8263528598267933599
+      hat_lucky_jump_8: -2108489327740105876
+      hat_lucky_jump_9: -12581222450570751
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

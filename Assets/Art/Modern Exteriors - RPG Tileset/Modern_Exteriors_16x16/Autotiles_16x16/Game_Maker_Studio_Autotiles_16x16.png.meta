@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 90f1fefb1c9149b44b60c20d7146b33b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3605089942870981971
+    second: Game_Maker_Studio_Autotiles_16x16_0
+  - first:
+      213: 6532089758016667348
+    second: Game_Maker_Studio_Autotiles_16x16_1
+  - first:
+      213: -2781370047959608581
+    second: Game_Maker_Studio_Autotiles_16x16_2
+  - first:
+      213: 2442852447265052328
+    second: Game_Maker_Studio_Autotiles_16x16_3
+  - first:
+      213: -1802356664480424648
+    second: Game_Maker_Studio_Autotiles_16x16_4
+  - first:
+      213: 9179321550175266873
+    second: Game_Maker_Studio_Autotiles_16x16_5
+  - first:
+      213: 2874808880891330412
+    second: Game_Maker_Studio_Autotiles_16x16_6
+  - first:
+      213: -7551085857518425356
+    second: Game_Maker_Studio_Autotiles_16x16_7
+  - first:
+      213: 2593705714112807983
+    second: Game_Maker_Studio_Autotiles_16x16_8
+  - first:
+      213: -9000421007358614977
+    second: Game_Maker_Studio_Autotiles_16x16_9
+  - first:
+      213: -7202366326721192459
+    second: Game_Maker_Studio_Autotiles_16x16_10
+  - first:
+      213: 8272165801622125007
+    second: Game_Maker_Studio_Autotiles_16x16_11
+  - first:
+      213: 4313124521134385006
+    second: Game_Maker_Studio_Autotiles_16x16_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game_Maker_Studio_Autotiles_16x16_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1400
+        width: 192
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da287db2cc528fdc0800000000000000
+      internalID: -3605089942870981971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Maker_Studio_Autotiles_16x16_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1336
+        width: 192
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4defc83c605a6aa50800000000000000
+      internalID: 6532089758016667348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Maker_Studio_Autotiles_16x16_2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1368
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2d47e7da69669d0800000000000000
+      internalID: -2781370047959608581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Maker_Studio_Autotiles_16x16_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1375
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a65de5ab51c6e120800000000000000
+      internalID: 2442852447265052328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Maker_Studio_Autotiles_16x16_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1368
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d1617b92ebcf6e0800000000000000
+      internalID: -1802356664480424648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Maker_Studio_Autotiles_16x16_5
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1384
+        width: 56
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938e845d050836f70800000000000000
+      internalID: 9179321550175266873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Maker_Studio_Autotiles_16x16_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 192
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f7aae127f55e720800000000000000
+      internalID: 2874808880891330412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Maker_Studio_Autotiles_16x16_7
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1304
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa63228b67253790800000000000000
+      internalID: -7551085857518425356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Maker_Studio_Autotiles_16x16_8
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1311
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24489dda91bef320800000000000000
+      internalID: 2593705714112807983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Maker_Studio_Autotiles_16x16_9
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1304
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f322d63b7c4181380800000000000000
+      internalID: -9000421007358614977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Maker_Studio_Autotiles_16x16_10
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1320
+        width: 56
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd5c815cfd0c0c90800000000000000
+      internalID: -7202366326721192459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Maker_Studio_Autotiles_16x16_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 834
+        width: 192
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc932d008f2acc270800000000000000
+      internalID: 8272165801622125007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game_Maker_Studio_Autotiles_16x16_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 192
+        height: 846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67ed3a66eb4bdb30800000000000000
+      internalID: 4313124521134385006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Game_Maker_Studio_Autotiles_16x16_0: -3605089942870981971
+      Game_Maker_Studio_Autotiles_16x16_1: 6532089758016667348
+      Game_Maker_Studio_Autotiles_16x16_10: -7202366326721192459
+      Game_Maker_Studio_Autotiles_16x16_11: 8272165801622125007
+      Game_Maker_Studio_Autotiles_16x16_12: 4313124521134385006
+      Game_Maker_Studio_Autotiles_16x16_2: -2781370047959608581
+      Game_Maker_Studio_Autotiles_16x16_3: 2442852447265052328
+      Game_Maker_Studio_Autotiles_16x16_4: -1802356664480424648
+      Game_Maker_Studio_Autotiles_16x16_5: 9179321550175266873
+      Game_Maker_Studio_Autotiles_16x16_6: 2874808880891330412
+      Game_Maker_Studio_Autotiles_16x16_7: -7551085857518425356
+      Game_Maker_Studio_Autotiles_16x16_8: 2593705714112807983
+      Game_Maker_Studio_Autotiles_16x16_9: -9000421007358614977
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 799addfd08565e2468e0e2418d5d4d48
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4085935433203146811
+    second: hat_witch_axe_0
+  - first:
+      213: -8720598107583494997
+    second: hat_witch_axe_1
+  - first:
+      213: 6755447133601453610
+    second: hat_witch_axe_2
+  - first:
+      213: -6769724612939388149
+    second: hat_witch_axe_3
+  - first:
+      213: -1116747469114695480
+    second: hat_witch_axe_4
+  - first:
+      213: -3014961074576020349
+    second: hat_witch_axe_5
+  - first:
+      213: -487220661061157689
+    second: hat_witch_axe_6
+  - first:
+      213: 2899063342954833780
+    second: hat_witch_axe_7
+  - first:
+      213: 7412933768357714601
+    second: hat_witch_axe_8
+  - first:
+      213: -1687429842902020230
+    second: hat_witch_axe_9
+  - first:
+      213: 767750786105806607
+    second: hat_witch_axe_10
+  - first:
+      213: -2674870743719376350
+    second: hat_witch_axe_11
+  - first:
+      213: -4943039176713849705
+    second: hat_witch_axe_12
+  - first:
+      213: -6899239016394664979
+    second: hat_witch_axe_13
+  - first:
+      213: -3831938301666205170
+    second: hat_witch_axe_14
+  - first:
+      213: 1067641675154629430
+    second: hat_witch_axe_15
+  - first:
+      213: -6406458413167647546
+    second: hat_witch_axe_16
+  - first:
+      213: -7318542214266523919
+    second: hat_witch_axe_17
+  - first:
+      213: -7494552807824408986
+    second: hat_witch_axe_18
+  - first:
+      213: 6663096923986016238
+    second: hat_witch_axe_19
+  - first:
+      213: 1920425444024746882
+    second: hat_witch_axe_20
+  - first:
+      213: 2773294704804088114
+    second: hat_witch_axe_21
+  - first:
+      213: -8409786867857469224
+    second: hat_witch_axe_22
+  - first:
+      213: 1717166416540552200
+    second: hat_witch_axe_23
+  - first:
+      213: -3645177874265379057
+    second: hat_witch_axe_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hat_witch_axe_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 107
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf9eb82f57db47c0800000000000000
+      internalID: -4085935433203146811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_axe_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 107
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4ca8099363af680800000000000000
+      internalID: -8720598107583494997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_axe_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 107
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26de39406b20cd50800000000000000
+      internalID: 6755447133601453610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_axe_3
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 109
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b6782055b1d02a0800000000000000
+      internalID: -6769724612939388149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_axe_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 109
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c02a97f7148080f0800000000000000
+      internalID: -1116747469114695480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_axe_5
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 108
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c244a60e4b826d0800000000000000
+      internalID: -3014961074576020349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_axe_6
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 108
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ccf732e36b0d39f0800000000000000
+      internalID: -487220661061157689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_axe_7
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 108
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477ed2220ca8b3820800000000000000
+      internalID: 2899063342954833780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_axe_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 75
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa9576acf700e660800000000000000
+      internalID: 7412933768357714601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_axe_9
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 75
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f8e6e8f7b0598e0800000000000000
+      internalID: -1687429842902020230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_axe_10
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 76
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f0dd1b54997aa00800000000000000
+      internalID: 767750786105806607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_axe_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 76
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a858c0b33f0ead0800000000000000
+      internalID: -2674870743719376350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_axe_12
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 77
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794b121ee0cc66bb0800000000000000
+      internalID: -4943039176713849705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_axe_13
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 43
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3d7471baaf040a0800000000000000
+      internalID: -6899239016394664979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_axe_14
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 43
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02e8f7ca6832dac0800000000000000
+      internalID: -3831938301666205170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_axe_15
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 44
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633aefa627601de00800000000000000
+      internalID: 1067641675154629430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_axe_16
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 44
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c464de1400b717a0800000000000000
+      internalID: -6406458413167647546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_axe_17
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 44
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe61f4a1a05f6a90800000000000000
+      internalID: -7318542214266523919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_axe_18
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 46
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e383bddeffdf790800000000000000
+      internalID: -7494552807824408986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_axe_19
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 11
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee73f2a8953187c50800000000000000
+      internalID: 6663096923986016238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_axe_20
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 11
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28387b834c8b6aa10800000000000000
+      internalID: 1920425444024746882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_axe_21
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 12
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239c15927d8bc7620800000000000000
+      internalID: 2773294704804088114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_axe_22
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 12
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d05c90966f6a4b80800000000000000
+      internalID: -8409786867857469224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_axe_23
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 12
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c412602c994d710800000000000000
+      internalID: 1717166416540552200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_axe_24
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 14
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f6c4d490ab96dc0800000000000000
+      internalID: -3645177874265379057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hat_witch_axe_0: -4085935433203146811
+      hat_witch_axe_1: -8720598107583494997
+      hat_witch_axe_10: 767750786105806607
+      hat_witch_axe_11: -2674870743719376350
+      hat_witch_axe_12: -4943039176713849705
+      hat_witch_axe_13: -6899239016394664979
+      hat_witch_axe_14: -3831938301666205170
+      hat_witch_axe_15: 1067641675154629430
+      hat_witch_axe_16: -6406458413167647546
+      hat_witch_axe_17: -7318542214266523919
+      hat_witch_axe_18: -7494552807824408986
+      hat_witch_axe_19: 6663096923986016238
+      hat_witch_axe_2: 6755447133601453610
+      hat_witch_axe_20: 1920425444024746882
+      hat_witch_axe_21: 2773294704804088114
+      hat_witch_axe_22: -8409786867857469224
+      hat_witch_axe_23: 1717166416540552200
+      hat_witch_axe_24: -3645177874265379057
+      hat_witch_axe_3: -6769724612939388149
+      hat_witch_axe_4: -1116747469114695480
+      hat_witch_axe_5: -3014961074576020349
+      hat_witch_axe_6: -487220661061157689
+      hat_witch_axe_7: 2899063342954833780
+      hat_witch_axe_8: 7412933768357714601
+      hat_witch_axe_9: -1687429842902020230
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

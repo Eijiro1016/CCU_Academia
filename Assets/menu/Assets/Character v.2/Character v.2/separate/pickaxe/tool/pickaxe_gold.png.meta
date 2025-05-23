@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: d7bbb82ab7db7c8479d286d53be702d4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 234699459161800316
+    second: pickaxe_gold_0
+  - first:
+      213: -4468010556671214204
+    second: pickaxe_gold_1
+  - first:
+      213: 4697792293747183003
+    second: pickaxe_gold_2
+  - first:
+      213: 4537523483470783762
+    second: pickaxe_gold_3
+  - first:
+      213: -4513600876797998879
+    second: pickaxe_gold_4
+  - first:
+      213: 1311915043244045011
+    second: pickaxe_gold_5
+  - first:
+      213: -1042368179798436875
+    second: pickaxe_gold_6
+  - first:
+      213: 6772029568967836046
+    second: pickaxe_gold_7
+  - first:
+      213: 5662780594310034950
+    second: pickaxe_gold_8
+  - first:
+      213: -439776122077774988
+    second: pickaxe_gold_9
+  - first:
+      213: -7822753432402126875
+    second: pickaxe_gold_10
+  - first:
+      213: -4158262865650837938
+    second: pickaxe_gold_11
+  - first:
+      213: 5336910993056794663
+    second: pickaxe_gold_12
+  - first:
+      213: -2827062070406618169
+    second: pickaxe_gold_13
+  - first:
+      213: -2478070600470421537
+    second: pickaxe_gold_14
+  - first:
+      213: -4322486239674810004
+    second: pickaxe_gold_15
+  - first:
+      213: 6744623662677367040
+    second: pickaxe_gold_16
+  - first:
+      213: -1500462152840498864
+    second: pickaxe_gold_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pickaxe_gold_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 97
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7eb0542ae1d14300800000000000000
+      internalID: 234699459161800316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickaxe_gold_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 103
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48dbaec32107ef1c0800000000000000
+      internalID: -4468010556671214204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickaxe_gold_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 106
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d4e518339e13140800000000000000
+      internalID: 4697792293747183003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickaxe_gold_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 100
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215e440419588fe30800000000000000
+      internalID: 4537523483470783762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickaxe_gold_4
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 95
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e84098aae77c51c0800000000000000
+      internalID: -4513600876797998879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickaxe_gold_5
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 83
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d27d00f7cbd43210800000000000000
+      internalID: 1311915043244045011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickaxe_gold_6
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 84
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f391f5c9a3c881f0800000000000000
+      internalID: -1042368179798436875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickaxe_gold_7
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 83
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8105c263051bfd50800000000000000
+      internalID: 6772029568967836046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickaxe_gold_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 35
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60633d4a2fc369e40800000000000000
+      internalID: 5662780594310034950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickaxe_gold_9
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 43
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47bfade62f995e9f0800000000000000
+      internalID: -439776122077774988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickaxe_gold_10
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 42
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e71430333fff6390800000000000000
+      internalID: -7822753432402126875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickaxe_gold_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 42
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e461f2284f1ea46c0800000000000000
+      internalID: -4158262865650837938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickaxe_gold_12
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 31
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7280703a544801a40800000000000000
+      internalID: 5336910993056794663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickaxe_gold_13
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3ee6f760244c8d0800000000000000
+      internalID: -2827062070406618169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickaxe_gold_14
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 9
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf1f921bef1c9dd0800000000000000
+      internalID: -2478070600470421537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickaxe_gold_15
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 9
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c614ba1aaa17304c0800000000000000
+      internalID: -4322486239674810004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickaxe_gold_16
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 10
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00914959c77b99d50800000000000000
+      internalID: 6744623662677367040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickaxe_gold_17
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051360d2f994d2be0800000000000000
+      internalID: -1500462152840498864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pickaxe_gold_0: 234699459161800316
+      pickaxe_gold_1: -4468010556671214204
+      pickaxe_gold_10: -7822753432402126875
+      pickaxe_gold_11: -4158262865650837938
+      pickaxe_gold_12: 5336910993056794663
+      pickaxe_gold_13: -2827062070406618169
+      pickaxe_gold_14: -2478070600470421537
+      pickaxe_gold_15: -4322486239674810004
+      pickaxe_gold_16: 6744623662677367040
+      pickaxe_gold_17: -1500462152840498864
+      pickaxe_gold_2: 4697792293747183003
+      pickaxe_gold_3: 4537523483470783762
+      pickaxe_gold_4: -4513600876797998879
+      pickaxe_gold_5: 1311915043244045011
+      pickaxe_gold_6: -1042368179798436875
+      pickaxe_gold_7: 6772029568967836046
+      pickaxe_gold_8: 5662780594310034950
+      pickaxe_gold_9: -439776122077774988
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

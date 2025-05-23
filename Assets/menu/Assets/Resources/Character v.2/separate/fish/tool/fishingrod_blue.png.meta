@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 2c798d6110b21c7468d1621682f01696
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3095340916705056065
+    second: fishingrod_blue_0
+  - first:
+      213: 8837518971786719882
+    second: fishingrod_blue_1
+  - first:
+      213: -3188877252159542308
+    second: fishingrod_blue_2
+  - first:
+      213: -2075689798258039658
+    second: fishingrod_blue_3
+  - first:
+      213: -2327573084488275693
+    second: fishingrod_blue_4
+  - first:
+      213: -3264241836853311313
+    second: fishingrod_blue_5
+  - first:
+      213: -2246706833743659956
+    second: fishingrod_blue_6
+  - first:
+      213: 4122514139141792952
+    second: fishingrod_blue_7
+  - first:
+      213: 5390244260074392864
+    second: fishingrod_blue_8
+  - first:
+      213: 5927145464222707895
+    second: fishingrod_blue_9
+  - first:
+      213: 2204288228185341819
+    second: fishingrod_blue_10
+  - first:
+      213: 9014739052181862619
+    second: fishingrod_blue_11
+  - first:
+      213: 8354897534761804614
+    second: fishingrod_blue_12
+  - first:
+      213: -6816251719885405606
+    second: fishingrod_blue_13
+  - first:
+      213: -1115844301363028985
+    second: fishingrod_blue_14
+  - first:
+      213: -4894294111437661538
+    second: fishingrod_blue_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fishingrod_blue_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 95
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145dfe6f92cd4fa20800000000000000
+      internalID: 3095340916705056065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishingrod_blue_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 87
+        width: 7
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a827f118eac25aa70800000000000000
+      internalID: 8837518971786719882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishingrod_blue_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 106
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbe4b8d805deb3d0800000000000000
+      internalID: -3188877252159542308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishingrod_blue_3
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 88
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6946dee302ba133e0800000000000000
+      internalID: -2075689798258039658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishingrod_blue_4
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 95
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 319e0569c9cc2bfd0800000000000000
+      internalID: -2327573084488275693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishingrod_blue_5
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 87
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8c365185513b2d0800000000000000
+      internalID: -3264241836853311313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishingrod_blue_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 41
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c344cc90812d0e0800000000000000
+      internalID: -2246706833743659956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishingrod_blue_7
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 44
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4621d74cc163930800000000000000
+      internalID: 4122514139141792952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishingrod_blue_8
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 45
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d8256889efdca40800000000000000
+      internalID: 5390244260074392864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishingrod_blue_9
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 42
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0ff077563714250800000000000000
+      internalID: 5927145464222707895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishingrod_blue_10
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 37
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7fff87f674379e10800000000000000
+      internalID: 2204288228185341819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishingrod_blue_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 9
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd83424e769ca1d70800000000000000
+      internalID: 9014739052181862619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishingrod_blue_12
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 12
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643a34eaa0f82f370800000000000000
+      internalID: 8354897534761804614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishingrod_blue_13
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 13
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52c590cc2fc761a0800000000000000
+      internalID: -6816251719885405606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishingrod_blue_14
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 10
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70cdc981589b380f0800000000000000
+      internalID: -1115844301363028985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fishingrod_blue_15
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 5
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ad87dcf69f31cb0800000000000000
+      internalID: -4894294111437661538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fishingrod_blue_0: 3095340916705056065
+      fishingrod_blue_1: 8837518971786719882
+      fishingrod_blue_10: 2204288228185341819
+      fishingrod_blue_11: 9014739052181862619
+      fishingrod_blue_12: 8354897534761804614
+      fishingrod_blue_13: -6816251719885405606
+      fishingrod_blue_14: -1115844301363028985
+      fishingrod_blue_15: -4894294111437661538
+      fishingrod_blue_2: -3188877252159542308
+      fishingrod_blue_3: -2075689798258039658
+      fishingrod_blue_4: -2327573084488275693
+      fishingrod_blue_5: -3264241836853311313
+      fishingrod_blue_6: -2246706833743659956
+      fishingrod_blue_7: 4122514139141792952
+      fishingrod_blue_8: 5390244260074392864
+      fishingrod_blue_9: 5927145464222707895
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

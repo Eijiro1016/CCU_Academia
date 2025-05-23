@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 0fa0d85cf1c7ca042a8b85fb55e78e7e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9006532264313040971
+    second: pickaxe_wood_0
+  - first:
+      213: 5680680762049707633
+    second: pickaxe_wood_1
+  - first:
+      213: -7829393473583434732
+    second: pickaxe_wood_2
+  - first:
+      213: -5737515844510207166
+    second: pickaxe_wood_3
+  - first:
+      213: -4790064868142572852
+    second: pickaxe_wood_4
+  - first:
+      213: 8251864291405235747
+    second: pickaxe_wood_5
+  - first:
+      213: 4723184060599361224
+    second: pickaxe_wood_6
+  - first:
+      213: 4765695294876521061
+    second: pickaxe_wood_7
+  - first:
+      213: 975092369312722660
+    second: pickaxe_wood_8
+  - first:
+      213: 7740972696063322622
+    second: pickaxe_wood_9
+  - first:
+      213: -604216444004876080
+    second: pickaxe_wood_10
+  - first:
+      213: -6322864245679105713
+    second: pickaxe_wood_11
+  - first:
+      213: 1755665736686198631
+    second: pickaxe_wood_12
+  - first:
+      213: 7926170891534277476
+    second: pickaxe_wood_13
+  - first:
+      213: 8530818326235890872
+    second: pickaxe_wood_14
+  - first:
+      213: -6228145346503863354
+    second: pickaxe_wood_15
+  - first:
+      213: 5113962007747328396
+    second: pickaxe_wood_16
+  - first:
+      213: -626241758587315714
+    second: pickaxe_wood_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pickaxe_wood_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 97
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bfc68fcf9e520380800000000000000
+      internalID: -9006532264313040971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickaxe_wood_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 103
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e3e583e05d5de40800000000000000
+      internalID: 5680680762049707633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickaxe_wood_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 106
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4143c402e18685390800000000000000
+      internalID: -7829393473583434732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickaxe_wood_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 100
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2433bc2fcbf3060b0800000000000000
+      internalID: -5737515844510207166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickaxe_wood_4
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 95
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca984b9165468db0800000000000000
+      internalID: -4790064868142572852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickaxe_wood_5
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 83
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32680ff4ad2848270800000000000000
+      internalID: 8251864291405235747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickaxe_wood_6
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 84
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cedfcce0ee1c8140800000000000000
+      internalID: 4723184060599361224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickaxe_wood_7
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 83
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5629dd6fe96232240800000000000000
+      internalID: 4765695294876521061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickaxe_wood_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 35
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee2418f759388d00800000000000000
+      internalID: 975092369312722660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickaxe_wood_9
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 43
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef92ad457a57d6b60800000000000000
+      internalID: 7740972696063322622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickaxe_wood_10
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 42
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0c3af68546d97f0800000000000000
+      internalID: -604216444004876080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickaxe_wood_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 42
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f495741f77ca048a0800000000000000
+      internalID: -6322864245679105713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickaxe_wood_12
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 31
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f51838fa06d5810800000000000000
+      internalID: 1755665736686198631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickaxe_wood_13
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b11f26e6a6ffd60800000000000000
+      internalID: 7926170891534277476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickaxe_wood_14
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 9
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4ceaac11e836670800000000000000
+      internalID: 8530818326235890872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickaxe_wood_15
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 9
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c392243ece2199a0800000000000000
+      internalID: -6228145346503863354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickaxe_wood_16
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 10
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c897f92e95178f640800000000000000
+      internalID: 5113962007747328396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickaxe_wood_17
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 0
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef913e340742f47f0800000000000000
+      internalID: -626241758587315714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pickaxe_wood_0: -9006532264313040971
+      pickaxe_wood_1: 5680680762049707633
+      pickaxe_wood_10: -604216444004876080
+      pickaxe_wood_11: -6322864245679105713
+      pickaxe_wood_12: 1755665736686198631
+      pickaxe_wood_13: 7926170891534277476
+      pickaxe_wood_14: 8530818326235890872
+      pickaxe_wood_15: -6228145346503863354
+      pickaxe_wood_16: 5113962007747328396
+      pickaxe_wood_17: -626241758587315714
+      pickaxe_wood_2: -7829393473583434732
+      pickaxe_wood_3: -5737515844510207166
+      pickaxe_wood_4: -4790064868142572852
+      pickaxe_wood_5: 8251864291405235747
+      pickaxe_wood_6: 4723184060599361224
+      pickaxe_wood_7: 4765695294876521061
+      pickaxe_wood_8: 975092369312722660
+      pickaxe_wood_9: 7740972696063322622
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

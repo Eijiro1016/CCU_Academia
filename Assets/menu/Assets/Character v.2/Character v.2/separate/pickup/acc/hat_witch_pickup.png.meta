@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 706b4e58918e9a144b69dc6d07703d61
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8489010901575307669
+    second: hat_witch_pickup_0
+  - first:
+      213: 2675237984299985087
+    second: hat_witch_pickup_1
+  - first:
+      213: -8977243006622278033
+    second: hat_witch_pickup_2
+  - first:
+      213: 6336679211779272148
+    second: hat_witch_pickup_3
+  - first:
+      213: -4909213700845880820
+    second: hat_witch_pickup_4
+  - first:
+      213: -8142670048680024070
+    second: hat_witch_pickup_5
+  - first:
+      213: 5084395151853504459
+    second: hat_witch_pickup_6
+  - first:
+      213: 4903063468091112349
+    second: hat_witch_pickup_7
+  - first:
+      213: 6433267793261882743
+    second: hat_witch_pickup_8
+  - first:
+      213: 779584410080044955
+    second: hat_witch_pickup_9
+  - first:
+      213: -6179520575858020559
+    second: hat_witch_pickup_10
+  - first:
+      213: -8059621988111018084
+    second: hat_witch_pickup_11
+  - first:
+      213: 900103557897183757
+    second: hat_witch_pickup_12
+  - first:
+      213: -8026743983050508091
+    second: hat_witch_pickup_13
+  - first:
+      213: -2320024173958484326
+    second: hat_witch_pickup_14
+  - first:
+      213: -5656116213467721587
+    second: hat_witch_pickup_15
+  - first:
+      213: -4147619762885194584
+    second: hat_witch_pickup_16
+  - first:
+      213: 3988826648320550741
+    second: hat_witch_pickup_17
+  - first:
+      213: -2205309781732951351
+    second: hat_witch_pickup_18
+  - first:
+      213: 3726011684302779286
+    second: hat_witch_pickup_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hat_witch_pickup_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 108
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59190d230760fc570800000000000000
+      internalID: 8489010901575307669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_pickup_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 107
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb825dfc5ca502520800000000000000
+      internalID: 2675237984299985087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_pickup_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 108
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e5be78c0d6a6380800000000000000
+      internalID: -8977243006622278033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_pickup_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 108
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dda4b18b2860f750800000000000000
+      internalID: 6336679211779272148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_pickup_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 108
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ab9923628fedbb0800000000000000
+      internalID: -4909213700845880820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_pickup_5
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 76
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7e6318bbc6ffe80800000000000000
+      internalID: -8142670048680024070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_pickup_6
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 77
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc742fbc3766f8640800000000000000
+      internalID: 5084395151853504459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_pickup_7
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 77
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9bf3c62f3e2b0440800000000000000
+      internalID: 4903063468091112349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_pickup_8
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 76
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77de55a19fe874950800000000000000
+      internalID: 6433267793261882743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_pickup_9
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 76
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97e04bf3e3a1da00800000000000000
+      internalID: 779584410080044955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_pickup_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 44
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13fe3c9d6ceed3aa0800000000000000
+      internalID: -6179520575858020559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_pickup_11
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 43
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9717b6e088762090800000000000000
+      internalID: -8059621988111018084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_pickup_12
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 43
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02e68dba6fcd7c00800000000000000
+      internalID: 900103557897183757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_pickup_13
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 44
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8354bffd64b9090800000000000000
+      internalID: -8026743983050508091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_pickup_14
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 44
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ea2e84e4e9dcfd0800000000000000
+      internalID: -2320024173958484326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_pickup_15
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 12
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80ddef65407181b0800000000000000
+      internalID: -5656116213467721587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_pickup_16
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 11
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac86d9fcc1b076c0800000000000000
+      internalID: -4147619762885194584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_pickup_17
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 11
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55722c3f3b82b5730800000000000000
+      internalID: 3988826648320550741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_pickup_18
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 12
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cafc10107a2561e0800000000000000
+      internalID: -2205309781732951351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_pickup_19
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 12
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69372d7b2e375b330800000000000000
+      internalID: 3726011684302779286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hat_witch_pickup_0: 8489010901575307669
+      hat_witch_pickup_1: 2675237984299985087
+      hat_witch_pickup_10: -6179520575858020559
+      hat_witch_pickup_11: -8059621988111018084
+      hat_witch_pickup_12: 900103557897183757
+      hat_witch_pickup_13: -8026743983050508091
+      hat_witch_pickup_14: -2320024173958484326
+      hat_witch_pickup_15: -5656116213467721587
+      hat_witch_pickup_16: -4147619762885194584
+      hat_witch_pickup_17: 3988826648320550741
+      hat_witch_pickup_18: -2205309781732951351
+      hat_witch_pickup_19: 3726011684302779286
+      hat_witch_pickup_2: -8977243006622278033
+      hat_witch_pickup_3: 6336679211779272148
+      hat_witch_pickup_4: -4909213700845880820
+      hat_witch_pickup_5: -8142670048680024070
+      hat_witch_pickup_6: 5084395151853504459
+      hat_witch_pickup_7: 4903063468091112349
+      hat_witch_pickup_8: 6433267793261882743
+      hat_witch_pickup_9: 779584410080044955
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

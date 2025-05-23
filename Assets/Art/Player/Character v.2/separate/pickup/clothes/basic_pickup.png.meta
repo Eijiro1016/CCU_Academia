@@ -1,0 +1,5317 @@
+fileFormatVersion: 2
+guid: 0f2e7755c07f7ee429db02c7cde468a2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1622864901511927720
+    second: basic_pickup_0
+  - first:
+      213: -800858891989974962
+    second: basic_pickup_1
+  - first:
+      213: 7342785390607625869
+    second: basic_pickup_2
+  - first:
+      213: 2319660826194895952
+    second: basic_pickup_3
+  - first:
+      213: 5735641728560101744
+    second: basic_pickup_4
+  - first:
+      213: -628369649347213298
+    second: basic_pickup_5
+  - first:
+      213: -4390228369405754658
+    second: basic_pickup_6
+  - first:
+      213: -8366012795375108118
+    second: basic_pickup_7
+  - first:
+      213: 8803027607131762774
+    second: basic_pickup_8
+  - first:
+      213: -689772445263159799
+    second: basic_pickup_9
+  - first:
+      213: 7756872998273920342
+    second: basic_pickup_10
+  - first:
+      213: 3126547745187087662
+    second: basic_pickup_11
+  - first:
+      213: -6023523385702087230
+    second: basic_pickup_12
+  - first:
+      213: -3290732728181440303
+    second: basic_pickup_13
+  - first:
+      213: 2804643618928031229
+    second: basic_pickup_14
+  - first:
+      213: 6073870094413652042
+    second: basic_pickup_15
+  - first:
+      213: -4299479561867739234
+    second: basic_pickup_16
+  - first:
+      213: 802759552517361517
+    second: basic_pickup_17
+  - first:
+      213: -9003413288947190308
+    second: basic_pickup_18
+  - first:
+      213: -703435007554651495
+    second: basic_pickup_19
+  - first:
+      213: -8185768756513673699
+    second: basic_pickup_20
+  - first:
+      213: -15928155409311829
+    second: basic_pickup_21
+  - first:
+      213: -8686140258989052699
+    second: basic_pickup_22
+  - first:
+      213: 8198701213210663856
+    second: basic_pickup_23
+  - first:
+      213: -1828041751286995196
+    second: basic_pickup_24
+  - first:
+      213: -3684019122828143262
+    second: basic_pickup_25
+  - first:
+      213: 7012621139815891395
+    second: basic_pickup_26
+  - first:
+      213: 1830970333767704547
+    second: basic_pickup_27
+  - first:
+      213: 2573268791952100079
+    second: basic_pickup_28
+  - first:
+      213: -7173775081724370272
+    second: basic_pickup_29
+  - first:
+      213: -8371123722430433232
+    second: basic_pickup_30
+  - first:
+      213: -1935615904528479343
+    second: basic_pickup_31
+  - first:
+      213: -2340790291655353612
+    second: basic_pickup_32
+  - first:
+      213: 6973380161164708210
+    second: basic_pickup_33
+  - first:
+      213: 7422144146666059875
+    second: basic_pickup_34
+  - first:
+      213: -8923670999286265355
+    second: basic_pickup_35
+  - first:
+      213: 7102561402177948865
+    second: basic_pickup_36
+  - first:
+      213: 8775534316012835979
+    second: basic_pickup_37
+  - first:
+      213: 1876114886881179286
+    second: basic_pickup_38
+  - first:
+      213: 5503582859849329322
+    second: basic_pickup_39
+  - first:
+      213: -6447026026689486948
+    second: basic_pickup_40
+  - first:
+      213: 4281268128509127977
+    second: basic_pickup_41
+  - first:
+      213: 7859218321099802102
+    second: basic_pickup_42
+  - first:
+      213: -8479847140543420589
+    second: basic_pickup_43
+  - first:
+      213: -161022775590479149
+    second: basic_pickup_44
+  - first:
+      213: 8683411074492223087
+    second: basic_pickup_45
+  - first:
+      213: -2915507968658651121
+    second: basic_pickup_46
+  - first:
+      213: -2908267677991792435
+    second: basic_pickup_47
+  - first:
+      213: 6614701297282593516
+    second: basic_pickup_48
+  - first:
+      213: -2644812385576532113
+    second: basic_pickup_49
+  - first:
+      213: -5558997775029868431
+    second: basic_pickup_50
+  - first:
+      213: 6048855054476208451
+    second: basic_pickup_51
+  - first:
+      213: -1522463408773165868
+    second: basic_pickup_52
+  - first:
+      213: 3477701894049349551
+    second: basic_pickup_53
+  - first:
+      213: 7374569170178725273
+    second: basic_pickup_54
+  - first:
+      213: 3498351384681299171
+    second: basic_pickup_55
+  - first:
+      213: 8902964702826914775
+    second: basic_pickup_56
+  - first:
+      213: -5410395798490040963
+    second: basic_pickup_57
+  - first:
+      213: 5026359667683610783
+    second: basic_pickup_58
+  - first:
+      213: -7008899753267398309
+    second: basic_pickup_59
+  - first:
+      213: 8189136330494834580
+    second: basic_pickup_60
+  - first:
+      213: -9062767886596573451
+    second: basic_pickup_61
+  - first:
+      213: -777687250755017839
+    second: basic_pickup_62
+  - first:
+      213: 7275696071180789728
+    second: basic_pickup_63
+  - first:
+      213: 5035833424244781508
+    second: basic_pickup_64
+  - first:
+      213: 3984956428079769202
+    second: basic_pickup_65
+  - first:
+      213: -5850229574816461384
+    second: basic_pickup_66
+  - first:
+      213: -2945524526129377122
+    second: basic_pickup_67
+  - first:
+      213: -1763337805489166644
+    second: basic_pickup_68
+  - first:
+      213: 717406782765130097
+    second: basic_pickup_69
+  - first:
+      213: 3966460850884424530
+    second: basic_pickup_70
+  - first:
+      213: -7537569584059999928
+    second: basic_pickup_71
+  - first:
+      213: -4742854005377530148
+    second: basic_pickup_72
+  - first:
+      213: -6012427901138620726
+    second: basic_pickup_73
+  - first:
+      213: 6629432542809596147
+    second: basic_pickup_74
+  - first:
+      213: -4739364873102686293
+    second: basic_pickup_75
+  - first:
+      213: 1411989815549622531
+    second: basic_pickup_76
+  - first:
+      213: -721941288657601912
+    second: basic_pickup_77
+  - first:
+      213: -9024688894657700479
+    second: basic_pickup_78
+  - first:
+      213: -4502709368023954228
+    second: basic_pickup_79
+  - first:
+      213: 6707730329380021726
+    second: basic_pickup_80
+  - first:
+      213: -5516510944207797222
+    second: basic_pickup_81
+  - first:
+      213: -7480171396208880700
+    second: basic_pickup_82
+  - first:
+      213: -7493105225251203498
+    second: basic_pickup_83
+  - first:
+      213: -3347980182247824132
+    second: basic_pickup_84
+  - first:
+      213: 6976833144712942043
+    second: basic_pickup_85
+  - first:
+      213: -218443800123155143
+    second: basic_pickup_86
+  - first:
+      213: -2278500974937212931
+    second: basic_pickup_87
+  - first:
+      213: 3187524999980849586
+    second: basic_pickup_88
+  - first:
+      213: 3980409355667705050
+    second: basic_pickup_89
+  - first:
+      213: -349908482568351760
+    second: basic_pickup_90
+  - first:
+      213: -8001483805148486259
+    second: basic_pickup_91
+  - first:
+      213: -7695188424984991328
+    second: basic_pickup_92
+  - first:
+      213: -7594206955870920447
+    second: basic_pickup_93
+  - first:
+      213: -9017842125730086060
+    second: basic_pickup_94
+  - first:
+      213: 5493813765836167535
+    second: basic_pickup_95
+  - first:
+      213: 4819703553700666870
+    second: basic_pickup_96
+  - first:
+      213: -1745968365600128748
+    second: basic_pickup_97
+  - first:
+      213: -2164883323219728615
+    second: basic_pickup_98
+  - first:
+      213: -460172944601446512
+    second: basic_pickup_99
+  - first:
+      213: 9060558312093715152
+    second: basic_pickup_100
+  - first:
+      213: 1147562843748949597
+    second: basic_pickup_101
+  - first:
+      213: -7552358471783094483
+    second: basic_pickup_102
+  - first:
+      213: 6552215223118419728
+    second: basic_pickup_103
+  - first:
+      213: 3359495369670207785
+    second: basic_pickup_104
+  - first:
+      213: 3563247897542982366
+    second: basic_pickup_105
+  - first:
+      213: 3786738390518122305
+    second: basic_pickup_106
+  - first:
+      213: -5206657301097568857
+    second: basic_pickup_107
+  - first:
+      213: 4210265700008445068
+    second: basic_pickup_108
+  - first:
+      213: -7636203410218550131
+    second: basic_pickup_109
+  - first:
+      213: 4112991390991556240
+    second: basic_pickup_110
+  - first:
+      213: 6599453403158738205
+    second: basic_pickup_111
+  - first:
+      213: -7445406171045420047
+    second: basic_pickup_112
+  - first:
+      213: -668016753879510863
+    second: basic_pickup_113
+  - first:
+      213: -1496439905678184619
+    second: basic_pickup_114
+  - first:
+      213: -1625404205269735712
+    second: basic_pickup_115
+  - first:
+      213: -8430763525404158017
+    second: basic_pickup_116
+  - first:
+      213: 8846634282561383853
+    second: basic_pickup_117
+  - first:
+      213: 589882348385760104
+    second: basic_pickup_118
+  - first:
+      213: -7835162753941669511
+    second: basic_pickup_119
+  - first:
+      213: 3402758889844309416
+    second: basic_pickup_120
+  - first:
+      213: -4612933180418247178
+    second: basic_pickup_121
+  - first:
+      213: 7620937847362280223
+    second: basic_pickup_122
+  - first:
+      213: -1305262766563781441
+    second: basic_pickup_123
+  - first:
+      213: -199256839670066463
+    second: basic_pickup_124
+  - first:
+      213: 7558096571656754777
+    second: basic_pickup_125
+  - first:
+      213: 5704124874287335688
+    second: basic_pickup_126
+  - first:
+      213: -8224880762362782827
+    second: basic_pickup_127
+  - first:
+      213: -8499118413346942819
+    second: basic_pickup_128
+  - first:
+      213: 9115638118268738345
+    second: basic_pickup_129
+  - first:
+      213: 9150341524292797863
+    second: basic_pickup_130
+  - first:
+      213: -9078725955648450693
+    second: basic_pickup_131
+  - first:
+      213: 8402725341304255023
+    second: basic_pickup_132
+  - first:
+      213: -7292997462978020199
+    second: basic_pickup_133
+  - first:
+      213: 51495650515214365
+    second: basic_pickup_134
+  - first:
+      213: 5095017291778455789
+    second: basic_pickup_135
+  - first:
+      213: 852158050192981921
+    second: basic_pickup_136
+  - first:
+      213: -4563895443207111397
+    second: basic_pickup_137
+  - first:
+      213: -4123939985322951324
+    second: basic_pickup_138
+  - first:
+      213: -472196889519487122
+    second: basic_pickup_139
+  - first:
+      213: 1343961567637273760
+    second: basic_pickup_140
+  - first:
+      213: -1462438194512630269
+    second: basic_pickup_141
+  - first:
+      213: -3600109600476169879
+    second: basic_pickup_142
+  - first:
+      213: -7150990314708160413
+    second: basic_pickup_143
+  - first:
+      213: 3917946568653198017
+    second: basic_pickup_144
+  - first:
+      213: -7664394413441164794
+    second: basic_pickup_145
+  - first:
+      213: -761390763162270142
+    second: basic_pickup_146
+  - first:
+      213: 4419790791069671683
+    second: basic_pickup_147
+  - first:
+      213: 1119997258285281890
+    second: basic_pickup_148
+  - first:
+      213: -6117309169399691185
+    second: basic_pickup_149
+  - first:
+      213: -8364373032743769289
+    second: basic_pickup_150
+  - first:
+      213: -4423320685675917533
+    second: basic_pickup_151
+  - first:
+      213: -1992864119818523282
+    second: basic_pickup_152
+  - first:
+      213: 3438057883913901371
+    second: basic_pickup_153
+  - first:
+      213: -7091088519164210376
+    second: basic_pickup_154
+  - first:
+      213: -8900121243031340637
+    second: basic_pickup_155
+  - first:
+      213: -7103038343639995103
+    second: basic_pickup_156
+  - first:
+      213: 19643931901454712
+    second: basic_pickup_157
+  - first:
+      213: -605012506150930623
+    second: basic_pickup_158
+  - first:
+      213: 8815031406922799636
+    second: basic_pickup_159
+  - first:
+      213: -994098794994122670
+    second: basic_pickup_160
+  - first:
+      213: -4491965604457062850
+    second: basic_pickup_161
+  - first:
+      213: 4743103412023536315
+    second: basic_pickup_162
+  - first:
+      213: -3467842587180142306
+    second: basic_pickup_163
+  - first:
+      213: 3842294755011564833
+    second: basic_pickup_164
+  - first:
+      213: 846425799357041412
+    second: basic_pickup_165
+  - first:
+      213: -646176562790520520
+    second: basic_pickup_166
+  - first:
+      213: -6110438486261197231
+    second: basic_pickup_167
+  - first:
+      213: 924711252874378885
+    second: basic_pickup_168
+  - first:
+      213: -7620055220288036773
+    second: basic_pickup_169
+  - first:
+      213: 4651341121190203827
+    second: basic_pickup_170
+  - first:
+      213: -8502456951768013795
+    second: basic_pickup_171
+  - first:
+      213: 2676963057225978041
+    second: basic_pickup_172
+  - first:
+      213: 469324299218492675
+    second: basic_pickup_173
+  - first:
+      213: 4859015723469001996
+    second: basic_pickup_174
+  - first:
+      213: -5262342685384021430
+    second: basic_pickup_175
+  - first:
+      213: 6207044831207292914
+    second: basic_pickup_176
+  - first:
+      213: -168874054269587072
+    second: basic_pickup_177
+  - first:
+      213: 9095129735381865376
+    second: basic_pickup_178
+  - first:
+      213: 6960757405368719362
+    second: basic_pickup_179
+  - first:
+      213: -5710428986762309296
+    second: basic_pickup_180
+  - first:
+      213: 8934108305378136230
+    second: basic_pickup_181
+  - first:
+      213: -2536490986399431427
+    second: basic_pickup_182
+  - first:
+      213: -5184400690256507101
+    second: basic_pickup_183
+  - first:
+      213: -7988097697561551873
+    second: basic_pickup_184
+  - first:
+      213: 1237796196985493534
+    second: basic_pickup_185
+  - first:
+      213: 8886354192488696982
+    second: basic_pickup_186
+  - first:
+      213: 5583793918080990752
+    second: basic_pickup_187
+  - first:
+      213: 5288876278243585425
+    second: basic_pickup_188
+  - first:
+      213: -4855028950378847791
+    second: basic_pickup_189
+  - first:
+      213: -7803664950158465945
+    second: basic_pickup_190
+  - first:
+      213: -7408008308552581963
+    second: basic_pickup_191
+  - first:
+      213: -7176792312267011683
+    second: basic_pickup_192
+  - first:
+      213: 9218568584243435132
+    second: basic_pickup_193
+  - first:
+      213: 296798926639731765
+    second: basic_pickup_194
+  - first:
+      213: -1146940267695786822
+    second: basic_pickup_195
+  - first:
+      213: 6827229293096877988
+    second: basic_pickup_196
+  - first:
+      213: -699822447386328083
+    second: basic_pickup_197
+  - first:
+      213: -1137173100927476753
+    second: basic_pickup_198
+  - first:
+      213: 3622021773321725135
+    second: basic_pickup_199
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: basic_pickup_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 99
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a751159703958610800000000000000
+      internalID: 1622864901511927720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 98
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4089b3b417c2e4f0800000000000000
+      internalID: -800858891989974962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 99
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e6815b860d6e560800000000000000
+      internalID: 7342785390607625869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 99
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0546cb83b37113020800000000000000
+      internalID: 2319660826194895952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 99
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0797bbd63c7199f40800000000000000
+      internalID: 5735641728560101744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 99
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08c50712259747f0800000000000000
+      internalID: -628369649347213298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 98
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed24ab6fe86c213c0800000000000000
+      internalID: -4390228369405754658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_7
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 99
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aef3b4900b3f5eb80800000000000000
+      internalID: -8366012795375108118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_8
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 99
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650bb0fd7f2aa2a70800000000000000
+      internalID: 8803027607131762774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_9
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 99
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e9c389d9f6d66f0800000000000000
+      internalID: -689772445263159799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_10
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 99
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65dafede4e2f5ab60800000000000000
+      internalID: 7756872998273920342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_11
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 98
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25cc2deb9ab36b20800000000000000
+      internalID: 3126547745187087662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_12
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 99
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c508fa0565286ca0800000000000000
+      internalID: -6023523385702087230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_13
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 99
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d04efdc408f452d0800000000000000
+      internalID: -3290732728181440303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_14
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 99
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df575c303881ce620800000000000000
+      internalID: 2804643618928031229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_15
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 99
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40e46d8ba8ba4450800000000000000
+      internalID: 6073870094413652042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_16
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 98
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f32db3e1e2554c0800000000000000
+      internalID: -4299479561867739234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_17
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 99
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f49df4f89f32b00800000000000000
+      internalID: 802759552517361517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_18
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 99
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5754ad0537d0380800000000000000
+      internalID: -9003413288947190308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_19
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 99
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a712c6695ec36f0800000000000000
+      internalID: -703435007554651495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_20
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 99
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ee28e9fae466e80800000000000000
+      internalID: -8185768756513673699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_21
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 98
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba796e25d6967cff0800000000000000
+      internalID: -15928155409311829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_22
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 99
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ececb1a471a47780800000000000000
+      internalID: -8686140258989052699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_23
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 99
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb5cf89053a7c170800000000000000
+      internalID: 8198701213210663856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_24
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 99
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407a4fb66bd71a6e0800000000000000
+      internalID: -1828041751286995196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_25
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 99
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2651516602cbfdcc0800000000000000
+      internalID: -3684019122828143262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_26
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 98
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c10f1fa5c5d15160800000000000000
+      internalID: 7012621139815891395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_27
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 99
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef908251d9e86910800000000000000
+      internalID: 1830970333767704547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_28
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 99
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea47ef155616b320800000000000000
+      internalID: 2573268791952100079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_29
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 99
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2254b4291a17c90800000000000000
+      internalID: -7173775081724370272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_30
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 99
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03830b9935bc3db80800000000000000
+      internalID: -8371123722430433232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_31
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 98
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19bcbf4179f4325e0800000000000000
+      internalID: -1935615904528479343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_32
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 99
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa133cb1a7d38fd0800000000000000
+      internalID: -2340790291655353612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_33
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 99
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2798afd5f4c66c060800000000000000
+      internalID: 6973380161164708210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_34
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 99
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36876c5f6c0c00760800000000000000
+      internalID: 7422144146666059875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_35
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 99
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9461b7180c82480800000000000000
+      internalID: -8923670999286265355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_36
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 98
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc873cd6fd519260800000000000000
+      internalID: 7102561402177948865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_37
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 99
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84123437f5f8c970800000000000000
+      internalID: 8775534316012835979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_38
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 99
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696ff5eac8c490a10800000000000000
+      internalID: 1876114886881179286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_39
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 99
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa6f39a377a06c40800000000000000
+      internalID: 5503582859849329322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_40
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 99
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f997d8cff8786a0800000000000000
+      internalID: -6447026026689486948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_41
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 98
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92decf30eae1a6b30800000000000000
+      internalID: 4281268128509127977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_42
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 99
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f545615c6d811d60800000000000000
+      internalID: 7859218321099802102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_43
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 99
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3572c4e24f7815a80800000000000000
+      internalID: -8479847140543420589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_44
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 99
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da9e2483aee3cdf0800000000000000
+      internalID: -161022775590479149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_45
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 99
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e4dc59d5ca18870800000000000000
+      internalID: 8683411074492223087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_46
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 98
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08c74413f80a87d0800000000000000
+      internalID: -2915507968658651121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_47
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 99
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc09c8d94f1c3a7d0800000000000000
+      internalID: -2908267677991792435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_48
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 99
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce238df98c32ccb50800000000000000
+      internalID: 6614701297282593516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_49
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 99
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f67482ce52dbb4bd0800000000000000
+      internalID: -2644812385576532113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_50
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 67
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1786828f9f87ad2b0800000000000000
+      internalID: -5558997775029868431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_51
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 68
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34961e3bf99d1f350800000000000000
+      internalID: 6048855054476208451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_52
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 68
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc8b88989f1fdae0800000000000000
+      internalID: -1522463408773165868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_53
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 67
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fafb38d6277434030800000000000000
+      internalID: 3477701894049349551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_54
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 67
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995dc00969bb75660800000000000000
+      internalID: 7374569170178725273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_55
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 67
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ecbc6f9c04ac8030800000000000000
+      internalID: 3498351384681299171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_56
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 68
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3e6df2a3fad8b70800000000000000
+      internalID: 8902964702826914775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_57
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 68
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d753cb0dfa96ae4b0800000000000000
+      internalID: -5410395798490040963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_58
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 67
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90d1a9ac7731c540800000000000000
+      internalID: 5026359667683610783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_59
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 67
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b597c242fc26bbe90800000000000000
+      internalID: -7008899753267398309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_60
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 67
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497f36cca18a5a170800000000000000
+      internalID: 8189136330494834580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_61
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 68
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6f79daf949a3280800000000000000
+      internalID: -9062767886596573451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_62
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 68
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 193a568d0991535f0800000000000000
+      internalID: -777687250755017839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_63
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 67
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7af68470778f460800000000000000
+      internalID: 7275696071180789728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_64
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 67
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1362081dfd2e540800000000000000
+      internalID: 5035833424244781508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_65
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 67
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276aa1512c86d4730800000000000000
+      internalID: 3984956428079769202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_66
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 68
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd8492923fcfcea0800000000000000
+      internalID: -5850229574816461384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_67
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 68
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e909bdeac056f17d0800000000000000
+      internalID: -2945524526129377122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_68
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 67
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc62dc4cb9d5787e0800000000000000
+      internalID: -1763337805489166644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_69
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 67
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171eb2efaadb4f900800000000000000
+      internalID: 717406782765130097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_70
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 67
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253b570f023bb0730800000000000000
+      internalID: 3966460850884424530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_71
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 68
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8499058266c256790800000000000000
+      internalID: -7537569584059999928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_72
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 68
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd60feb296ffd2eb0800000000000000
+      internalID: -4742854005377530148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_73
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 67
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace2cfadda09f8ca0800000000000000
+      internalID: -6012427901138620726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_74
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 67
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0a49006c9700c50800000000000000
+      internalID: 6629432542809596147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_75
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 67
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba700c512c46a3eb0800000000000000
+      internalID: -4739364873102686293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_76
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 68
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309fd469145689310800000000000000
+      internalID: 1411989815549622531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_77
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 68
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a30e419362bf5f0800000000000000
+      internalID: -721941288657601912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_78
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 67
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18dd381e34dd1c280800000000000000
+      internalID: -9024688894657700479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_79
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 67
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccccb18afa92381c0800000000000000
+      internalID: -4502709368023954228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_80
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 67
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed56fcb0235a61d50800000000000000
+      internalID: 6707730329380021726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_81
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 68
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1480f2268a6173b0800000000000000
+      internalID: -5516510944207797222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_82
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 68
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c39eed2fb7113890800000000000000
+      internalID: -7480171396208880700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_83
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 67
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65657407f74230890800000000000000
+      internalID: -7493105225251203498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_84
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 67
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4221a33c59981d0800000000000000
+      internalID: -3347980182247824132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_85
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 67
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd159cfb7c0b2d060800000000000000
+      internalID: 6976833144712942043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_86
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 68
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93dd54a658ee7fcf0800000000000000
+      internalID: -218443800123155143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_87
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 68
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df77c707f632160e0800000000000000
+      internalID: -2278500974937212931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_88
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 67
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b91988691d5c3c20800000000000000
+      internalID: 3187524999980849586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_89
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 67
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc073948314d3730800000000000000
+      internalID: 3980409355667705050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_90
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 67
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff0e98c610e42bf0800000000000000
+      internalID: -349908482568351760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_91
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 68
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8565167fd405f090800000000000000
+      internalID: -8001483805148486259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_92
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 68
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a96219f5e2353590800000000000000
+      internalID: -7695188424984991328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_93
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 67
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101638c6205fb9690800000000000000
+      internalID: -7594206955870920447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_94
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 67
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4530e4f7d503ad280800000000000000
+      internalID: -9017842125730086060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_95
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 67
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69d0d63382fd3c40800000000000000
+      internalID: 5493813765836167535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_96
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 68
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd1401a8d603e240800000000000000
+      internalID: 4819703553700666870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_97
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 68
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411c553a50315c7e0800000000000000
+      internalID: -1745968365600128748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_98
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 67
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917225b661ac4f1e0800000000000000
+      internalID: -2164883323219728615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_99
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 67
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09709cd15232d99f0800000000000000
+      internalID: -460172944601446512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_100
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 35
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da0f0ba7c19dbd70800000000000000
+      internalID: 9060558312093715152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_101
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 35
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ed71b8356fcef00800000000000000
+      internalID: 1147562843748949597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_102
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 35
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27e4f8ebf1a03790800000000000000
+      internalID: -7552358471783094483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_103
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 35
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01751e1c7052eea50800000000000000
+      internalID: 6552215223118419728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_104
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 35
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92923c54d335f9e20800000000000000
+      internalID: 3359495369670207785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_105
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 35
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edaf4bb7513337130800000000000000
+      internalID: 3563247897542982366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_106
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 35
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147ca20d0823d8430800000000000000
+      internalID: 3786738390518122305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_107
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 35
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5a2ec45cc3eb7b0800000000000000
+      internalID: -5206657301097568857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_108
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 35
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84c303e85edd6a30800000000000000
+      internalID: 4210265700008445068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_109
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 35
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8cfb4de471c60690800000000000000
+      internalID: -7636203410218550131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_110
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 35
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e9a48e0e7441930800000000000000
+      internalID: 4112991390991556240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_111
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 35
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15f40f97e7f59b50800000000000000
+      internalID: 6599453403158738205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_112
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 35
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3265ee88a9ca890800000000000000
+      internalID: -7445406171045420047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_113
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 35
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b090093d4abab6f0800000000000000
+      internalID: -668016753879510863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_114
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 35
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f255295d39b3be0800000000000000
+      internalID: -1496439905678184619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_115
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 35
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6a870bc776179e0800000000000000
+      internalID: -1625404205269735712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_116
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 35
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb717f2ed39effa80800000000000000
+      internalID: -8430763525404158017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_117
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 35
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad2ddd220f85ca70800000000000000
+      internalID: 8846634282561383853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_118
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 35
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8637ecadedeaf2800800000000000000
+      internalID: 589882348385760104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_119
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 35
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9797feddcf8e34390800000000000000
+      internalID: -7835162753941669511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_120
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 35
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8adf8758e27093f20800000000000000
+      internalID: 3402758889844309416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_121
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 35
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5be8876b19bffb0800000000000000
+      internalID: -4612933180418247178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_122
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 35
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1bdb5f389203c960800000000000000
+      internalID: 7620937847362280223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_123
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 35
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb41c6ced66c2ede0800000000000000
+      internalID: -1305262766563781441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_124
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 35
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e21664c5f81c3df0800000000000000
+      internalID: -199256839670066463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_125
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 35
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956d2b399c0c3e860800000000000000
+      internalID: 7558096571656754777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_126
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 35
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809cd56f95f192f40800000000000000
+      internalID: 5704124874287335688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_127
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 35
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b1c6f168a5bdd80800000000000000
+      internalID: -8224880762362782827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_128
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 35
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90597455d01d0a80800000000000000
+      internalID: -8499118413346942819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_129
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 35
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b1b646290418e70800000000000000
+      internalID: 9115638118268738345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_130
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 35
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a58af0c22b8cfe70800000000000000
+      internalID: 9150341524292797863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_131
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 35
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f847038d2e10280800000000000000
+      internalID: -9078725955648450693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_132
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 35
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22fc99ad2a7c9470800000000000000
+      internalID: 8402725341304255023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_133
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 35
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99cbe5782711aca90800000000000000
+      internalID: -7292997462978020199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_134
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 35
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10ef647503f6b000800000000000000
+      internalID: 51495650515214365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_135
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 35
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de87de87b3325b640800000000000000
+      internalID: 5095017291778455789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_136
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 35
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1affd325b3973db00800000000000000
+      internalID: 852158050192981921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_137
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 35
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1dbd936649c9a0c0800000000000000
+      internalID: -4563895443207111397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_138
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 35
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46dbbc3de62d4c6c0800000000000000
+      internalID: -4123939985322951324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_139
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 35
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6785284e6b6279f0800000000000000
+      internalID: -472196889519487122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_140
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 35
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0acfbc6dce5b6a210800000000000000
+      internalID: 1343961567637273760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_141
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 35
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e6c1ed53064bbe0800000000000000
+      internalID: -1462438194512630269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_142
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 35
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969f42f7467d90ec0800000000000000
+      internalID: -3600109600476169879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_143
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 35
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360bf83423492cc90800000000000000
+      internalID: -7150990314708160413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_144
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 35
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2d88165a75f5630800000000000000
+      internalID: 3917946568653198017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_145
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 35
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ad95083e992a590800000000000000
+      internalID: -7664394413441164794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_146
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 35
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246037a822ffe65f0800000000000000
+      internalID: -761390763162270142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_147
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 35
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3012043be40465d30800000000000000
+      internalID: 4419790791069671683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_148
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 35
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262718982970b8f00800000000000000
+      internalID: 1119997258285281890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_149
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 35
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4801b8a8b3fa1ba0800000000000000
+      internalID: -6117309169399691185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_150
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 3
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b63760b07cbeb80800000000000000
+      internalID: -8364373032743769289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_151
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 3
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f46aaa5453d92c0800000000000000
+      internalID: -4423320685675917533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_152
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 3
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d689444ace754e0800000000000000
+      internalID: -1992864119818523282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_153
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 3
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b355be70e6f66bf20800000000000000
+      internalID: 3438057883913901371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_154
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 3
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 833dd50ef84679d90800000000000000
+      internalID: -7091088519164210376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_155
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 3
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9753362ea6c7480800000000000000
+      internalID: -8900121243031340637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_156
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 3
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12deb5d8240fc6d90800000000000000
+      internalID: -7103038343639995103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_157
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 3
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8796afe4d0ac54000800000000000000
+      internalID: 19643931901454712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_158
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 3
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1477436c4509a97f0800000000000000
+      internalID: -605012506150930623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_159
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 3
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a9b8d4c58455a70800000000000000
+      internalID: 8815031406922799636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_160
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 3
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2504bb4b9604432f0800000000000000
+      internalID: -994098794994122670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_161
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 3
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e501b051559a1c0800000000000000
+      internalID: -4491965604457062850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_162
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 3
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba2b965c63e2d140800000000000000
+      internalID: 4743103412023536315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_163
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 3
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11f7265a8fbfdfc0800000000000000
+      internalID: -3467842587180142306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_164
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 3
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1259fcae8b2925530800000000000000
+      internalID: 3842294755011564833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_165
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 3
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b076ba7cb1fbb00800000000000000
+      internalID: 846425799357041412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_166
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 3
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83920b8f6d15807f0800000000000000
+      internalID: -646176562790520520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_167
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 3
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156968c329c533ba0800000000000000
+      internalID: -6110438486261197231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_168
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 3
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e32633cfb35dc00800000000000000
+      internalID: 924711252874378885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_169
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 3
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50eed16620204690800000000000000
+      internalID: -7620055220288036773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_170
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 3
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b195b91b12ec8040800000000000000
+      internalID: 4651341121190203827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_171
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 3
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1421d74374310a80800000000000000
+      internalID: -8502456951768013795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_172
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 3
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b05cc6a7bb762520800000000000000
+      internalID: 2676963057225978041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_173
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 3
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d906ba6ff538600800000000000000
+      internalID: 469324299218492675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_174
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 3
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05586b6e01be6340800000000000000
+      internalID: 4859015723469001996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_175
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 3
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a6f4f653768f6b0800000000000000
+      internalID: -5262342685384021430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_176
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 3
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fff80d336ad32650800000000000000
+      internalID: 6207044831207292914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_177
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 3
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0813b7f31f908adf0800000000000000
+      internalID: -168874054269587072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_178
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 3
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a357876e44683e70800000000000000
+      internalID: 9095129735381865376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_179
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 3
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2081ca20bf3999060800000000000000
+      internalID: 6960757405368719362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_180
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 3
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05150f8771b70c0b0800000000000000
+      internalID: -5710428986762309296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_181
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 3
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a05ee63b245cfb70800000000000000
+      internalID: 8934108305378136230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_182
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 3
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df48ea303e29cccd0800000000000000
+      internalID: -2536490986399431427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_183
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 3
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f88f35a0f4d08b0800000000000000
+      internalID: -5184400690256507101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_184
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 3
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb5ab18773942190800000000000000
+      internalID: -7988097697561551873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_185
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 3
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1856a145198d2110800000000000000
+      internalID: 1237796196985493534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_186
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 3
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c879f5e0ca25b70800000000000000
+      internalID: 8886354192488696982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_187
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 3
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e343afbfe9d7d40800000000000000
+      internalID: 5583793918080990752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_188
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 3
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19de2b114fcd56940800000000000000
+      internalID: 5288876278243585425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_189
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 3
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d16e6684e87f9cb0800000000000000
+      internalID: -4855028950378847791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_190
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 3
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76463abc210d3b390800000000000000
+      internalID: -7803664950158465945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_191
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 3
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bcb49351b7713990800000000000000
+      internalID: -7408008308552581963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_192
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 3
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9902909a69e66c90800000000000000
+      internalID: -7176792312267011683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_193
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 3
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76d769094feeef70800000000000000
+      internalID: 9218568584243435132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_194
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 3
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53414102d017e1400800000000000000
+      internalID: 296798926639731765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_195
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 3
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4b66d37ef3510f0800000000000000
+      internalID: -1146940267695786822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_196
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 3
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af3e2faed03fbe50800000000000000
+      internalID: 6827229293096877988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_197
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 3
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de381b1213bb946f0800000000000000
+      internalID: -699822447386328083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_198
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 3
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb9617f613f730f0800000000000000
+      internalID: -1137173100927476753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basic_pickup_199
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 3
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4629fcc91044230800000000000000
+      internalID: 3622021773321725135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      basic_pickup_0: 1622864901511927720
+      basic_pickup_1: -800858891989974962
+      basic_pickup_10: 7756872998273920342
+      basic_pickup_100: 9060558312093715152
+      basic_pickup_101: 1147562843748949597
+      basic_pickup_102: -7552358471783094483
+      basic_pickup_103: 6552215223118419728
+      basic_pickup_104: 3359495369670207785
+      basic_pickup_105: 3563247897542982366
+      basic_pickup_106: 3786738390518122305
+      basic_pickup_107: -5206657301097568857
+      basic_pickup_108: 4210265700008445068
+      basic_pickup_109: -7636203410218550131
+      basic_pickup_11: 3126547745187087662
+      basic_pickup_110: 4112991390991556240
+      basic_pickup_111: 6599453403158738205
+      basic_pickup_112: -7445406171045420047
+      basic_pickup_113: -668016753879510863
+      basic_pickup_114: -1496439905678184619
+      basic_pickup_115: -1625404205269735712
+      basic_pickup_116: -8430763525404158017
+      basic_pickup_117: 8846634282561383853
+      basic_pickup_118: 589882348385760104
+      basic_pickup_119: -7835162753941669511
+      basic_pickup_12: -6023523385702087230
+      basic_pickup_120: 3402758889844309416
+      basic_pickup_121: -4612933180418247178
+      basic_pickup_122: 7620937847362280223
+      basic_pickup_123: -1305262766563781441
+      basic_pickup_124: -199256839670066463
+      basic_pickup_125: 7558096571656754777
+      basic_pickup_126: 5704124874287335688
+      basic_pickup_127: -8224880762362782827
+      basic_pickup_128: -8499118413346942819
+      basic_pickup_129: 9115638118268738345
+      basic_pickup_13: -3290732728181440303
+      basic_pickup_130: 9150341524292797863
+      basic_pickup_131: -9078725955648450693
+      basic_pickup_132: 8402725341304255023
+      basic_pickup_133: -7292997462978020199
+      basic_pickup_134: 51495650515214365
+      basic_pickup_135: 5095017291778455789
+      basic_pickup_136: 852158050192981921
+      basic_pickup_137: -4563895443207111397
+      basic_pickup_138: -4123939985322951324
+      basic_pickup_139: -472196889519487122
+      basic_pickup_14: 2804643618928031229
+      basic_pickup_140: 1343961567637273760
+      basic_pickup_141: -1462438194512630269
+      basic_pickup_142: -3600109600476169879
+      basic_pickup_143: -7150990314708160413
+      basic_pickup_144: 3917946568653198017
+      basic_pickup_145: -7664394413441164794
+      basic_pickup_146: -761390763162270142
+      basic_pickup_147: 4419790791069671683
+      basic_pickup_148: 1119997258285281890
+      basic_pickup_149: -6117309169399691185
+      basic_pickup_15: 6073870094413652042
+      basic_pickup_150: -8364373032743769289
+      basic_pickup_151: -4423320685675917533
+      basic_pickup_152: -1992864119818523282
+      basic_pickup_153: 3438057883913901371
+      basic_pickup_154: -7091088519164210376
+      basic_pickup_155: -8900121243031340637
+      basic_pickup_156: -7103038343639995103
+      basic_pickup_157: 19643931901454712
+      basic_pickup_158: -605012506150930623
+      basic_pickup_159: 8815031406922799636
+      basic_pickup_16: -4299479561867739234
+      basic_pickup_160: -994098794994122670
+      basic_pickup_161: -4491965604457062850
+      basic_pickup_162: 4743103412023536315
+      basic_pickup_163: -3467842587180142306
+      basic_pickup_164: 3842294755011564833
+      basic_pickup_165: 846425799357041412
+      basic_pickup_166: -646176562790520520
+      basic_pickup_167: -6110438486261197231
+      basic_pickup_168: 924711252874378885
+      basic_pickup_169: -7620055220288036773
+      basic_pickup_17: 802759552517361517
+      basic_pickup_170: 4651341121190203827
+      basic_pickup_171: -8502456951768013795
+      basic_pickup_172: 2676963057225978041
+      basic_pickup_173: 469324299218492675
+      basic_pickup_174: 4859015723469001996
+      basic_pickup_175: -5262342685384021430
+      basic_pickup_176: 6207044831207292914
+      basic_pickup_177: -168874054269587072
+      basic_pickup_178: 9095129735381865376
+      basic_pickup_179: 6960757405368719362
+      basic_pickup_18: -9003413288947190308
+      basic_pickup_180: -5710428986762309296
+      basic_pickup_181: 8934108305378136230
+      basic_pickup_182: -2536490986399431427
+      basic_pickup_183: -5184400690256507101
+      basic_pickup_184: -7988097697561551873
+      basic_pickup_185: 1237796196985493534
+      basic_pickup_186: 8886354192488696982
+      basic_pickup_187: 5583793918080990752
+      basic_pickup_188: 5288876278243585425
+      basic_pickup_189: -4855028950378847791
+      basic_pickup_19: -703435007554651495
+      basic_pickup_190: -7803664950158465945
+      basic_pickup_191: -7408008308552581963
+      basic_pickup_192: -7176792312267011683
+      basic_pickup_193: 9218568584243435132
+      basic_pickup_194: 296798926639731765
+      basic_pickup_195: -1146940267695786822
+      basic_pickup_196: 6827229293096877988
+      basic_pickup_197: -699822447386328083
+      basic_pickup_198: -1137173100927476753
+      basic_pickup_199: 3622021773321725135
+      basic_pickup_2: 7342785390607625869
+      basic_pickup_20: -8185768756513673699
+      basic_pickup_21: -15928155409311829
+      basic_pickup_22: -8686140258989052699
+      basic_pickup_23: 8198701213210663856
+      basic_pickup_24: -1828041751286995196
+      basic_pickup_25: -3684019122828143262
+      basic_pickup_26: 7012621139815891395
+      basic_pickup_27: 1830970333767704547
+      basic_pickup_28: 2573268791952100079
+      basic_pickup_29: -7173775081724370272
+      basic_pickup_3: 2319660826194895952
+      basic_pickup_30: -8371123722430433232
+      basic_pickup_31: -1935615904528479343
+      basic_pickup_32: -2340790291655353612
+      basic_pickup_33: 6973380161164708210
+      basic_pickup_34: 7422144146666059875
+      basic_pickup_35: -8923670999286265355
+      basic_pickup_36: 7102561402177948865
+      basic_pickup_37: 8775534316012835979
+      basic_pickup_38: 1876114886881179286
+      basic_pickup_39: 5503582859849329322
+      basic_pickup_4: 5735641728560101744
+      basic_pickup_40: -6447026026689486948
+      basic_pickup_41: 4281268128509127977
+      basic_pickup_42: 7859218321099802102
+      basic_pickup_43: -8479847140543420589
+      basic_pickup_44: -161022775590479149
+      basic_pickup_45: 8683411074492223087
+      basic_pickup_46: -2915507968658651121
+      basic_pickup_47: -2908267677991792435
+      basic_pickup_48: 6614701297282593516
+      basic_pickup_49: -2644812385576532113
+      basic_pickup_5: -628369649347213298
+      basic_pickup_50: -5558997775029868431
+      basic_pickup_51: 6048855054476208451
+      basic_pickup_52: -1522463408773165868
+      basic_pickup_53: 3477701894049349551
+      basic_pickup_54: 7374569170178725273
+      basic_pickup_55: 3498351384681299171
+      basic_pickup_56: 8902964702826914775
+      basic_pickup_57: -5410395798490040963
+      basic_pickup_58: 5026359667683610783
+      basic_pickup_59: -7008899753267398309
+      basic_pickup_6: -4390228369405754658
+      basic_pickup_60: 8189136330494834580
+      basic_pickup_61: -9062767886596573451
+      basic_pickup_62: -777687250755017839
+      basic_pickup_63: 7275696071180789728
+      basic_pickup_64: 5035833424244781508
+      basic_pickup_65: 3984956428079769202
+      basic_pickup_66: -5850229574816461384
+      basic_pickup_67: -2945524526129377122
+      basic_pickup_68: -1763337805489166644
+      basic_pickup_69: 717406782765130097
+      basic_pickup_7: -8366012795375108118
+      basic_pickup_70: 3966460850884424530
+      basic_pickup_71: -7537569584059999928
+      basic_pickup_72: -4742854005377530148
+      basic_pickup_73: -6012427901138620726
+      basic_pickup_74: 6629432542809596147
+      basic_pickup_75: -4739364873102686293
+      basic_pickup_76: 1411989815549622531
+      basic_pickup_77: -721941288657601912
+      basic_pickup_78: -9024688894657700479
+      basic_pickup_79: -4502709368023954228
+      basic_pickup_8: 8803027607131762774
+      basic_pickup_80: 6707730329380021726
+      basic_pickup_81: -5516510944207797222
+      basic_pickup_82: -7480171396208880700
+      basic_pickup_83: -7493105225251203498
+      basic_pickup_84: -3347980182247824132
+      basic_pickup_85: 6976833144712942043
+      basic_pickup_86: -218443800123155143
+      basic_pickup_87: -2278500974937212931
+      basic_pickup_88: 3187524999980849586
+      basic_pickup_89: 3980409355667705050
+      basic_pickup_9: -689772445263159799
+      basic_pickup_90: -349908482568351760
+      basic_pickup_91: -8001483805148486259
+      basic_pickup_92: -7695188424984991328
+      basic_pickup_93: -7594206955870920447
+      basic_pickup_94: -9017842125730086060
+      basic_pickup_95: 5493813765836167535
+      basic_pickup_96: 4819703553700666870
+      basic_pickup_97: -1745968365600128748
+      basic_pickup_98: -2164883323219728615
+      basic_pickup_99: -460172944601446512
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

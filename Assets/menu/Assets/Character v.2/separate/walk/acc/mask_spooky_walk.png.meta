@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: ee4c98c5003b9854b84856dee9089eaa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3915870287703685586
+    second: mask_spooky_walk_0
+  - first:
+      213: 8985824142627691651
+    second: mask_spooky_walk_1
+  - first:
+      213: -9139401860164957033
+    second: mask_spooky_walk_2
+  - first:
+      213: 8423787974491026016
+    second: mask_spooky_walk_3
+  - first:
+      213: 868400245397503563
+    second: mask_spooky_walk_4
+  - first:
+      213: 4753413572172095892
+    second: mask_spooky_walk_5
+  - first:
+      213: 4265226835571942112
+    second: mask_spooky_walk_6
+  - first:
+      213: 8484226299522835373
+    second: mask_spooky_walk_7
+  - first:
+      213: -7485598347435346630
+    second: mask_spooky_walk_8
+  - first:
+      213: -7123816103644561000
+    second: mask_spooky_walk_9
+  - first:
+      213: -2918208167013086437
+    second: mask_spooky_walk_10
+  - first:
+      213: 4739093181871473325
+    second: mask_spooky_walk_11
+  - first:
+      213: -7223976518520410541
+    second: mask_spooky_walk_12
+  - first:
+      213: 5435634364725419955
+    second: mask_spooky_walk_13
+  - first:
+      213: -8015422060074995117
+    second: mask_spooky_walk_14
+  - first:
+      213: -2939762763301620331
+    second: mask_spooky_walk_15
+  - first:
+      213: 2524764648649861352
+    second: mask_spooky_walk_16
+  - first:
+      213: 4952288228132339071
+    second: mask_spooky_walk_17
+  - first:
+      213: -5782097430771851852
+    second: mask_spooky_walk_18
+  - first:
+      213: 7331431814795235475
+    second: mask_spooky_walk_19
+  - first:
+      213: 7571474739928678474
+    second: mask_spooky_walk_20
+  - first:
+      213: 1430211003612999652
+    second: mask_spooky_walk_21
+  - first:
+      213: 5798693623018193638
+    second: mask_spooky_walk_22
+  - first:
+      213: -4185916227967259666
+    second: mask_spooky_walk_23
+  - first:
+      213: 6521353253122126218
+    second: mask_spooky_walk_24
+  - first:
+      213: 4109805521466062951
+    second: mask_spooky_walk_25
+  - first:
+      213: -217164486104579821
+    second: mask_spooky_walk_26
+  - first:
+      213: -5637684954395178669
+    second: mask_spooky_walk_27
+  - first:
+      213: 4252619347358659847
+    second: mask_spooky_walk_28
+  - first:
+      213: -5639650610794447407
+    second: mask_spooky_walk_29
+  - first:
+      213: -577824928577797934
+    second: mask_spooky_walk_30
+  - first:
+      213: -22940817205435931
+    second: mask_spooky_walk_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mask_spooky_walk_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 100
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e264ae278b808a9c0800000000000000
+      internalID: -3915870287703685586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_walk_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 101
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38cd373e27f04bc70800000000000000
+      internalID: 8985824142627691651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_walk_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 102
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79cc2594e625a2180800000000000000
+      internalID: -9139401860164957033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_walk_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 100
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062beba188e47e470800000000000000
+      internalID: 8423787974491026016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_walk_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 100
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4eb7c51c6d2d0c00800000000000000
+      internalID: 868400245397503563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_walk_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 101
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491a6df857487f140800000000000000
+      internalID: 4753413572172095892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_walk_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 102
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2aab47531213b30800000000000000
+      internalID: 4265226835571942112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_walk_7
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 100
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3e5193ed60eb570800000000000000
+      internalID: 8484226299522835373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_walk_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 72
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a357dd1a6ffcd1890800000000000000
+      internalID: -7485598347435346630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_walk_9
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 73
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8910f015ffe132d90800000000000000
+      internalID: -7123816103644561000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_walk_10
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 74
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b8a8822217087d0800000000000000
+      internalID: -2918208167013086437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_walk_11
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 72
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2cceed324a4c140800000000000000
+      internalID: 4739093181871473325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_walk_12
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 72
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ee3d371a74fbb90800000000000000
+      internalID: -7223976518520410541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_walk_13
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 73
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf5d5ec7a04f6b40800000000000000
+      internalID: 5435634364725419955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_walk_14
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 74
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35276689a1083c090800000000000000
+      internalID: -8015422060074995117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_walk_15
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 72
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5957c71a75dd337d0800000000000000
+      internalID: -2939762763301620331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_walk_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 36
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e82d383214c90320800000000000000
+      internalID: 2524764648649861352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_walk_17
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 37
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d3d27b7ef0ab440800000000000000
+      internalID: 4952288228132339071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_walk_18
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 38
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd1526850dd1cfa0800000000000000
+      internalID: -5782097430771851852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_walk_19
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 36
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3901ed7546a7eb560800000000000000
+      internalID: 7331431814795235475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_walk_20
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 36
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40ca4b1928431960800000000000000
+      internalID: 7571474739928678474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_walk_21
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 37
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef2538845129d310800000000000000
+      internalID: 1430211003612999652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_walk_22
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 38
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e282599029197050800000000000000
+      internalID: 5798693623018193638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_walk_23
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 36
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eebe77c5e53a8e5c0800000000000000
+      internalID: -4185916227967259666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_walk_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 4
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a81be2b6b30808a50800000000000000
+      internalID: 6521353253122126218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_walk_25
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 5
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7687cead856f80930800000000000000
+      internalID: 4109805521466062951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_walk_26
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 6
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31108ebec0a7cfcf0800000000000000
+      internalID: -217164486104579821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_walk_27
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 4
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35906b9576be2c1b0800000000000000
+      internalID: -5637684954395178669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_walk_28
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 4
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705344cd3c6540b30800000000000000
+      internalID: 4252619347358659847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_walk_29
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 5
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd384e46afebb1b0800000000000000
+      internalID: -5639650610794447407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_walk_30
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 6
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d041c5f9472bf7f0800000000000000
+      internalID: -577824928577797934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_walk_31
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 4
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1ec93c27f7eaff0800000000000000
+      internalID: -22940817205435931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mask_spooky_walk_0: -3915870287703685586
+      mask_spooky_walk_1: 8985824142627691651
+      mask_spooky_walk_10: -2918208167013086437
+      mask_spooky_walk_11: 4739093181871473325
+      mask_spooky_walk_12: -7223976518520410541
+      mask_spooky_walk_13: 5435634364725419955
+      mask_spooky_walk_14: -8015422060074995117
+      mask_spooky_walk_15: -2939762763301620331
+      mask_spooky_walk_16: 2524764648649861352
+      mask_spooky_walk_17: 4952288228132339071
+      mask_spooky_walk_18: -5782097430771851852
+      mask_spooky_walk_19: 7331431814795235475
+      mask_spooky_walk_2: -9139401860164957033
+      mask_spooky_walk_20: 7571474739928678474
+      mask_spooky_walk_21: 1430211003612999652
+      mask_spooky_walk_22: 5798693623018193638
+      mask_spooky_walk_23: -4185916227967259666
+      mask_spooky_walk_24: 6521353253122126218
+      mask_spooky_walk_25: 4109805521466062951
+      mask_spooky_walk_26: -217164486104579821
+      mask_spooky_walk_27: -5637684954395178669
+      mask_spooky_walk_28: 4252619347358659847
+      mask_spooky_walk_29: -5639650610794447407
+      mask_spooky_walk_3: 8423787974491026016
+      mask_spooky_walk_30: -577824928577797934
+      mask_spooky_walk_31: -22940817205435931
+      mask_spooky_walk_4: 868400245397503563
+      mask_spooky_walk_5: 4753413572172095892
+      mask_spooky_walk_6: 4265226835571942112
+      mask_spooky_walk_7: 8484226299522835373
+      mask_spooky_walk_8: -7485598347435346630
+      mask_spooky_walk_9: -7123816103644561000
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

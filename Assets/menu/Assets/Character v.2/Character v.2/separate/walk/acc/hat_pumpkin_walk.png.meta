@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: 4b7a3ff9c482e7543a8aa9eb56887466
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7782797220111299182
+    second: hat_pumpkin_walk_0
+  - first:
+      213: 8631970603452446018
+    second: hat_pumpkin_walk_1
+  - first:
+      213: 3440352847431473393
+    second: hat_pumpkin_walk_2
+  - first:
+      213: 817674780489513587
+    second: hat_pumpkin_walk_3
+  - first:
+      213: 3924682655468697963
+    second: hat_pumpkin_walk_4
+  - first:
+      213: 7966580108169068193
+    second: hat_pumpkin_walk_5
+  - first:
+      213: 4485906899832255146
+    second: hat_pumpkin_walk_6
+  - first:
+      213: -3758861329313166977
+    second: hat_pumpkin_walk_7
+  - first:
+      213: 4802344912776876397
+    second: hat_pumpkin_walk_8
+  - first:
+      213: 1424368849462006686
+    second: hat_pumpkin_walk_9
+  - first:
+      213: -1413464127641044067
+    second: hat_pumpkin_walk_10
+  - first:
+      213: 5445988399946327646
+    second: hat_pumpkin_walk_11
+  - first:
+      213: -7753901412028663209
+    second: hat_pumpkin_walk_12
+  - first:
+      213: 5012000231272651990
+    second: hat_pumpkin_walk_13
+  - first:
+      213: -7983862905730172020
+    second: hat_pumpkin_walk_14
+  - first:
+      213: 684758401122557380
+    second: hat_pumpkin_walk_15
+  - first:
+      213: -6277360256080449344
+    second: hat_pumpkin_walk_16
+  - first:
+      213: 1101255838115599731
+    second: hat_pumpkin_walk_17
+  - first:
+      213: 3361841626088339144
+    second: hat_pumpkin_walk_18
+  - first:
+      213: -6370168387684482504
+    second: hat_pumpkin_walk_19
+  - first:
+      213: -5886992672392800620
+    second: hat_pumpkin_walk_20
+  - first:
+      213: 8793655440256241263
+    second: hat_pumpkin_walk_21
+  - first:
+      213: -5238347653305237577
+    second: hat_pumpkin_walk_22
+  - first:
+      213: 2234080988123009855
+    second: hat_pumpkin_walk_23
+  - first:
+      213: 6482276638737662641
+    second: hat_pumpkin_walk_24
+  - first:
+      213: 8125700013856538364
+    second: hat_pumpkin_walk_25
+  - first:
+      213: -7028123011558055973
+    second: hat_pumpkin_walk_26
+  - first:
+      213: -6373901336326049274
+    second: hat_pumpkin_walk_27
+  - first:
+      213: -3944302585785540098
+    second: hat_pumpkin_walk_28
+  - first:
+      213: -1343932398992130006
+    second: hat_pumpkin_walk_29
+  - first:
+      213: -960007369138473227
+    second: hat_pumpkin_walk_30
+  - first:
+      213: 4223799478925215536
+    second: hat_pumpkin_walk_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hat_pumpkin_walk_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 107
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d4e50d923fdf390800000000000000
+      internalID: -7782797220111299182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_walk_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 108
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245b56a978beac770800000000000000
+      internalID: 8631970603452446018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_walk_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 109
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8182ddfa69ebf20800000000000000
+      internalID: 3440352847431473393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_walk_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 107
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a7fd071e6f85b00800000000000000
+      internalID: 817674780489513587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_walk_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 107
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b69395fc416477630800000000000000
+      internalID: 3924682655468697963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_walk_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 108
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae3c1e466afe8e60800000000000000
+      internalID: 7966580108169068193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_walk_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 109
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2b9fbde84214e30800000000000000
+      internalID: 4485906899832255146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_walk_7
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 107
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79065a4987d5dbc0800000000000000
+      internalID: -3758861329313166977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_walk_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 74
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6158f6114b55a240800000000000000
+      internalID: 4802344912776876397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_walk_9
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 75
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9390550cef54c310800000000000000
+      internalID: 1424368849462006686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_walk_10
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 76
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9bb2316ddd526ce0800000000000000
+      internalID: -1413464127641044067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_walk_11
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 74
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56e2bd7899049b40800000000000000
+      internalID: 5445988399946327646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_walk_12
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 74
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ab1a86fbb946490800000000000000
+      internalID: -7753901412028663209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_walk_13
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 75
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc9e27d7a33e8540800000000000000
+      internalID: 5012000231272651990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_walk_14
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 76
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8bf880dcfe933190800000000000000
+      internalID: -7983862905730172020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_walk_15
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 74
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cddfd74320c08900800000000000000
+      internalID: 684758401122557380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_walk_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 43
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c07b212b1652e8a0800000000000000
+      internalID: -6277360256080449344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_walk_17
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 44
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37594bd9952784f00800000000000000
+      internalID: 1101255838115599731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_walk_18
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 45
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6fd1aa529a7ae20800000000000000
+      internalID: 3361841626088339144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_walk_19
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 43
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832c4ac1a9d9897a0800000000000000
+      internalID: -6370168387684482504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_walk_20
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 43
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49613b6ea533d4ea0800000000000000
+      internalID: -5886992672392800620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_walk_21
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 44
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e87a93807590a70800000000000000
+      internalID: 8793655440256241263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_walk_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 45
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf7db23096ad47b0800000000000000
+      internalID: -5238347653305237577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_walk_23
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 43
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33968072dc010f10800000000000000
+      internalID: 2234080988123009855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_walk_24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 11
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b285c3224ca5f950800000000000000
+      internalID: 6482276638737662641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_walk_25
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 12
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe3e4d5c1944c070800000000000000
+      internalID: 8125700013856538364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_walk_26
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 13
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf555a8b57177e90800000000000000
+      internalID: -7028123011558055973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_walk_27
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 11
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602f5e6418a5b87a0800000000000000
+      internalID: -6373901336326049274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_walk_28
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 11
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1299f22b50349c0800000000000000
+      internalID: -3944302585785540098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_walk_29
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 12
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a208fe38a94695de0800000000000000
+      internalID: -1343932398992130006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_walk_30
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 13
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f67eb4526e5da2f0800000000000000
+      internalID: -960007369138473227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_walk_31
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 11
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03741d75f33fd9a30800000000000000
+      internalID: 4223799478925215536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hat_pumpkin_walk_0: -7782797220111299182
+      hat_pumpkin_walk_1: 8631970603452446018
+      hat_pumpkin_walk_10: -1413464127641044067
+      hat_pumpkin_walk_11: 5445988399946327646
+      hat_pumpkin_walk_12: -7753901412028663209
+      hat_pumpkin_walk_13: 5012000231272651990
+      hat_pumpkin_walk_14: -7983862905730172020
+      hat_pumpkin_walk_15: 684758401122557380
+      hat_pumpkin_walk_16: -6277360256080449344
+      hat_pumpkin_walk_17: 1101255838115599731
+      hat_pumpkin_walk_18: 3361841626088339144
+      hat_pumpkin_walk_19: -6370168387684482504
+      hat_pumpkin_walk_2: 3440352847431473393
+      hat_pumpkin_walk_20: -5886992672392800620
+      hat_pumpkin_walk_21: 8793655440256241263
+      hat_pumpkin_walk_22: -5238347653305237577
+      hat_pumpkin_walk_23: 2234080988123009855
+      hat_pumpkin_walk_24: 6482276638737662641
+      hat_pumpkin_walk_25: 8125700013856538364
+      hat_pumpkin_walk_26: -7028123011558055973
+      hat_pumpkin_walk_27: -6373901336326049274
+      hat_pumpkin_walk_28: -3944302585785540098
+      hat_pumpkin_walk_29: -1343932398992130006
+      hat_pumpkin_walk_3: 817674780489513587
+      hat_pumpkin_walk_30: -960007369138473227
+      hat_pumpkin_walk_31: 4223799478925215536
+      hat_pumpkin_walk_4: 3924682655468697963
+      hat_pumpkin_walk_5: 7966580108169068193
+      hat_pumpkin_walk_6: 4485906899832255146
+      hat_pumpkin_walk_7: -3758861329313166977
+      hat_pumpkin_walk_8: 4802344912776876397
+      hat_pumpkin_walk_9: 1424368849462006686
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

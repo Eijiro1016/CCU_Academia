@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 1cf1cc2ff466ca8448d479eb5f6dc56c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6151002064345905078
+    second: pickaxe_blade_grey_0
+  - first:
+      213: 8171408451592514697
+    second: pickaxe_blade_grey_1
+  - first:
+      213: -3522389576963007033
+    second: pickaxe_blade_grey_2
+  - first:
+      213: 7241776207663071023
+    second: pickaxe_blade_grey_3
+  - first:
+      213: 2118690208029330857
+    second: pickaxe_blade_grey_4
+  - first:
+      213: -3261943495440296674
+    second: pickaxe_blade_grey_5
+  - first:
+      213: -6662920059656604796
+    second: pickaxe_blade_grey_6
+  - first:
+      213: -5014445263297978063
+    second: pickaxe_blade_grey_7
+  - first:
+      213: -1984532537180782189
+    second: pickaxe_blade_grey_8
+  - first:
+      213: -8206701256536981901
+    second: pickaxe_blade_grey_9
+  - first:
+      213: 2340273246230238967
+    second: pickaxe_blade_grey_10
+  - first:
+      213: -7124706304644332295
+    second: pickaxe_blade_grey_11
+  - first:
+      213: 1750354735500328805
+    second: pickaxe_blade_grey_12
+  - first:
+      213: 8572876197153711010
+    second: pickaxe_blade_grey_13
+  - first:
+      213: 5807962234914068449
+    second: pickaxe_blade_grey_14
+  - first:
+      213: -7437919195264592932
+    second: pickaxe_blade_grey_15
+  - first:
+      213: 6255681564247485805
+    second: pickaxe_blade_grey_16
+  - first:
+      213: -8701709578560931423
+    second: pickaxe_blade_grey_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pickaxe_blade_grey_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 110
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48c7fd363043aaa0800000000000000
+      internalID: -6151002064345905078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickaxe_blade_grey_1
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 113
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98cebc751bca66170800000000000000
+      internalID: 8171408451592514697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickaxe_blade_grey_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 100
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cdd4989755fd1fc0800000000000000
+      internalID: -3522389576963007033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickaxe_blade_grey_3
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 97
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ff1a0a715ff7460800000000000000
+      internalID: 7241776207663071023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickaxe_blade_grey_4
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 95
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9adcfa6d489176d10800000000000000
+      internalID: 2118690208029330857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickaxe_blade_grey_5
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 84
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1592e46caf3bb2d0800000000000000
+      internalID: -3261943495440296674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickaxe_blade_grey_6
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 84
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483f755e18d8883a0800000000000000
+      internalID: -6662920059656604796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickaxe_blade_grey_7
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 83
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 131eb77c99c196ab0800000000000000
+      internalID: -5014445263297978063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickaxe_blade_grey_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 36
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39182240c268574e0800000000000000
+      internalID: -1984532537180782189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickaxe_blade_grey_9
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 46
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e7c5a20b0fb1e80800000000000000
+      internalID: -8206701256536981901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickaxe_blade_grey_10
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 42
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f657ee3e125a7020800000000000000
+      internalID: 2340273246230238967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickaxe_blade_grey_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 42
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f440be3d55ff1d90800000000000000
+      internalID: -7124706304644332295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickaxe_blade_grey_12
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 31
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f7b60bb528a4810800000000000000
+      internalID: 1750354735500328805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickaxe_blade_grey_13
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 4
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3afb2fa79f8f670800000000000000
+      internalID: 8572876197153711010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickaxe_blade_grey_14
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 14
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7dfe871e60a9050800000000000000
+      internalID: 5807962234914068449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickaxe_blade_grey_15
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 10
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3d13256e337c890800000000000000
+      internalID: -7437919195264592932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickaxe_blade_grey_16
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 10
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d6ee81d35a0d650800000000000000
+      internalID: 6255681564247485805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pickaxe_blade_grey_17
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a9f24fed315d3780800000000000000
+      internalID: -8701709578560931423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pickaxe_blade_grey_0: -6151002064345905078
+      pickaxe_blade_grey_1: 8171408451592514697
+      pickaxe_blade_grey_10: 2340273246230238967
+      pickaxe_blade_grey_11: -7124706304644332295
+      pickaxe_blade_grey_12: 1750354735500328805
+      pickaxe_blade_grey_13: 8572876197153711010
+      pickaxe_blade_grey_14: 5807962234914068449
+      pickaxe_blade_grey_15: -7437919195264592932
+      pickaxe_blade_grey_16: 6255681564247485805
+      pickaxe_blade_grey_17: -8701709578560931423
+      pickaxe_blade_grey_2: -3522389576963007033
+      pickaxe_blade_grey_3: 7241776207663071023
+      pickaxe_blade_grey_4: 2118690208029330857
+      pickaxe_blade_grey_5: -3261943495440296674
+      pickaxe_blade_grey_6: -6662920059656604796
+      pickaxe_blade_grey_7: -5014445263297978063
+      pickaxe_blade_grey_8: -1984532537180782189
+      pickaxe_blade_grey_9: -8206701256536981901
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

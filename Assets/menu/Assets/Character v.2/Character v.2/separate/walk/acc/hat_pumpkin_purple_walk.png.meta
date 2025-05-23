@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: 6c0627582cfe82d4bb3a0538e7032928
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6854601610831976164
+    second: hat_pumpkin_purple_walk_0
+  - first:
+      213: -1787830603678049401
+    second: hat_pumpkin_purple_walk_1
+  - first:
+      213: 4533773278851969421
+    second: hat_pumpkin_purple_walk_2
+  - first:
+      213: 8297730102027653113
+    second: hat_pumpkin_purple_walk_3
+  - first:
+      213: 7532405002006216115
+    second: hat_pumpkin_purple_walk_4
+  - first:
+      213: 3915390040271380593
+    second: hat_pumpkin_purple_walk_5
+  - first:
+      213: -4797010880941504462
+    second: hat_pumpkin_purple_walk_6
+  - first:
+      213: -7211339877257755416
+    second: hat_pumpkin_purple_walk_7
+  - first:
+      213: -1496014853719075375
+    second: hat_pumpkin_purple_walk_8
+  - first:
+      213: 7788220976741104706
+    second: hat_pumpkin_purple_walk_9
+  - first:
+      213: -6008415861968282573
+    second: hat_pumpkin_purple_walk_10
+  - first:
+      213: -2013763643584619513
+    second: hat_pumpkin_purple_walk_11
+  - first:
+      213: 9098213006052109718
+    second: hat_pumpkin_purple_walk_12
+  - first:
+      213: 2731154185588702268
+    second: hat_pumpkin_purple_walk_13
+  - first:
+      213: -7147757997794335204
+    second: hat_pumpkin_purple_walk_14
+  - first:
+      213: -9008077149798215058
+    second: hat_pumpkin_purple_walk_15
+  - first:
+      213: 4696390379699068927
+    second: hat_pumpkin_purple_walk_16
+  - first:
+      213: 102204096738128008
+    second: hat_pumpkin_purple_walk_17
+  - first:
+      213: 8531769405814613432
+    second: hat_pumpkin_purple_walk_18
+  - first:
+      213: -5436314062881693248
+    second: hat_pumpkin_purple_walk_19
+  - first:
+      213: -5769589483690456338
+    second: hat_pumpkin_purple_walk_20
+  - first:
+      213: -4508015775220040769
+    second: hat_pumpkin_purple_walk_21
+  - first:
+      213: 2526855802699957247
+    second: hat_pumpkin_purple_walk_22
+  - first:
+      213: 8068324608621404697
+    second: hat_pumpkin_purple_walk_23
+  - first:
+      213: -1292075743835840638
+    second: hat_pumpkin_purple_walk_24
+  - first:
+      213: 2737844392085891837
+    second: hat_pumpkin_purple_walk_25
+  - first:
+      213: -1970983556397358631
+    second: hat_pumpkin_purple_walk_26
+  - first:
+      213: 6160783902400654147
+    second: hat_pumpkin_purple_walk_27
+  - first:
+      213: 4261696454496143701
+    second: hat_pumpkin_purple_walk_28
+  - first:
+      213: -1307691274565762262
+    second: hat_pumpkin_purple_walk_29
+  - first:
+      213: 1049849169572186079
+    second: hat_pumpkin_purple_walk_30
+  - first:
+      213: -5053384206638546805
+    second: hat_pumpkin_purple_walk_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_walk_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 107
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6d57a09df602f50800000000000000
+      internalID: 6854601610831976164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_walk_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 108
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b923dc9895037e0800000000000000
+      internalID: -1787830603678049401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_walk_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 109
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d813122b6c23bee30800000000000000
+      internalID: 4533773278851969421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_walk_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 107
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff8c658095772370800000000000000
+      internalID: 8297730102027653113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_walk_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 107
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bdb4f0e07a788860800000000000000
+      internalID: 7532405002006216115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_walk_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 108
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1706a7b3f72465630800000000000000
+      internalID: 3915390040271380593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_walk_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 109
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2384cc9f4089d6db0800000000000000
+      internalID: -4797010880941504462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_walk_7
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 107
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e44175c69c2ceb90800000000000000
+      internalID: -7211339877257755416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_walk_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 74
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5dd51ba661d3be0800000000000000
+      internalID: -1496014853719075375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_walk_9
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 75
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c36eee6b1551c60800000000000000
+      internalID: 7788220976741104706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_walk_10
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 76
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33cde848b91dd9ca0800000000000000
+      internalID: -6008415861968282573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_walk_11
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 74
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70cda82b2acad04e0800000000000000
+      internalID: -2013763643584619513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_walk_12
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 74
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d239c4688534e70800000000000000
+      internalID: 9098213006052109718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_walk_13
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 75
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3cf5d2f24207e520800000000000000
+      internalID: 2731154185588702268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_walk_14
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 76
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16e201b8ff0ecc90800000000000000
+      internalID: -7147757997794335204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_walk_15
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 74
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62d6f02f81ecf280800000000000000
+      internalID: -9008077149798215058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_walk_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 43
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff5684fa2eec2140800000000000000
+      internalID: 4696390379699068927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_walk_17
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 44
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8807aa0a51a1b6100800000000000000
+      internalID: 102204096738128008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_walk_18
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 45
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b52023421fe66670800000000000000
+      internalID: 8531769405814613432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_walk_19
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 43
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1e972a9255e84b0800000000000000
+      internalID: -5436314062881693248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_walk_20
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 43
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea0dc4eeec4eefa0800000000000000
+      internalID: -5769589483690456338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_walk_21
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 44
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbbf624798f4071c0800000000000000
+      internalID: -4508015775220040769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_walk_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 45
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff3c096f6f1311320800000000000000
+      internalID: 2526855802699957247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_walk_23
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 43
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912eb65db7278ff60800000000000000
+      internalID: 8068324608621404697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_walk_24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 11
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f14c9e4ff911ee0800000000000000
+      internalID: -1292075743835840638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_walk_25
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 12
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa239808f6cef520800000000000000
+      internalID: 2737844392085891837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_walk_26
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 13
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1accee5e8a5a4e0800000000000000
+      internalID: -1970983556397358631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_walk_27
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 11
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b298861508f7550800000000000000
+      internalID: 6160783902400654147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_walk_28
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 11
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559c8ce8856942b30800000000000000
+      internalID: 4261696454496143701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_walk_29
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 12
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2341a7d6b52adde0800000000000000
+      internalID: -1307691274565762262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_walk_30
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 13
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7c614e140d19e00800000000000000
+      internalID: 1049849169572186079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_walk_31
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 11
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b808db986d5ced9b0800000000000000
+      internalID: -5053384206638546805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hat_pumpkin_purple_walk_0: 6854601610831976164
+      hat_pumpkin_purple_walk_1: -1787830603678049401
+      hat_pumpkin_purple_walk_10: -6008415861968282573
+      hat_pumpkin_purple_walk_11: -2013763643584619513
+      hat_pumpkin_purple_walk_12: 9098213006052109718
+      hat_pumpkin_purple_walk_13: 2731154185588702268
+      hat_pumpkin_purple_walk_14: -7147757997794335204
+      hat_pumpkin_purple_walk_15: -9008077149798215058
+      hat_pumpkin_purple_walk_16: 4696390379699068927
+      hat_pumpkin_purple_walk_17: 102204096738128008
+      hat_pumpkin_purple_walk_18: 8531769405814613432
+      hat_pumpkin_purple_walk_19: -5436314062881693248
+      hat_pumpkin_purple_walk_2: 4533773278851969421
+      hat_pumpkin_purple_walk_20: -5769589483690456338
+      hat_pumpkin_purple_walk_21: -4508015775220040769
+      hat_pumpkin_purple_walk_22: 2526855802699957247
+      hat_pumpkin_purple_walk_23: 8068324608621404697
+      hat_pumpkin_purple_walk_24: -1292075743835840638
+      hat_pumpkin_purple_walk_25: 2737844392085891837
+      hat_pumpkin_purple_walk_26: -1970983556397358631
+      hat_pumpkin_purple_walk_27: 6160783902400654147
+      hat_pumpkin_purple_walk_28: 4261696454496143701
+      hat_pumpkin_purple_walk_29: -1307691274565762262
+      hat_pumpkin_purple_walk_3: 8297730102027653113
+      hat_pumpkin_purple_walk_30: 1049849169572186079
+      hat_pumpkin_purple_walk_31: -5053384206638546805
+      hat_pumpkin_purple_walk_4: 7532405002006216115
+      hat_pumpkin_purple_walk_5: 3915390040271380593
+      hat_pumpkin_purple_walk_6: -4797010880941504462
+      hat_pumpkin_purple_walk_7: -7211339877257755416
+      hat_pumpkin_purple_walk_8: -1496014853719075375
+      hat_pumpkin_purple_walk_9: 7788220976741104706
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

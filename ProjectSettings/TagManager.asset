@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - collection
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - interactable
+  - SolidObjects
+  - little map
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: solid
+    uniqueID: 2002090007
+    locked: 0
+  - name: background
+    uniqueID: 762449723
+    locked: 0
+  - name: player
+    uniqueID: 4294776961
+    locked: 0
+  - name: foreground
+    uniqueID: 3551911949
+    locked: 0
+  - name: little map
+    uniqueID: 361757501
+    locked: 0
+  m_RenderingLayers:
+  - Default

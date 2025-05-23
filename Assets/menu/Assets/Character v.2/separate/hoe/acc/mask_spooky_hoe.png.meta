@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: ea93ac67b03d56541b3e35b6fecec3bb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2160198402995628700
+    second: mask_spooky_hoe_0
+  - first:
+      213: -8687570411590188850
+    second: mask_spooky_hoe_1
+  - first:
+      213: 926115662475034575
+    second: mask_spooky_hoe_2
+  - first:
+      213: 9193033517239608550
+    second: mask_spooky_hoe_3
+  - first:
+      213: -3648347432034663156
+    second: mask_spooky_hoe_4
+  - first:
+      213: 1935461811268991865
+    second: mask_spooky_hoe_5
+  - first:
+      213: 6200139204030645954
+    second: mask_spooky_hoe_6
+  - first:
+      213: -6666325943720775715
+    second: mask_spooky_hoe_7
+  - first:
+      213: 4610998571838355387
+    second: mask_spooky_hoe_8
+  - first:
+      213: 1508303008707141617
+    second: mask_spooky_hoe_9
+  - first:
+      213: -4544465700518117010
+    second: mask_spooky_hoe_10
+  - first:
+      213: 2174804169319522153
+    second: mask_spooky_hoe_11
+  - first:
+      213: -2976854404347534325
+    second: mask_spooky_hoe_12
+  - first:
+      213: -4394311847885928230
+    second: mask_spooky_hoe_13
+  - first:
+      213: -454849317834942480
+    second: mask_spooky_hoe_14
+  - first:
+      213: 8128256430155646320
+    second: mask_spooky_hoe_15
+  - first:
+      213: -1045694284856078031
+    second: mask_spooky_hoe_16
+  - first:
+      213: 3965214379232082793
+    second: mask_spooky_hoe_17
+  - first:
+      213: -3699694765441751625
+    second: mask_spooky_hoe_18
+  - first:
+      213: -3650725867920795487
+    second: mask_spooky_hoe_19
+  - first:
+      213: 1366583569713377077
+    second: mask_spooky_hoe_20
+  - first:
+      213: -4449409273758721748
+    second: mask_spooky_hoe_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mask_spooky_hoe_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 111
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46554196ffe6502e0800000000000000
+      internalID: -2160198402995628700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_hoe_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 108
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec009f74dbc8f6780800000000000000
+      internalID: -8687570411590188850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_hoe_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 106
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcfffbac9493adc00800000000000000
+      internalID: 926115662475034575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_hoe_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 108
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4a353f647349f70800000000000000
+      internalID: 9193033517239608550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_hoe_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 106
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c058d5027577e5dc0800000000000000
+      internalID: -3648347432034663156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_hoe_5
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 72
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97bb50943442cda10800000000000000
+      internalID: 1935461811268991865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_hoe_6
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 73
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6483e91c15b0650800000000000000
+      internalID: 6200139204030645954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_hoe_7
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 74
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf6d87bfd37c73a0800000000000000
+      internalID: -6666325943720775715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_hoe_8
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 73
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7324e55ce8dff30800000000000000
+      internalID: 4610998571838355387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_hoe_9
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 74
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff54a758919ee410800000000000000
+      internalID: 1508303008707141617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_hoe_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 39
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61cba2e580dee0c0800000000000000
+      internalID: -4544465700518117010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_hoe_11
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 36
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f14509ed47e2e10800000000000000
+      internalID: 2174804169319522153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_hoe_12
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 36
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04eec8f0b610b6d0800000000000000
+      internalID: -2976854404347534325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_hoe_13
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 36
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8087a08a44403c0800000000000000
+      internalID: -4394311847885928230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_hoe_14
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 36
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f79e1094fc00b9f0800000000000000
+      internalID: -454849317834942480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_hoe_15
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 36
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07546ba682e5dc070800000000000000
+      internalID: 8128256430155646320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_hoe_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 7
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1315f779692fc71f0800000000000000
+      internalID: -1045694284856078031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_hoe_17
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 4
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b36642875470730800000000000000
+      internalID: 3965214379232082793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_hoe_18
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 4
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5e870763b08acc0800000000000000
+      internalID: -3699694765441751625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_hoe_19
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 4
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8504e5a24065dc0800000000000000
+      internalID: -3650725867920795487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_hoe_20
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 4
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53fa6a4248417f210800000000000000
+      internalID: 1366583569713377077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_hoe_21
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 4
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c295849e6d58042c0800000000000000
+      internalID: -4449409273758721748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mask_spooky_hoe_0: -2160198402995628700
+      mask_spooky_hoe_1: -8687570411590188850
+      mask_spooky_hoe_10: -4544465700518117010
+      mask_spooky_hoe_11: 2174804169319522153
+      mask_spooky_hoe_12: -2976854404347534325
+      mask_spooky_hoe_13: -4394311847885928230
+      mask_spooky_hoe_14: -454849317834942480
+      mask_spooky_hoe_15: 8128256430155646320
+      mask_spooky_hoe_16: -1045694284856078031
+      mask_spooky_hoe_17: 3965214379232082793
+      mask_spooky_hoe_18: -3699694765441751625
+      mask_spooky_hoe_19: -3650725867920795487
+      mask_spooky_hoe_2: 926115662475034575
+      mask_spooky_hoe_20: 1366583569713377077
+      mask_spooky_hoe_21: -4449409273758721748
+      mask_spooky_hoe_3: 9193033517239608550
+      mask_spooky_hoe_4: -3648347432034663156
+      mask_spooky_hoe_5: 1935461811268991865
+      mask_spooky_hoe_6: 6200139204030645954
+      mask_spooky_hoe_7: -6666325943720775715
+      mask_spooky_hoe_8: 4610998571838355387
+      mask_spooky_hoe_9: 1508303008707141617
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

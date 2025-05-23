@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: ba4824d3db1da5c4f9cff8cce2a358d0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7208713261442752130
+    second: hat_witch_fish_0
+  - first:
+      213: 6319573702571859880
+    second: hat_witch_fish_1
+  - first:
+      213: -5089104086364183403
+    second: hat_witch_fish_2
+  - first:
+      213: -5804953960423921104
+    second: hat_witch_fish_3
+  - first:
+      213: 905332153708605162
+    second: hat_witch_fish_4
+  - first:
+      213: -398113463617098454
+    second: hat_witch_fish_5
+  - first:
+      213: -2768085934485883272
+    second: hat_witch_fish_6
+  - first:
+      213: 504173756892609900
+    second: hat_witch_fish_7
+  - first:
+      213: -7186950771832688343
+    second: hat_witch_fish_8
+  - first:
+      213: -2315498586794588147
+    second: hat_witch_fish_9
+  - first:
+      213: 8131543558178141422
+    second: hat_witch_fish_10
+  - first:
+      213: 3858204403725302363
+    second: hat_witch_fish_11
+  - first:
+      213: 1969508233751134478
+    second: hat_witch_fish_12
+  - first:
+      213: 7689779511702457084
+    second: hat_witch_fish_13
+  - first:
+      213: -1512149435784765052
+    second: hat_witch_fish_14
+  - first:
+      213: -3216572445356582529
+    second: hat_witch_fish_15
+  - first:
+      213: 1418234796680734340
+    second: hat_witch_fish_16
+  - first:
+      213: -2970457070316020348
+    second: hat_witch_fish_17
+  - first:
+      213: -1837940321652640524
+    second: hat_witch_fish_18
+  - first:
+      213: -3784623991425409607
+    second: hat_witch_fish_19
+  - first:
+      213: -8331549779419765020
+    second: hat_witch_fish_20
+  - first:
+      213: 488201538782534016
+    second: hat_witch_fish_21
+  - first:
+      213: -6859893427557682210
+    second: hat_witch_fish_22
+  - first:
+      213: -8947675335182322349
+    second: hat_witch_fish_23
+  - first:
+      213: 5154098716836901903
+    second: hat_witch_fish_24
+  - first:
+      213: -4231867737035124211
+    second: hat_witch_fish_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hat_witch_fish_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 111
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71ae0c6b7185fb90800000000000000
+      internalID: -7208713261442752130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_fish_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 112
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af12b9ccc2a3b750800000000000000
+      internalID: 6319573702571859880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_fish_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5942643fbcedf59b0800000000000000
+      internalID: -5089104086364183403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_fish_3
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 112
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a6f630129a07fa0800000000000000
+      internalID: -5804953960423921104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_fish_4
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 113
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee6a811cc2609c00800000000000000
+      internalID: 905332153708605162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_fish_5
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 112
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d6dc40aed997af0800000000000000
+      internalID: -398113463617098454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_fish_6
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 79
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876b63f2288c599d0800000000000000
+      internalID: -2768085934485883272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_fish_7
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 79
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d78a45c5f2ff600800000000000000
+      internalID: 504173756892609900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_fish_8
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 80
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92171b2e952d24c90800000000000000
+      internalID: -7186950771832688343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_fish_9
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 81
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d088038ad42bddfd0800000000000000
+      internalID: -2315498586794588147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_fish_10
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 80
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4f2dc88cb09d070800000000000000
+      internalID: 8131543558178141422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_fish_11
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 47
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5af4eaa6781b8530800000000000000
+      internalID: 3858204403725302363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_fish_12
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 48
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0181febd49155b10800000000000000
+      internalID: 1969508233751134478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_fish_13
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 48
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa0a1449b597ba60800000000000000
+      internalID: 7689779511702457084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_fish_14
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 48
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481edb09914c30be0800000000000000
+      internalID: -1512149435784765052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_fish_15
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 49
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79163037607c53d0800000000000000
+      internalID: -3216572445356582529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_fish_16
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 55
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486e04098059ea310800000000000000
+      internalID: 1418234796680734340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_fish_17
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 49
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d144f5801d6c6d0800000000000000
+      internalID: -2970457070316020348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_fish_18
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 48
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4f689e3035e76e0800000000000000
+      internalID: -1837940321652640524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_fish_19
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 15
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bddaa618805a7bc0800000000000000
+      internalID: -3784623991425409607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_fish_20
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 16
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e663393e93606c80800000000000000
+      internalID: -8331549779419765020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_fish_21
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 16
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0899ee186b076c600800000000000000
+      internalID: 488201538782534016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_fish_22
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 16
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3336dd543ccc0a0800000000000000
+      internalID: -6859893427557682210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_fish_23
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 17
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355fee080b873d380800000000000000
+      internalID: -8947675335182322349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_fish_24
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 23
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f043c52b979078740800000000000000
+      internalID: 5154098716836901903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_fish_25
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 16
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02d59de6b26545c0800000000000000
+      internalID: -4231867737035124211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hat_witch_fish_0: -7208713261442752130
+      hat_witch_fish_1: 6319573702571859880
+      hat_witch_fish_10: 8131543558178141422
+      hat_witch_fish_11: 3858204403725302363
+      hat_witch_fish_12: 1969508233751134478
+      hat_witch_fish_13: 7689779511702457084
+      hat_witch_fish_14: -1512149435784765052
+      hat_witch_fish_15: -3216572445356582529
+      hat_witch_fish_16: 1418234796680734340
+      hat_witch_fish_17: -2970457070316020348
+      hat_witch_fish_18: -1837940321652640524
+      hat_witch_fish_19: -3784623991425409607
+      hat_witch_fish_2: -5089104086364183403
+      hat_witch_fish_20: -8331549779419765020
+      hat_witch_fish_21: 488201538782534016
+      hat_witch_fish_22: -6859893427557682210
+      hat_witch_fish_23: -8947675335182322349
+      hat_witch_fish_24: 5154098716836901903
+      hat_witch_fish_25: -4231867737035124211
+      hat_witch_fish_3: -5804953960423921104
+      hat_witch_fish_4: 905332153708605162
+      hat_witch_fish_5: -398113463617098454
+      hat_witch_fish_6: -2768085934485883272
+      hat_witch_fish_7: 504173756892609900
+      hat_witch_fish_8: -7186950771832688343
+      hat_witch_fish_9: -2315498586794588147
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

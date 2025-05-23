@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 724254ff2c7adc648adb6f46995ebd7d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8940503273158203595
+    second: mask_clown_blue_pickup_0
+  - first:
+      213: 1856166382994194775
+    second: mask_clown_blue_pickup_1
+  - first:
+      213: -5353010336582601137
+    second: mask_clown_blue_pickup_2
+  - first:
+      213: 6783429481349666386
+    second: mask_clown_blue_pickup_3
+  - first:
+      213: 8765253183136644388
+    second: mask_clown_blue_pickup_4
+  - first:
+      213: -6623391497698322813
+    second: mask_clown_blue_pickup_5
+  - first:
+      213: -9097893672980764869
+    second: mask_clown_blue_pickup_6
+  - first:
+      213: -3038392917154922570
+    second: mask_clown_blue_pickup_7
+  - first:
+      213: 8663426166845707352
+    second: mask_clown_blue_pickup_8
+  - first:
+      213: 273665632907681834
+    second: mask_clown_blue_pickup_9
+  - first:
+      213: -4155352489308132140
+    second: mask_clown_blue_pickup_10
+  - first:
+      213: 3282238978517536200
+    second: mask_clown_blue_pickup_11
+  - first:
+      213: -5613119333781222637
+    second: mask_clown_blue_pickup_12
+  - first:
+      213: 8689218883289279227
+    second: mask_clown_blue_pickup_13
+  - first:
+      213: 6882430929935783773
+    second: mask_clown_blue_pickup_14
+  - first:
+      213: 791816171331154129
+    second: mask_clown_blue_pickup_15
+  - first:
+      213: -6985448721677298215
+    second: mask_clown_blue_pickup_16
+  - first:
+      213: -1677952255534011080
+    second: mask_clown_blue_pickup_17
+  - first:
+      213: 2121628329432633872
+    second: mask_clown_blue_pickup_18
+  - first:
+      213: -2117280260074013133
+    second: mask_clown_blue_pickup_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mask_clown_blue_pickup_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 102
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8dfcdab5c031c70800000000000000
+      internalID: 8940503273158203595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_pickup_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 102
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751046ead7d62c910800000000000000
+      internalID: 1856166382994194775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_pickup_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 103
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46fff8d57946b5b0800000000000000
+      internalID: -5353010336582601137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_pickup_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 103
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25652c25c25932e50800000000000000
+      internalID: 6783429481349666386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_pickup_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 102
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42db83b645f64a970800000000000000
+      internalID: 8765253183136644388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_pickup_5
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 72
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386595b668cf414a0800000000000000
+      internalID: -6623391497698322813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_pickup_6
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 73
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3725b938e9cdb180800000000000000
+      internalID: -9097893672980764869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_pickup_7
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 73
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bffaec6db575d5d0800000000000000
+      internalID: -3038392917154922570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_pickup_8
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 72
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85499aca23caa3870800000000000000
+      internalID: 8663426166845707352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_pickup_9
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 72
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20e1b471714cc300800000000000000
+      internalID: 273665632907681834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_pickup_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 38
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dce04e4de83556c0800000000000000
+      internalID: -4155352489308132140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_pickup_11
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 37
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd8a7ef5fadc8d20800000000000000
+      internalID: 3282238978517536200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_pickup_12
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 37
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31bc71c94b13a12b0800000000000000
+      internalID: -5613119333781222637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_pickup_13
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 38
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfae212798e469870800000000000000
+      internalID: 8689218883289279227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_pickup_14
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 38
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57dbf1577e438f50800000000000000
+      internalID: 6882430929935783773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_pickup_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 6
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d07a93dc981dfa00800000000000000
+      internalID: 791816171331154129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_pickup_16
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 5
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5d7bbe563be0f90800000000000000
+      internalID: -6985448721677298215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_pickup_17
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 5
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d64d25057b6b8e0800000000000000
+      internalID: -1677952255534011080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_pickup_18
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 6
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012dc3989b9817d10800000000000000
+      internalID: 2121628329432633872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_pickup_19
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 6
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e775042d8ed92e0800000000000000
+      internalID: -2117280260074013133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mask_clown_blue_pickup_0: 8940503273158203595
+      mask_clown_blue_pickup_1: 1856166382994194775
+      mask_clown_blue_pickup_10: -4155352489308132140
+      mask_clown_blue_pickup_11: 3282238978517536200
+      mask_clown_blue_pickup_12: -5613119333781222637
+      mask_clown_blue_pickup_13: 8689218883289279227
+      mask_clown_blue_pickup_14: 6882430929935783773
+      mask_clown_blue_pickup_15: 791816171331154129
+      mask_clown_blue_pickup_16: -6985448721677298215
+      mask_clown_blue_pickup_17: -1677952255534011080
+      mask_clown_blue_pickup_18: 2121628329432633872
+      mask_clown_blue_pickup_19: -2117280260074013133
+      mask_clown_blue_pickup_2: -5353010336582601137
+      mask_clown_blue_pickup_3: 6783429481349666386
+      mask_clown_blue_pickup_4: 8765253183136644388
+      mask_clown_blue_pickup_5: -6623391497698322813
+      mask_clown_blue_pickup_6: -9097893672980764869
+      mask_clown_blue_pickup_7: -3038392917154922570
+      mask_clown_blue_pickup_8: 8663426166845707352
+      mask_clown_blue_pickup_9: 273665632907681834
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

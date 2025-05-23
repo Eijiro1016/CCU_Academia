@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: e9a57e99d10bdae4d9e855f965262430
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1619279315201723280
+    second: mask_clown_blue_axe_0
+  - first:
+      213: 3740150466061240249
+    second: mask_clown_blue_axe_1
+  - first:
+      213: 7481772741073832149
+    second: mask_clown_blue_axe_2
+  - first:
+      213: -456021284626184419
+    second: mask_clown_blue_axe_3
+  - first:
+      213: -1810132685675710135
+    second: mask_clown_blue_axe_4
+  - first:
+      213: 1549307573622510919
+    second: mask_clown_blue_axe_5
+  - first:
+      213: -7019719168417697804
+    second: mask_clown_blue_axe_6
+  - first:
+      213: -5721199332684311286
+    second: mask_clown_blue_axe_7
+  - first:
+      213: -6337160092619371266
+    second: mask_clown_blue_axe_8
+  - first:
+      213: -1417023613351222871
+    second: mask_clown_blue_axe_9
+  - first:
+      213: -3448830815716552692
+    second: mask_clown_blue_axe_10
+  - first:
+      213: -3620714034169113120
+    second: mask_clown_blue_axe_11
+  - first:
+      213: 3606448588756814392
+    second: mask_clown_blue_axe_12
+  - first:
+      213: -547600623888033776
+    second: mask_clown_blue_axe_13
+  - first:
+      213: 5882111020538960862
+    second: mask_clown_blue_axe_14
+  - first:
+      213: -1456014381921047288
+    second: mask_clown_blue_axe_15
+  - first:
+      213: 635566343229546223
+    second: mask_clown_blue_axe_16
+  - first:
+      213: -4834905374296749479
+    second: mask_clown_blue_axe_17
+  - first:
+      213: -8512453400518913835
+    second: mask_clown_blue_axe_18
+  - first:
+      213: -2423742044750774018
+    second: mask_clown_blue_axe_19
+  - first:
+      213: -4883725805036138229
+    second: mask_clown_blue_axe_20
+  - first:
+      213: -3653666091882463667
+    second: mask_clown_blue_axe_21
+  - first:
+      213: -7619464433452778480
+    second: mask_clown_blue_axe_22
+  - first:
+      213: 4196817724296777634
+    second: mask_clown_blue_axe_23
+  - first:
+      213: 2518275753451893142
+    second: mask_clown_blue_axe_24
+  - first:
+      213: -3731363507138742107
+    second: mask_clown_blue_axe_25
+  - first:
+      213: 8380746139275260236
+    second: mask_clown_blue_axe_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mask_clown_blue_axe_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 102
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b8cb635f5d87610800000000000000
+      internalID: 1619279315201723280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_axe_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 105
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b78710680fa7e330800000000000000
+      internalID: 3740150466061240249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_axe_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 101
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d808e9faa894d760800000000000000
+      internalID: 7481772741073832149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_axe_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 105
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17c6d7ce03eba9f0800000000000000
+      internalID: -456021284626184419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_axe_4
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 107
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949b9f1b9ed11e6e0800000000000000
+      internalID: -1810132685675710135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_axe_5
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 102
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7459795970f308510800000000000000
+      internalID: 1549307573622510919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_axe_6
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 107
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff667fbb92f49e90800000000000000
+      internalID: -7019719168417697804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_axe_7
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 107
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a055626e4873a90b0800000000000000
+      internalID: -5721199332684311286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_axe_8
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 107
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc04a2b872ed08a0800000000000000
+      internalID: -6337160092619371266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_axe_9
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 102
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a12cd70888b55ce0800000000000000
+      internalID: -1417023613351222871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_axe_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 71
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c005bc255aa4320d0800000000000000
+      internalID: -3448830815716552692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_axe_11
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 71
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e51410f4c3a0cdc0800000000000000
+      internalID: -3620714034169113120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_axe_12
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 72
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a0f8932edac0230800000000000000
+      internalID: 3606448588756814392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_axe_13
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 72
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0181f5642288668f0800000000000000
+      internalID: -547600623888033776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_axe_14
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 72
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb92a4fec471a150800000000000000
+      internalID: 5882111020538960862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_axe_15
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 38
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d6cb942a23bcbe0800000000000000
+      internalID: -1456014381921047288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_axe_16
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 39
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee1467c83cf1d800800000000000000
+      internalID: 635566343229546223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_axe_17
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 40
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a4a62bd27f6ecb0800000000000000
+      internalID: -4834905374296749479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_axe_18
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 38
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0110fabb0bdd980800000000000000
+      internalID: -8512453400518913835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_axe_19
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 39
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0837ba3732d5ed0800000000000000
+      internalID: -2423742044750774018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_axe_20
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 41
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0199626145893cb0800000000000000
+      internalID: -4883725805036138229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_axe_21
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 6
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4eb4712c029b4dc0800000000000000
+      internalID: -3653666091882463667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_axe_22
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 5
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01cf259a779324690800000000000000
+      internalID: -7619464433452778480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_axe_23
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 6
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2afc5cb0c771e3a30800000000000000
+      internalID: 4196817724296777634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_axe_24
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 8
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691baf29476b2f220800000000000000
+      internalID: 2518275753451893142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_axe_25
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 7
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8b32de8a8873cc0800000000000000
+      internalID: -3731363507138742107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_axe_26
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 8
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c417a38e5346e4470800000000000000
+      internalID: 8380746139275260236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mask_clown_blue_axe_0: 1619279315201723280
+      mask_clown_blue_axe_1: 3740150466061240249
+      mask_clown_blue_axe_10: -3448830815716552692
+      mask_clown_blue_axe_11: -3620714034169113120
+      mask_clown_blue_axe_12: 3606448588756814392
+      mask_clown_blue_axe_13: -547600623888033776
+      mask_clown_blue_axe_14: 5882111020538960862
+      mask_clown_blue_axe_15: -1456014381921047288
+      mask_clown_blue_axe_16: 635566343229546223
+      mask_clown_blue_axe_17: -4834905374296749479
+      mask_clown_blue_axe_18: -8512453400518913835
+      mask_clown_blue_axe_19: -2423742044750774018
+      mask_clown_blue_axe_2: 7481772741073832149
+      mask_clown_blue_axe_20: -4883725805036138229
+      mask_clown_blue_axe_21: -3653666091882463667
+      mask_clown_blue_axe_22: -7619464433452778480
+      mask_clown_blue_axe_23: 4196817724296777634
+      mask_clown_blue_axe_24: 2518275753451893142
+      mask_clown_blue_axe_25: -3731363507138742107
+      mask_clown_blue_axe_26: 8380746139275260236
+      mask_clown_blue_axe_3: -456021284626184419
+      mask_clown_blue_axe_4: -1810132685675710135
+      mask_clown_blue_axe_5: 1549307573622510919
+      mask_clown_blue_axe_6: -7019719168417697804
+      mask_clown_blue_axe_7: -5721199332684311286
+      mask_clown_blue_axe_8: -6337160092619371266
+      mask_clown_blue_axe_9: -1417023613351222871
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

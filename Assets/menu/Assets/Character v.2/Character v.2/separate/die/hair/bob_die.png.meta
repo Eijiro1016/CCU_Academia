@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: e78a662ebc699de42aff65729dc8f0c6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4928726497106846910
+    second: bob_die_0
+  - first:
+      213: 3682687997305926940
+    second: bob_die_1
+  - first:
+      213: -8854736179686685667
+    second: bob_die_2
+  - first:
+      213: 1260445704483498071
+    second: bob_die_3
+  - first:
+      213: 9188504791686340418
+    second: bob_die_4
+  - first:
+      213: 6396434452054954497
+    second: bob_die_5
+  - first:
+      213: 4560562414547528831
+    second: bob_die_6
+  - first:
+      213: -420070052604877041
+    second: bob_die_7
+  - first:
+      213: -5411525378063383768
+    second: bob_die_8
+  - first:
+      213: -9153430179569227834
+    second: bob_die_9
+  - first:
+      213: -4196688458818242064
+    second: bob_die_10
+  - first:
+      213: 5105039599624339061
+    second: bob_die_11
+  - first:
+      213: 7483709029931044892
+    second: bob_die_12
+  - first:
+      213: 7246933070250330621
+    second: bob_die_13
+  - first:
+      213: 1643084242529803050
+    second: bob_die_14
+  - first:
+      213: -5992276847953683502
+    second: bob_die_15
+  - first:
+      213: -6333238379416308650
+    second: bob_die_16
+  - first:
+      213: -283993012983542494
+    second: bob_die_17
+  - first:
+      213: 951769825767961025
+    second: bob_die_18
+  - first:
+      213: 7606999182550612278
+    second: bob_die_19
+  - first:
+      213: -1549120406407051251
+    second: bob_die_20
+  - first:
+      213: -5364985073768477394
+    second: bob_die_21
+  - first:
+      213: -1799339907184724085
+    second: bob_die_22
+  - first:
+      213: -8572436417865297089
+    second: bob_die_23
+  - first:
+      213: 3900676155404814511
+    second: bob_die_24
+  - first:
+      213: -3669790099907846462
+    second: bob_die_25
+  - first:
+      213: 3044350365410124607
+    second: bob_die_26
+  - first:
+      213: -4344552237446534755
+    second: bob_die_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bob_die_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b14e84d55a99bb0800000000000000
+      internalID: -4928726497106846910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_die_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15b30ac8398b1330800000000000000
+      internalID: 3682687997305926940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_die_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14c9f5eb58ad1580800000000000000
+      internalID: -8854736179686685667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_die_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758e76aa0b00e7110800000000000000
+      internalID: 1260445704483498071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_die_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f507ddc60248f70800000000000000
+      internalID: 9188504791686340418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_die_5
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1025ecf8e33b4c850800000000000000
+      internalID: 6396434452054954497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_die_6
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c6a176a5f5a4f30800000000000000
+      internalID: 4560562414547528831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_die_7
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07e4b5438c9b2af0800000000000000
+      internalID: -420070052604877041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_die_8
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 0
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8234583175666e4b0800000000000000
+      internalID: -5411525378063383768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_die_9
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 0
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7af66afbb78f080800000000000000
+      internalID: -9153430179569227834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_die_10
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f9382be41e52c5c0800000000000000
+      internalID: -4196688458818242064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_die_11
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 0
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e39ebd77eb8d640800000000000000
+      internalID: 5105039599624339061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_die_12
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c105c6b56b97bd760800000000000000
+      internalID: 7483709029931044892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_die_13
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df94d434b37429460800000000000000
+      internalID: 7246933070250330621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_die_14
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 0
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2bd704c9686dc610800000000000000
+      internalID: 1643084242529803050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_die_15
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 0
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db5ce984f727dca0800000000000000
+      internalID: -5992276847953683502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_die_16
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6543505bf31db18a0800000000000000
+      internalID: -6333238379416308650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_die_17
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d4c6efbdd0f0cf0800000000000000
+      internalID: -283993012983542494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_die_18
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 0
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1b5d42d9d553d00800000000000000
+      internalID: 951769825767961025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_die_19
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639bd92f37d719960800000000000000
+      internalID: 7606999182550612278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_die_20
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 0
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d088ccda23b608ae0800000000000000
+      internalID: -1549120406407051251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_die_21
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 0
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2dc1c4108ebb85b0800000000000000
+      internalID: -5364985073768477394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_die_22
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87f11243e57707e0800000000000000
+      internalID: -1799339907184724085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_die_23
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 0
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3354852f76980980800000000000000
+      internalID: -8572436417865297089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_die_24
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 0
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa88db2fb4cf12630800000000000000
+      internalID: 3900676155404814511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_die_25
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 0
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce5fb6f859421dc0800000000000000
+      internalID: -3669790099907846462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_die_26
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 0
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33e9161784bf3a20800000000000000
+      internalID: 3044350365410124607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bob_die_27
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 0
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99eeda22cc05b3c0800000000000000
+      internalID: -4344552237446534755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bob_die_0: -4928726497106846910
+      bob_die_1: 3682687997305926940
+      bob_die_10: -4196688458818242064
+      bob_die_11: 5105039599624339061
+      bob_die_12: 7483709029931044892
+      bob_die_13: 7246933070250330621
+      bob_die_14: 1643084242529803050
+      bob_die_15: -5992276847953683502
+      bob_die_16: -6333238379416308650
+      bob_die_17: -283993012983542494
+      bob_die_18: 951769825767961025
+      bob_die_19: 7606999182550612278
+      bob_die_2: -8854736179686685667
+      bob_die_20: -1549120406407051251
+      bob_die_21: -5364985073768477394
+      bob_die_22: -1799339907184724085
+      bob_die_23: -8572436417865297089
+      bob_die_24: 3900676155404814511
+      bob_die_25: -3669790099907846462
+      bob_die_26: 3044350365410124607
+      bob_die_27: -4344552237446534755
+      bob_die_3: 1260445704483498071
+      bob_die_4: 9188504791686340418
+      bob_die_5: 6396434452054954497
+      bob_die_6: 4560562414547528831
+      bob_die_7: -420070052604877041
+      bob_die_8: -5411525378063383768
+      bob_die_9: -9153430179569227834
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

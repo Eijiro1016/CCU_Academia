@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 7a8774113e74be84792f3be00ddab3b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5059371555926169547
+    second: witch_hoe_0
+  - first:
+      213: 1404632392716036812
+    second: witch_hoe_1
+  - first:
+      213: -7087354977339434546
+    second: witch_hoe_2
+  - first:
+      213: 219449762416922243
+    second: witch_hoe_3
+  - first:
+      213: 8337131112106343434
+    second: witch_hoe_4
+  - first:
+      213: 8910319641492853514
+    second: witch_hoe_5
+  - first:
+      213: -987699958322685207
+    second: witch_hoe_6
+  - first:
+      213: 3237074403131218440
+    second: witch_hoe_7
+  - first:
+      213: -8566491809606264678
+    second: witch_hoe_8
+  - first:
+      213: 2824225219339122743
+    second: witch_hoe_9
+  - first:
+      213: 1219113121931866682
+    second: witch_hoe_10
+  - first:
+      213: 8229019029558643117
+    second: witch_hoe_11
+  - first:
+      213: 5603507318129139423
+    second: witch_hoe_12
+  - first:
+      213: -3698052799217074791
+    second: witch_hoe_13
+  - first:
+      213: 4978854259119226164
+    second: witch_hoe_14
+  - first:
+      213: 1223011921645684837
+    second: witch_hoe_15
+  - first:
+      213: 3120682863537912043
+    second: witch_hoe_16
+  - first:
+      213: -8384883116384793750
+    second: witch_hoe_17
+  - first:
+      213: 2768326472791945044
+    second: witch_hoe_18
+  - first:
+      213: -3796959856272723321
+    second: witch_hoe_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: witch_hoe_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 103
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5382e46206089c9b0800000000000000
+      internalID: -5059371555926169547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_hoe_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 101
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccaa8d718b14e7310800000000000000
+      internalID: 1404632392716036812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_hoe_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 101
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec91692d238a4ad90800000000000000
+      internalID: -7087354977339434546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_hoe_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 101
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e87ee6564ab0300800000000000000
+      internalID: 219449762416922243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_hoe_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 101
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0cb4fe039073b370800000000000000
+      internalID: 8337131112106343434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_hoe_5
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 63
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a031e5a4180d7ab70800000000000000
+      internalID: 8910319641492853514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_hoe_6
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 63
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea1287fe1cfa42f0800000000000000
+      internalID: -987699958322685207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_hoe_7
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 63
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a5526d4066cec20800000000000000
+      internalID: 3237074403131218440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_hoe_8
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 63
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98102d1615bd1980800000000000000
+      internalID: -8566491809606264678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_hoe_9
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 63
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7387864afd9a13720800000000000000
+      internalID: 2824225219339122743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_hoe_10
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 32
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3234cddce82be010800000000000000
+      internalID: 1219113121931866682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_hoe_11
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 32
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9c5ca4539533270800000000000000
+      internalID: 8229019029558643117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_hoe_12
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 32
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde93699738a3cd40800000000000000
+      internalID: 5603507318129139423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_hoe_13
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 32
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99df60e7290edacc0800000000000000
+      internalID: -3698052799217074791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_hoe_14
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 32
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43dfd3fc191781540800000000000000
+      internalID: 4978854259119226164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_hoe_15
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56842c9ecd209f010800000000000000
+      internalID: 1223011921645684837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_hoe_16
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 0
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be873d1c784ee4b20800000000000000
+      internalID: 3120682863537912043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_hoe_17
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6bc6bc0b39e2ab80800000000000000
+      internalID: -8384883116384793750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_hoe_18
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 0
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45fe21182421b6620800000000000000
+      internalID: 2768326472791945044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: witch_hoe_19
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 0
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782327cb02d7e4bc0800000000000000
+      internalID: -3796959856272723321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      witch_hoe_0: -5059371555926169547
+      witch_hoe_1: 1404632392716036812
+      witch_hoe_10: 1219113121931866682
+      witch_hoe_11: 8229019029558643117
+      witch_hoe_12: 5603507318129139423
+      witch_hoe_13: -3698052799217074791
+      witch_hoe_14: 4978854259119226164
+      witch_hoe_15: 1223011921645684837
+      witch_hoe_16: 3120682863537912043
+      witch_hoe_17: -8384883116384793750
+      witch_hoe_18: 2768326472791945044
+      witch_hoe_19: -3796959856272723321
+      witch_hoe_2: -7087354977339434546
+      witch_hoe_3: 219449762416922243
+      witch_hoe_4: 8337131112106343434
+      witch_hoe_5: 8910319641492853514
+      witch_hoe_6: -987699958322685207
+      witch_hoe_7: 3237074403131218440
+      witch_hoe_8: -8566491809606264678
+      witch_hoe_9: 2824225219339122743
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

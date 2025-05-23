@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: f739a169d77f43f4480d978b3780044a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3540850969587320171
+    second: dress_hurt_0
+  - first:
+      213: -5877689050048469387
+    second: dress_hurt_1
+  - first:
+      213: 8176734269229896579
+    second: dress_hurt_2
+  - first:
+      213: -7227492015039990332
+    second: dress_hurt_3
+  - first:
+      213: -1064410320136615045
+    second: dress_hurt_4
+  - first:
+      213: 3629248341034969412
+    second: dress_hurt_5
+  - first:
+      213: 2940060662515294903
+    second: dress_hurt_6
+  - first:
+      213: 3456814497301774276
+    second: dress_hurt_7
+  - first:
+      213: 5195158753579040269
+    second: dress_hurt_8
+  - first:
+      213: 6790262531564133290
+    second: dress_hurt_9
+  - first:
+      213: 7931224809282375321
+    second: dress_hurt_10
+  - first:
+      213: -4353371582190428122
+    second: dress_hurt_11
+  - first:
+      213: 5683104787556908576
+    second: dress_hurt_12
+  - first:
+      213: -8798210245646912270
+    second: dress_hurt_13
+  - first:
+      213: 3546804625517106827
+    second: dress_hurt_14
+  - first:
+      213: 1389006977107376746
+    second: dress_hurt_15
+  - first:
+      213: 5020764794709158384
+    second: dress_hurt_16
+  - first:
+      213: 8739506413300121582
+    second: dress_hurt_17
+  - first:
+      213: -1001957690705465096
+    second: dress_hurt_18
+  - first:
+      213: -7705893673345558324
+    second: dress_hurt_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dress_hurt_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 99
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6589d45231a32130800000000000000
+      internalID: 3540850969587320171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_hurt_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 99
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57668a743f04e6ea0800000000000000
+      internalID: -5877689050048469387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_hurt_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 99
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3831634ee78997170800000000000000
+      internalID: 8176734269229896579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_hurt_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 99
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5b1922e4ac2bb90800000000000000
+      internalID: -7227492015039990332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_hurt_4
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 99
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b4ffc04747a31f0800000000000000
+      internalID: -1064410320136615045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_hurt_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 99
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449a019332ead5230800000000000000
+      internalID: 3629248341034969412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_hurt_6
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 99
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2e25f68913dc820800000000000000
+      internalID: 2940060662515294903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_hurt_7
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 99
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cfb716687219ff20800000000000000
+      internalID: 3456814497301774276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_hurt_8
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 99
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ef6da7c59e81840800000000000000
+      internalID: 5195158753579040269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_hurt_9
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 99
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab568dcbcbdb3e50800000000000000
+      internalID: 6790262531564133290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_hurt_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 66
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e8a0f41fe511e60800000000000000
+      internalID: 7931224809282375321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_hurt_11
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 5
+        width: 299
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62062447c97b593c0800000000000000
+      internalID: -4353371582190428122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_hurt_12
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 37
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02eb6a3a1b17ede40800000000000000
+      internalID: 5683104787556908576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_hurt_13
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 66
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f47301856a76e580800000000000000
+      internalID: -8798210245646912270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_hurt_14
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 37
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86d8afd308c83130800000000000000
+      internalID: 3546804625517106827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_hurt_15
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 66
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a36058c7eb64310800000000000000
+      internalID: 1389006977107376746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_hurt_16
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 37
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f92d69caf65da540800000000000000
+      internalID: 5020764794709158384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_hurt_17
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 66
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef700d67c6f84970800000000000000
+      internalID: 8739506413300121582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_hurt_18
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 37
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0b785f9c45812f0800000000000000
+      internalID: -1001957690705465096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dress_hurt_19
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 66
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8de4b188a2f0590800000000000000
+      internalID: -7705893673345558324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      dress_hurt_0: 3540850969587320171
+      dress_hurt_1: -5877689050048469387
+      dress_hurt_10: 7931224809282375321
+      dress_hurt_11: -4353371582190428122
+      dress_hurt_12: 5683104787556908576
+      dress_hurt_13: -8798210245646912270
+      dress_hurt_14: 3546804625517106827
+      dress_hurt_15: 1389006977107376746
+      dress_hurt_16: 5020764794709158384
+      dress_hurt_17: 8739506413300121582
+      dress_hurt_18: -1001957690705465096
+      dress_hurt_19: -7705893673345558324
+      dress_hurt_2: 8176734269229896579
+      dress_hurt_3: -7227492015039990332
+      dress_hurt_4: -1064410320136615045
+      dress_hurt_5: 3629248341034969412
+      dress_hurt_6: 2940060662515294903
+      dress_hurt_7: 3456814497301774276
+      dress_hurt_8: 5195158753579040269
+      dress_hurt_9: 6790262531564133290
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: e680b29aac76d314286fadf54c031664
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4927214465537863157
+    second: hat_witch_hoe_0
+  - first:
+      213: -4490589373195997580
+    second: hat_witch_hoe_1
+  - first:
+      213: 3534549576431191040
+    second: hat_witch_hoe_2
+  - first:
+      213: 1081209838847380650
+    second: hat_witch_hoe_3
+  - first:
+      213: 1950481189554903463
+    second: hat_witch_hoe_4
+  - first:
+      213: -7883334004188273580
+    second: hat_witch_hoe_5
+  - first:
+      213: 5645397495683804488
+    second: hat_witch_hoe_6
+  - first:
+      213: 1829395823138047666
+    second: hat_witch_hoe_7
+  - first:
+      213: -6754596250143120951
+    second: hat_witch_hoe_8
+  - first:
+      213: 2792870602379197675
+    second: hat_witch_hoe_9
+  - first:
+      213: -595540976679756086
+    second: hat_witch_hoe_10
+  - first:
+      213: 2487244340721599229
+    second: hat_witch_hoe_11
+  - first:
+      213: 6517451368789916754
+    second: hat_witch_hoe_12
+  - first:
+      213: -5993424574287471410
+    second: hat_witch_hoe_13
+  - first:
+      213: 213120867636134237
+    second: hat_witch_hoe_14
+  - first:
+      213: 1166996495105009538
+    second: hat_witch_hoe_15
+  - first:
+      213: 8750111974726851455
+    second: hat_witch_hoe_16
+  - first:
+      213: 6864913215312277994
+    second: hat_witch_hoe_17
+  - first:
+      213: 426688418296644859
+    second: hat_witch_hoe_18
+  - first:
+      213: 7743512501136152216
+    second: hat_witch_hoe_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hat_witch_hoe_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 115
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fdec8e637bf06440800000000000000
+      internalID: 4927214465537863157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_hoe_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 114
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e228ad1c83ea1c0800000000000000
+      internalID: -4490589373195997580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_hoe_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 113
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0044038ec1e3d0130800000000000000
+      internalID: 3534549576431191040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_hoe_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 114
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aacc724be9a310f00800000000000000
+      internalID: 1081209838847380650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_hoe_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 113
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9508cce40811b10800000000000000
+      internalID: 1950481189554903463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_hoe_5
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 75
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454a99aad75c89290800000000000000
+      internalID: -7883334004188273580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_hoe_6
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 76
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84dec1a9c1b785e40800000000000000
+      internalID: 5645397495683804488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_hoe_7
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 77
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b60abffec1536910800000000000000
+      internalID: 1829395823138047666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_hoe_8
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 76
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1a8057f7ad242a0800000000000000
+      internalID: -6754596250143120951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_hoe_9
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 77
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec717ef30542c620800000000000000
+      internalID: 2792870602379197675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_hoe_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 44
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace50d313a63cb7f0800000000000000
+      internalID: -595540976679756086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_hoe_11
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 44
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2cf46cc87748220800000000000000
+      internalID: 2487244340721599229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_hoe_12
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 44
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c3b9d2d73a27a50800000000000000
+      internalID: 6517451368789916754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_hoe_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 44
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc9f7daa1413dca0800000000000000
+      internalID: -5993424574287471410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_hoe_14
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 44
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51cca9cc4825f200800000000000000
+      internalID: 213120867636134237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_hoe_15
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 12
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2872cd81121023010800000000000000
+      internalID: 1166996495105009538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_hoe_16
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 12
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b5c7e1b74ae6970800000000000000
+      internalID: 8750111974726851455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_hoe_17
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 12
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1b29c8232154f50800000000000000
+      internalID: 6864913215312277994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_hoe_18
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 12
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf448521bd6ebe500800000000000000
+      internalID: 426688418296644859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_hoe_19
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 12
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8965408c79b767b60800000000000000
+      internalID: 7743512501136152216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hat_witch_hoe_0: 4927214465537863157
+      hat_witch_hoe_1: -4490589373195997580
+      hat_witch_hoe_10: -595540976679756086
+      hat_witch_hoe_11: 2487244340721599229
+      hat_witch_hoe_12: 6517451368789916754
+      hat_witch_hoe_13: -5993424574287471410
+      hat_witch_hoe_14: 213120867636134237
+      hat_witch_hoe_15: 1166996495105009538
+      hat_witch_hoe_16: 8750111974726851455
+      hat_witch_hoe_17: 6864913215312277994
+      hat_witch_hoe_18: 426688418296644859
+      hat_witch_hoe_19: 7743512501136152216
+      hat_witch_hoe_2: 3534549576431191040
+      hat_witch_hoe_3: 1081209838847380650
+      hat_witch_hoe_4: 1950481189554903463
+      hat_witch_hoe_5: -7883334004188273580
+      hat_witch_hoe_6: 5645397495683804488
+      hat_witch_hoe_7: 1829395823138047666
+      hat_witch_hoe_8: -6754596250143120951
+      hat_witch_hoe_9: 2792870602379197675
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

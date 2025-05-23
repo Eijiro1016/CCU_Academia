@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: 8bdfec3f67d040c4f9372c46ff6dd25e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -130814974097446391
+    second: hat_cowboy_carry_0
+  - first:
+      213: 6760464884933250738
+    second: hat_cowboy_carry_1
+  - first:
+      213: 379812106974214177
+    second: hat_cowboy_carry_2
+  - first:
+      213: -1909744536202271460
+    second: hat_cowboy_carry_3
+  - first:
+      213: -4488619108567546247
+    second: hat_cowboy_carry_4
+  - first:
+      213: -4183215320126793820
+    second: hat_cowboy_carry_5
+  - first:
+      213: 3239728174068623991
+    second: hat_cowboy_carry_6
+  - first:
+      213: 2647248322059612912
+    second: hat_cowboy_carry_7
+  - first:
+      213: 4417744711912028597
+    second: hat_cowboy_carry_8
+  - first:
+      213: 7887489225723364588
+    second: hat_cowboy_carry_9
+  - first:
+      213: -2865389367425169937
+    second: hat_cowboy_carry_10
+  - first:
+      213: 4884330683882981302
+    second: hat_cowboy_carry_11
+  - first:
+      213: 1552696799350966811
+    second: hat_cowboy_carry_12
+  - first:
+      213: -3259362101050842878
+    second: hat_cowboy_carry_13
+  - first:
+      213: 4551516472705017806
+    second: hat_cowboy_carry_14
+  - first:
+      213: -2119672864680135519
+    second: hat_cowboy_carry_15
+  - first:
+      213: 7686056887687350755
+    second: hat_cowboy_carry_16
+  - first:
+      213: 6715755670360747350
+    second: hat_cowboy_carry_17
+  - first:
+      213: -5933548769017025126
+    second: hat_cowboy_carry_18
+  - first:
+      213: -7975179061166419317
+    second: hat_cowboy_carry_19
+  - first:
+      213: 8420912342505416124
+    second: hat_cowboy_carry_20
+  - first:
+      213: 3151404434738892297
+    second: hat_cowboy_carry_21
+  - first:
+      213: -3583226236968375026
+    second: hat_cowboy_carry_22
+  - first:
+      213: -7096950967627255538
+    second: hat_cowboy_carry_23
+  - first:
+      213: 6213883042590108092
+    second: hat_cowboy_carry_24
+  - first:
+      213: -6782820178546636955
+    second: hat_cowboy_carry_25
+  - first:
+      213: -7705998979597337050
+    second: hat_cowboy_carry_26
+  - first:
+      213: 6291168813197586806
+    second: hat_cowboy_carry_27
+  - first:
+      213: -8635870521268558693
+    second: hat_cowboy_carry_28
+  - first:
+      213: 7652941768569648728
+    second: hat_cowboy_carry_29
+  - first:
+      213: 6554592866145950430
+    second: hat_cowboy_carry_30
+  - first:
+      213: -1968695695396826140
+    second: hat_cowboy_carry_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hat_cowboy_carry_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 107
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90aae9169704f2ef0800000000000000
+      internalID: -130814974097446391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_cowboy_carry_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 108
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bec2fe8efef1dd50800000000000000
+      internalID: 6760464884933250738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_cowboy_carry_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 109
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1283795591d554500800000000000000
+      internalID: 379812106974214177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_cowboy_carry_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 107
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15abeb66793f75e0800000000000000
+      internalID: -1909744536202271460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_cowboy_carry_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 107
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9760dc5d3b835b1c0800000000000000
+      internalID: -4488619108567546247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_cowboy_carry_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 108
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7ded874db32f5c0800000000000000
+      internalID: -4183215320126793820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_cowboy_carry_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 109
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a6f280c93d5fc20800000000000000
+      internalID: 3239728174068623991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_cowboy_carry_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 107
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2bc9cb25aecb420800000000000000
+      internalID: 2647248322059612912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_cowboy_carry_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 75
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b970e5c86bfe4d30800000000000000
+      internalID: 4417744711912028597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_cowboy_carry_9
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 76
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce446fc39adf57d60800000000000000
+      internalID: 7887489225723364588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_cowboy_carry_10
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 77
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe501734d871c38d0800000000000000
+      internalID: -2865389367425169937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_cowboy_carry_11
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 75
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7c262f0e0a8c340800000000000000
+      internalID: 4884330683882981302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_cowboy_carry_12
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 75
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a433133894c8510800000000000000
+      internalID: 1552696799350966811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_cowboy_carry_13
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 76
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2016e7c107b64c2d0800000000000000
+      internalID: -3259362101050842878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_cowboy_carry_14
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 77
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7ebe0fd1c3a2f30800000000000000
+      internalID: 4551516472705017806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_cowboy_carry_15
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 75
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4b4b492c86592e0800000000000000
+      internalID: -2119672864680135519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_cowboy_carry_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 43
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e98c02540c5aaa60800000000000000
+      internalID: 7686056887687350755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_cowboy_carry_17
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 44
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65dea2a5338233d50800000000000000
+      internalID: 6715755670360747350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_cowboy_carry_18
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 45
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9da845f4dcc7ada0800000000000000
+      internalID: -5933548769017025126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_cowboy_carry_19
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 43
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82da0fe5e8725190800000000000000
+      internalID: -7975179061166419317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_cowboy_carry_20
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 43
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5ecbbd8271dd470800000000000000
+      internalID: 8420912342505416124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_cowboy_carry_21
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 44
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ec334f2a90cbb20800000000000000
+      internalID: 3151404434738892297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_cowboy_carry_22
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 45
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0de3a3e8b2d54ec0800000000000000
+      internalID: -3583226236968375026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_cowboy_carry_23
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 43
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01763a32b0928d90800000000000000
+      internalID: -7096950967627255538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_cowboy_carry_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 11
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9286564b52c3650800000000000000
+      internalID: 6213883042590108092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_cowboy_carry_25
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 12
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567406a0cf49ed1a0800000000000000
+      internalID: -6782820178546636955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_cowboy_carry_26
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 13
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ef39591cace0590800000000000000
+      internalID: -7705998979597337050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_cowboy_carry_27
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 11
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67178ac14b8be4750800000000000000
+      internalID: 6291168813197586806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_cowboy_carry_28
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 11
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9425850489372880800000000000000
+      internalID: -8635870521268558693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_cowboy_carry_29
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 12
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856f752ddf5b43a60800000000000000
+      internalID: 7652941768569648728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_cowboy_carry_30
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 13
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda50f9eb7796fa50800000000000000
+      internalID: 6554592866145950430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_cowboy_carry_31
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 11
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3180512b9cda4e0800000000000000
+      internalID: -1968695695396826140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hat_cowboy_carry_0: -130814974097446391
+      hat_cowboy_carry_1: 6760464884933250738
+      hat_cowboy_carry_10: -2865389367425169937
+      hat_cowboy_carry_11: 4884330683882981302
+      hat_cowboy_carry_12: 1552696799350966811
+      hat_cowboy_carry_13: -3259362101050842878
+      hat_cowboy_carry_14: 4551516472705017806
+      hat_cowboy_carry_15: -2119672864680135519
+      hat_cowboy_carry_16: 7686056887687350755
+      hat_cowboy_carry_17: 6715755670360747350
+      hat_cowboy_carry_18: -5933548769017025126
+      hat_cowboy_carry_19: -7975179061166419317
+      hat_cowboy_carry_2: 379812106974214177
+      hat_cowboy_carry_20: 8420912342505416124
+      hat_cowboy_carry_21: 3151404434738892297
+      hat_cowboy_carry_22: -3583226236968375026
+      hat_cowboy_carry_23: -7096950967627255538
+      hat_cowboy_carry_24: 6213883042590108092
+      hat_cowboy_carry_25: -6782820178546636955
+      hat_cowboy_carry_26: -7705998979597337050
+      hat_cowboy_carry_27: 6291168813197586806
+      hat_cowboy_carry_28: -8635870521268558693
+      hat_cowboy_carry_29: 7652941768569648728
+      hat_cowboy_carry_3: -1909744536202271460
+      hat_cowboy_carry_30: 6554592866145950430
+      hat_cowboy_carry_31: -1968695695396826140
+      hat_cowboy_carry_4: -4488619108567546247
+      hat_cowboy_carry_5: -4183215320126793820
+      hat_cowboy_carry_6: 3239728174068623991
+      hat_cowboy_carry_7: 2647248322059612912
+      hat_cowboy_carry_8: 4417744711912028597
+      hat_cowboy_carry_9: 7887489225723364588
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

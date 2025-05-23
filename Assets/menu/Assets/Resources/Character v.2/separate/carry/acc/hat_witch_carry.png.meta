@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: 016e637a433ec9843ab00b8c6afeef8f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7036263023605721065
+    second: hat_witch_carry_0
+  - first:
+      213: -7639053176239150456
+    second: hat_witch_carry_1
+  - first:
+      213: 6063941927625864468
+    second: hat_witch_carry_2
+  - first:
+      213: 6375617757843446371
+    second: hat_witch_carry_3
+  - first:
+      213: 8218702941517427693
+    second: hat_witch_carry_4
+  - first:
+      213: -5656551594878998696
+    second: hat_witch_carry_5
+  - first:
+      213: 1273008871379345387
+    second: hat_witch_carry_6
+  - first:
+      213: 2631260726513027606
+    second: hat_witch_carry_7
+  - first:
+      213: 1679825099587155188
+    second: hat_witch_carry_8
+  - first:
+      213: 3083460506179233152
+    second: hat_witch_carry_9
+  - first:
+      213: -7357350360750288076
+    second: hat_witch_carry_10
+  - first:
+      213: -3416185222109258016
+    second: hat_witch_carry_11
+  - first:
+      213: -4796659508240034789
+    second: hat_witch_carry_12
+  - first:
+      213: 8481273555637762292
+    second: hat_witch_carry_13
+  - first:
+      213: 8518532017326463370
+    second: hat_witch_carry_14
+  - first:
+      213: 9126015667779192718
+    second: hat_witch_carry_15
+  - first:
+      213: 7345824742284304822
+    second: hat_witch_carry_16
+  - first:
+      213: -884601756225945492
+    second: hat_witch_carry_17
+  - first:
+      213: 1357681920465767802
+    second: hat_witch_carry_18
+  - first:
+      213: 2136369944749589766
+    second: hat_witch_carry_19
+  - first:
+      213: 8999844562250304023
+    second: hat_witch_carry_20
+  - first:
+      213: 1842382670563983429
+    second: hat_witch_carry_21
+  - first:
+      213: 1605239018453778409
+    second: hat_witch_carry_22
+  - first:
+      213: -3459824401499734905
+    second: hat_witch_carry_23
+  - first:
+      213: -7156595876723074113
+    second: hat_witch_carry_24
+  - first:
+      213: 5691395839550750955
+    second: hat_witch_carry_25
+  - first:
+      213: -7604190524334965764
+    second: hat_witch_carry_26
+  - first:
+      213: -5361682263217483275
+    second: hat_witch_carry_27
+  - first:
+      213: -8716803526750390222
+    second: hat_witch_carry_28
+  - first:
+      213: 7315872274901043461
+    second: hat_witch_carry_29
+  - first:
+      213: 810745491492339890
+    second: hat_witch_carry_30
+  - first:
+      213: 6019501003430963742
+    second: hat_witch_carry_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hat_witch_carry_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 107
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718d3cb4f0c2a5e90800000000000000
+      internalID: -7036263023605721065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_carry_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 108
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a22f11c91acf590800000000000000
+      internalID: -7639053176239150456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_carry_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 109
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415bcb61e03772450800000000000000
+      internalID: 6063941927625864468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_carry_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 107
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a5eef329eba7850800000000000000
+      internalID: 6375617757843446371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_carry_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 107
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3ba9fd7c2be0270800000000000000
+      internalID: 8218702941517427693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_carry_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 108
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857619d4b44ef71b0800000000000000
+      internalID: -5656551594878998696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_carry_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 109
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef9c76e2d2aaa110800000000000000
+      internalID: 1273008871379345387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_carry_7
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 107
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ace3390bd148420800000000000000
+      internalID: 2631260726513027606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_carry_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 75
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f47da92700ff4710800000000000000
+      internalID: 1679825099587155188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_carry_9
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 76
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08562c55ef6aaca20800000000000000
+      internalID: 3083460506179233152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_carry_10
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 77
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433136be3d075e990800000000000000
+      internalID: -7357350360750288076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_carry_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 75
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee1d35e3a54790d0800000000000000
+      internalID: -3416185222109258016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_carry_12
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 75
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b145ade4797de6db0800000000000000
+      internalID: -4796659508240034789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_carry_13
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 76
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8f3b6fc5983b570800000000000000
+      internalID: 8481273555637762292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_carry_14
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 77
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8919849cb7e73670800000000000000
+      internalID: 8518532017326463370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_carry_15
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 75
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87c0ace5ee16ae70800000000000000
+      internalID: 9126015667779192718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_carry_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 43
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1a12aeeac91f560800000000000000
+      internalID: 7345824742284304822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_carry_17
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 44
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c604778b36349b3f0800000000000000
+      internalID: -884601756225945492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_carry_18
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 45
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d055b638477d210800000000000000
+      internalID: 1357681920465767802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_carry_19
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 43
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605ce915529e5ad10800000000000000
+      internalID: 2136369944749589766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_carry_20
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 43
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a09a632fed5ec70800000000000000
+      internalID: 8999844562250304023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_carry_21
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 44
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5404d4b0745719910800000000000000
+      internalID: 1842382670563983429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_carry_22
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 45
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9efb882e164f64610800000000000000
+      internalID: 1605239018453778409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_carry_23
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 43
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c316ba90c3cffc0800000000000000
+      internalID: -3459824401499734905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_carry_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 11
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb55e6a7f9aeac90800000000000000
+      internalID: -7156595876723074113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_carry_25
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 12
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be00f8c9c56ebfe40800000000000000
+      internalID: 5691395839550750955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_carry_26
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 13
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb7f90c10d787690800000000000000
+      internalID: -7604190524334965764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_carry_27
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 11
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1d866936a7795b0800000000000000
+      internalID: -5361682263217483275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_carry_28
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 11
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238bb234061b70780800000000000000
+      internalID: -8716803526750390222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_carry_29
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 12
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5090b97a213378560800000000000000
+      internalID: 7315872274901043461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_carry_30
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 13
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b086af9ab8504b00800000000000000
+      internalID: 810745491492339890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_witch_carry_31
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 11
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a2c9a1540998350800000000000000
+      internalID: 6019501003430963742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hat_witch_carry_0: -7036263023605721065
+      hat_witch_carry_1: -7639053176239150456
+      hat_witch_carry_10: -7357350360750288076
+      hat_witch_carry_11: -3416185222109258016
+      hat_witch_carry_12: -4796659508240034789
+      hat_witch_carry_13: 8481273555637762292
+      hat_witch_carry_14: 8518532017326463370
+      hat_witch_carry_15: 9126015667779192718
+      hat_witch_carry_16: 7345824742284304822
+      hat_witch_carry_17: -884601756225945492
+      hat_witch_carry_18: 1357681920465767802
+      hat_witch_carry_19: 2136369944749589766
+      hat_witch_carry_2: 6063941927625864468
+      hat_witch_carry_20: 8999844562250304023
+      hat_witch_carry_21: 1842382670563983429
+      hat_witch_carry_22: 1605239018453778409
+      hat_witch_carry_23: -3459824401499734905
+      hat_witch_carry_24: -7156595876723074113
+      hat_witch_carry_25: 5691395839550750955
+      hat_witch_carry_26: -7604190524334965764
+      hat_witch_carry_27: -5361682263217483275
+      hat_witch_carry_28: -8716803526750390222
+      hat_witch_carry_29: 7315872274901043461
+      hat_witch_carry_3: 6375617757843446371
+      hat_witch_carry_30: 810745491492339890
+      hat_witch_carry_31: 6019501003430963742
+      hat_witch_carry_4: 8218702941517427693
+      hat_witch_carry_5: -5656551594878998696
+      hat_witch_carry_6: 1273008871379345387
+      hat_witch_carry_7: 2631260726513027606
+      hat_witch_carry_8: 1679825099587155188
+      hat_witch_carry_9: 3083460506179233152
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

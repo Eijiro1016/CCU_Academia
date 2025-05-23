@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: e3f9e17d90073e747828683832b68015
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1408454687848668665
+    second: spaghetti_block_0
+  - first:
+      213: 7847950950519831917
+    second: spaghetti_block_1
+  - first:
+      213: 2900089512715489621
+    second: spaghetti_block_2
+  - first:
+      213: 5473068162162502123
+    second: spaghetti_block_3
+  - first:
+      213: -6379590949067365901
+    second: spaghetti_block_4
+  - first:
+      213: 7605478885847504658
+    second: spaghetti_block_5
+  - first:
+      213: -3274287214630638599
+    second: spaghetti_block_6
+  - first:
+      213: 1477641444745922258
+    second: spaghetti_block_7
+  - first:
+      213: 4614684545397119581
+    second: spaghetti_block_8
+  - first:
+      213: 1497596748643801553
+    second: spaghetti_block_9
+  - first:
+      213: -1627778632034228469
+    second: spaghetti_block_10
+  - first:
+      213: -419540148840080904
+    second: spaghetti_block_11
+  - first:
+      213: 4701938266326123105
+    second: spaghetti_block_12
+  - first:
+      213: 8180875094736053621
+    second: spaghetti_block_13
+  - first:
+      213: 4163914854174550711
+    second: spaghetti_block_14
+  - first:
+      213: 1668746714521363003
+    second: spaghetti_block_15
+  - first:
+      213: 5612983564125940491
+    second: spaghetti_block_16
+  - first:
+      213: -3314770615160948361
+    second: spaghetti_block_17
+  - first:
+      213: -4616927798165170046
+    second: spaghetti_block_18
+  - first:
+      213: -2638766317709496613
+    second: spaghetti_block_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spaghetti_block_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 97
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd14778316db8310800000000000000
+      internalID: 1408454687848668665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_block_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 97
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d7c6c2fc589ec60800000000000000
+      internalID: 7847950950519831917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_block_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 97
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5511e36eb003f3820800000000000000
+      internalID: 2900089512715489621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_block_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 97
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be92235fe7e34fb40800000000000000
+      internalID: 5473068162162502123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_block_4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 97
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1ea8415d32777a0800000000000000
+      internalID: -6379590949067365901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_block_5
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 97
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2179ca940c61c8960800000000000000
+      internalID: 7605478885847504658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_block_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 97
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb665f40256f82d0800000000000000
+      internalID: -3274287214630638599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_block_7
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 97
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6c97ba013a18410800000000000000
+      internalID: 1477641444745922258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_block_8
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 97
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a51e6f427aa0040800000000000000
+      internalID: 4614684545397119581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_block_9
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 97
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d991bbee4888c410800000000000000
+      internalID: 1497596748643801553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_block_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2
+        width: 300
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07e0a065f7f869e0800000000000000
+      internalID: -1627778632034228469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_block_11
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 67
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f95f5b157e7d2af0800000000000000
+      internalID: -419540148840080904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_block_12
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 67
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1624f28f0f3a04140800000000000000
+      internalID: 4701938266326123105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_block_13
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 67
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5752595fd8e488170800000000000000
+      internalID: 8180875094736053621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_block_14
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 67
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7baeb0e9f7239c930800000000000000
+      internalID: 4163914854174550711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_block_15
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 67
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b326523ab44982710800000000000000
+      internalID: 1668746714521363003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_block_16
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 67
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b25dd00d255ed40800000000000000
+      internalID: 5612983564125940491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_block_17
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 67
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779bd6b10b19ff1d0800000000000000
+      internalID: -3314770615160948361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_block_18
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 67
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2881dbc01a06defb0800000000000000
+      internalID: -4616927798165170046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_block_19
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 67
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdee8abc308316bd0800000000000000
+      internalID: -2638766317709496613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spaghetti_block_0: 1408454687848668665
+      spaghetti_block_1: 7847950950519831917
+      spaghetti_block_10: -1627778632034228469
+      spaghetti_block_11: -419540148840080904
+      spaghetti_block_12: 4701938266326123105
+      spaghetti_block_13: 8180875094736053621
+      spaghetti_block_14: 4163914854174550711
+      spaghetti_block_15: 1668746714521363003
+      spaghetti_block_16: 5612983564125940491
+      spaghetti_block_17: -3314770615160948361
+      spaghetti_block_18: -4616927798165170046
+      spaghetti_block_19: -2638766317709496613
+      spaghetti_block_2: 2900089512715489621
+      spaghetti_block_3: 5473068162162502123
+      spaghetti_block_4: -6379590949067365901
+      spaghetti_block_5: 7605478885847504658
+      spaghetti_block_6: -3274287214630638599
+      spaghetti_block_7: 1477641444745922258
+      spaghetti_block_8: 4614684545397119581
+      spaghetti_block_9: 1497596748643801553
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

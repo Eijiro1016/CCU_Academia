@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: bdd043c13d941b146a330c347f6286ac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5787132192882341077
+    second: hat_pumpkin_purple_fish_0
+  - first:
+      213: 6516334202439448739
+    second: hat_pumpkin_purple_fish_1
+  - first:
+      213: 7084864472584401334
+    second: hat_pumpkin_purple_fish_2
+  - first:
+      213: 1768330635219499932
+    second: hat_pumpkin_purple_fish_3
+  - first:
+      213: -8149415567941180949
+    second: hat_pumpkin_purple_fish_4
+  - first:
+      213: 7562611720112438366
+    second: hat_pumpkin_purple_fish_5
+  - first:
+      213: -2894255129780215424
+    second: hat_pumpkin_purple_fish_6
+  - first:
+      213: -5090258851316877144
+    second: hat_pumpkin_purple_fish_7
+  - first:
+      213: 9178857143278774196
+    second: hat_pumpkin_purple_fish_8
+  - first:
+      213: -3334325363218691335
+    second: hat_pumpkin_purple_fish_9
+  - first:
+      213: 4532942251899055531
+    second: hat_pumpkin_purple_fish_10
+  - first:
+      213: 3056143539222786038
+    second: hat_pumpkin_purple_fish_11
+  - first:
+      213: 7162014604329310348
+    second: hat_pumpkin_purple_fish_12
+  - first:
+      213: -8535916314049014555
+    second: hat_pumpkin_purple_fish_13
+  - first:
+      213: -2030531765402874940
+    second: hat_pumpkin_purple_fish_14
+  - first:
+      213: -8079843432409282761
+    second: hat_pumpkin_purple_fish_15
+  - first:
+      213: 6006964169874208691
+    second: hat_pumpkin_purple_fish_16
+  - first:
+      213: -7586445158340148453
+    second: hat_pumpkin_purple_fish_17
+  - first:
+      213: -930477001806722320
+    second: hat_pumpkin_purple_fish_18
+  - first:
+      213: 2548604352826831044
+    second: hat_pumpkin_purple_fish_19
+  - first:
+      213: -262872129173884995
+    second: hat_pumpkin_purple_fish_20
+  - first:
+      213: -4790296158185125175
+    second: hat_pumpkin_purple_fish_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_fish_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 111
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4baf06116005050800000000000000
+      internalID: 5787132192882341077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_fish_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 113
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8b12e9e6bae6a50800000000000000
+      internalID: 6516334202439448739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_fish_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 113
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1bd2a53be725260800000000000000
+      internalID: 7084864472584401334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_fish_3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 112
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9bf2bdf75f5a8810800000000000000
+      internalID: 1768330635219499932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_fish_4
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 113
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1e3d9e7b577ee80800000000000000
+      internalID: -8149415567941180949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_fish_5
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 112
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5cf18f7a4bc3f860800000000000000
+      internalID: 7562611720112438366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_fish_6
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 78
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081291c3b4a85d7d0800000000000000
+      internalID: -2894255129780215424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_fish_7
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 78
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a838784b84cb59b0800000000000000
+      internalID: -5090258851316877144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_fish_8
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 79
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7203da0f9d16f70800000000000000
+      internalID: 9178857143278774196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_fish_9
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 80
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa46c78fb81ab1d0800000000000000
+      internalID: -3334325363218691335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_fish_10
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 79
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad6dc726fe38ee30800000000000000
+      internalID: 4532942251899055531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_fish_11
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 47
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ffaaf55b5a996a20800000000000000
+      internalID: 3056143539222786038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_fish_12
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 48
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88553f2656946360800000000000000
+      internalID: 7162014604329310348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_fish_13
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 48
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e495ac66555a8980800000000000000
+      internalID: -8535916314049014555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_fish_14
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 49
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cbc30a1e1a12d3e0800000000000000
+      internalID: -2030531765402874940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_fish_15
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 55
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737c8720531aedf80800000000000000
+      internalID: -8079843432409282761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_fish_16
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 48
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7f9d316160d5350800000000000000
+      internalID: 6006964169874208691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_fish_17
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 15
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13472db25887b690800000000000000
+      internalID: -7586445158340148453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_fish_18
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 16
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fac3a3c8184613f0800000000000000
+      internalID: -930477001806722320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_fish_19
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 16
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0f143e7267e5320800000000000000
+      internalID: 2548604352826831044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_fish_20
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 17
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf6d37f0371a5cf0800000000000000
+      internalID: -262872129173884995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_fish_21
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 16
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca05723603758db0800000000000000
+      internalID: -4790296158185125175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hat_pumpkin_purple_fish_0: 5787132192882341077
+      hat_pumpkin_purple_fish_1: 6516334202439448739
+      hat_pumpkin_purple_fish_10: 4532942251899055531
+      hat_pumpkin_purple_fish_11: 3056143539222786038
+      hat_pumpkin_purple_fish_12: 7162014604329310348
+      hat_pumpkin_purple_fish_13: -8535916314049014555
+      hat_pumpkin_purple_fish_14: -2030531765402874940
+      hat_pumpkin_purple_fish_15: -8079843432409282761
+      hat_pumpkin_purple_fish_16: 6006964169874208691
+      hat_pumpkin_purple_fish_17: -7586445158340148453
+      hat_pumpkin_purple_fish_18: -930477001806722320
+      hat_pumpkin_purple_fish_19: 2548604352826831044
+      hat_pumpkin_purple_fish_2: 7084864472584401334
+      hat_pumpkin_purple_fish_20: -262872129173884995
+      hat_pumpkin_purple_fish_21: -4790296158185125175
+      hat_pumpkin_purple_fish_3: 1768330635219499932
+      hat_pumpkin_purple_fish_4: -8149415567941180949
+      hat_pumpkin_purple_fish_5: 7562611720112438366
+      hat_pumpkin_purple_fish_6: -2894255129780215424
+      hat_pumpkin_purple_fish_7: -5090258851316877144
+      hat_pumpkin_purple_fish_8: 9178857143278774196
+      hat_pumpkin_purple_fish_9: -3334325363218691335
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

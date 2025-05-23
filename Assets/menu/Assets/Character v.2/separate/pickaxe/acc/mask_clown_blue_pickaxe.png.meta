@@ -1,0 +1,819 @@
+fileFormatVersion: 2
+guid: 190eb0fe932e39a42a87d36366fa1aee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6572996496333463915
+    second: mask_clown_blue_pickaxe_0
+  - first:
+      213: -1344275761662366085
+    second: mask_clown_blue_pickaxe_1
+  - first:
+      213: 4580650485790993859
+    second: mask_clown_blue_pickaxe_2
+  - first:
+      213: 7384150281613704565
+    second: mask_clown_blue_pickaxe_3
+  - first:
+      213: 1395216521531610934
+    second: mask_clown_blue_pickaxe_4
+  - first:
+      213: -8238519386181851223
+    second: mask_clown_blue_pickaxe_5
+  - first:
+      213: 663886879426143764
+    second: mask_clown_blue_pickaxe_6
+  - first:
+      213: -1707676133341032117
+    second: mask_clown_blue_pickaxe_7
+  - first:
+      213: 1697528341239435732
+    second: mask_clown_blue_pickaxe_8
+  - first:
+      213: -557118970144740274
+    second: mask_clown_blue_pickaxe_9
+  - first:
+      213: -3232945720471085348
+    second: mask_clown_blue_pickaxe_10
+  - first:
+      213: 6955960249822932725
+    second: mask_clown_blue_pickaxe_11
+  - first:
+      213: 8073430974651367794
+    second: mask_clown_blue_pickaxe_12
+  - first:
+      213: 5717731043528565564
+    second: mask_clown_blue_pickaxe_13
+  - first:
+      213: -5934549276485999496
+    second: mask_clown_blue_pickaxe_14
+  - first:
+      213: -8856389418440535128
+    second: mask_clown_blue_pickaxe_15
+  - first:
+      213: 4787494821695293413
+    second: mask_clown_blue_pickaxe_16
+  - first:
+      213: 1068927239934134215
+    second: mask_clown_blue_pickaxe_17
+  - first:
+      213: 8869177137183611810
+    second: mask_clown_blue_pickaxe_18
+  - first:
+      213: -6366430083403216254
+    second: mask_clown_blue_pickaxe_19
+  - first:
+      213: -8752395613137080542
+    second: mask_clown_blue_pickaxe_20
+  - first:
+      213: 9157236897658064474
+    second: mask_clown_blue_pickaxe_21
+  - first:
+      213: -7681542929355964828
+    second: mask_clown_blue_pickaxe_22
+  - first:
+      213: -3886498605435053011
+    second: mask_clown_blue_pickaxe_23
+  - first:
+      213: -1271230212009098357
+    second: mask_clown_blue_pickaxe_24
+  - first:
+      213: -7342275754716578817
+    second: mask_clown_blue_pickaxe_25
+  - first:
+      213: -6898291216661659465
+    second: mask_clown_blue_pickaxe_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mask_clown_blue_pickaxe_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 102
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61e7d9fc79f73b50800000000000000
+      internalID: 6572996496333463915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_pickaxe_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 105
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e62f9215c285de0800000000000000
+      internalID: -1344275761662366085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_pickaxe_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 101
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cdeac5f85db19f30800000000000000
+      internalID: 4580650485790993859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_pickaxe_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 105
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d7fa7ee85c97660800000000000000
+      internalID: 7384150281613704565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_pickaxe_4
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 107
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637d5aeb80ecc5310800000000000000
+      internalID: 1395216521531610934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_pickaxe_5
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 102
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7267f8446eaad80800000000000000
+      internalID: -8238519386181851223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_pickaxe_6
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 105
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416ec337999963900800000000000000
+      internalID: 663886879426143764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_pickaxe_7
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 107
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b419bc8ba9d1d48e0800000000000000
+      internalID: -1707676133341032117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_pickaxe_8
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 107
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d11cbf4805de8710800000000000000
+      internalID: 1697528341239435732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_pickaxe_9
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 103
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c24e69f37b448f0800000000000000
+      internalID: -557118970144740274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_pickaxe_10
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 71
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde93310ff44223d0800000000000000
+      internalID: -3232945720471085348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_pickaxe_11
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 71
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5feee623ef8888060800000000000000
+      internalID: 6955960249822932725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_pickaxe_12
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 72
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2710bb252b69a0070800000000000000
+      internalID: 8073430974651367794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_pickaxe_13
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 72
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c336eba1716795f40800000000000000
+      internalID: 5717731043528565564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_pickaxe_14
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 73
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874200920ee34ada0800000000000000
+      internalID: -5934549276485999496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_pickaxe_15
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 38
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3d2514fb8c71580800000000000000
+      internalID: -8856389418440535128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_pickaxe_16
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 37
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e78b23dc29907240800000000000000
+      internalID: 4787494821695293413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_pickaxe_17
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 38
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7430b49a795de00800000000000000
+      internalID: 1068927239934134215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_pickaxe_18
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 41
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab58d78d95a51b70800000000000000
+      internalID: 8869177137183611810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_pickaxe_19
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 39
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a0467e195e5a7a0800000000000000
+      internalID: -6366430083403216254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_pickaxe_20
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 41
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22fe641ef8e398680800000000000000
+      internalID: -8752395613137080542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_pickaxe_21
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 5
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e4209f07a051f70800000000000000
+      internalID: 9157236897658064474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_pickaxe_22
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 5
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ef2d0876da56590800000000000000
+      internalID: -7681542929355964828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_pickaxe_23
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 6
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c1ef22c12601ac0800000000000000
+      internalID: -3886498605435053011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_pickaxe_24
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 8
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8304718bdeab5ee0800000000000000
+      internalID: -1271230212009098357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_pickaxe_25
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 7
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffbb7252a1ffa1a90800000000000000
+      internalID: -7342275754716578817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_pickaxe_26
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 8
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b04fa9efa85440a0800000000000000
+      internalID: -6898291216661659465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mask_clown_blue_pickaxe_0: 6572996496333463915
+      mask_clown_blue_pickaxe_1: -1344275761662366085
+      mask_clown_blue_pickaxe_10: -3232945720471085348
+      mask_clown_blue_pickaxe_11: 6955960249822932725
+      mask_clown_blue_pickaxe_12: 8073430974651367794
+      mask_clown_blue_pickaxe_13: 5717731043528565564
+      mask_clown_blue_pickaxe_14: -5934549276485999496
+      mask_clown_blue_pickaxe_15: -8856389418440535128
+      mask_clown_blue_pickaxe_16: 4787494821695293413
+      mask_clown_blue_pickaxe_17: 1068927239934134215
+      mask_clown_blue_pickaxe_18: 8869177137183611810
+      mask_clown_blue_pickaxe_19: -6366430083403216254
+      mask_clown_blue_pickaxe_2: 4580650485790993859
+      mask_clown_blue_pickaxe_20: -8752395613137080542
+      mask_clown_blue_pickaxe_21: 9157236897658064474
+      mask_clown_blue_pickaxe_22: -7681542929355964828
+      mask_clown_blue_pickaxe_23: -3886498605435053011
+      mask_clown_blue_pickaxe_24: -1271230212009098357
+      mask_clown_blue_pickaxe_25: -7342275754716578817
+      mask_clown_blue_pickaxe_26: -6898291216661659465
+      mask_clown_blue_pickaxe_3: 7384150281613704565
+      mask_clown_blue_pickaxe_4: 1395216521531610934
+      mask_clown_blue_pickaxe_5: -8238519386181851223
+      mask_clown_blue_pickaxe_6: 663886879426143764
+      mask_clown_blue_pickaxe_7: -1707676133341032117
+      mask_clown_blue_pickaxe_8: 1697528341239435732
+      mask_clown_blue_pickaxe_9: -557118970144740274
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

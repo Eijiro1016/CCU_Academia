@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 50991cefc3ffd984d937117512c9df05
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5279232847789205005
+    second: pants_suit_0
+  - first:
+      213: -2961849606355188326
+    second: pants_suit_1
+  - first:
+      213: 421343483925339975
+    second: pants_suit_2
+  - first:
+      213: -4246261020641823945
+    second: pants_suit_3
+  - first:
+      213: -3143782298546424667
+    second: pants_suit_4
+  - first:
+      213: -1897080207406972916
+    second: pants_suit_5
+  - first:
+      213: -4463821021265421259
+    second: pants_suit_6
+  - first:
+      213: -327857717769438217
+    second: pants_suit_7
+  - first:
+      213: 4541553489603377925
+    second: pants_suit_8
+  - first:
+      213: -1437537189417647431
+    second: pants_suit_9
+  - first:
+      213: -5841575993861227361
+    second: pants_suit_10
+  - first:
+      213: 3224044212850742719
+    second: pants_suit_11
+  - first:
+      213: -5306417365492120467
+    second: pants_suit_12
+  - first:
+      213: -4975347908670713241
+    second: pants_suit_13
+  - first:
+      213: 463632960733281616
+    second: pants_suit_14
+  - first:
+      213: -1286311358100934018
+    second: pants_suit_15
+  - first:
+      213: 3455031345524529825
+    second: pants_suit_16
+  - first:
+      213: -6482813585853282266
+    second: pants_suit_17
+  - first:
+      213: -926616126421204943
+    second: pants_suit_18
+  - first:
+      213: 8035011208392958139
+    second: pants_suit_19
+  - first:
+      213: 4569108682877767426
+    second: pants_suit_20
+  - first:
+      213: -9002704588657963756
+    second: pants_suit_21
+  - first:
+      213: -7741685034990332727
+    second: pants_suit_22
+  - first:
+      213: 7027722603378513848
+    second: pants_suit_23
+  - first:
+      213: 1254528912863272634
+    second: pants_suit_24
+  - first:
+      213: 4144003619305138646
+    second: pants_suit_25
+  - first:
+      213: 5727551143271487717
+    second: pants_suit_26
+  - first:
+      213: 663699285286749666
+    second: pants_suit_27
+  - first:
+      213: -3945692711315512629
+    second: pants_suit_28
+  - first:
+      213: 8882502085081438229
+    second: pants_suit_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pants_suit_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 739
+        width: 2541
+        height: 804
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06ac03fd4a934940800000000000000
+      internalID: 5279232847789205005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pants_suit_1
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1056
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95811fb97565e6d0800000000000000
+      internalID: -2961849606355188326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pants_suit_2
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1056
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f9bcf8aa9e8d500800000000000000
+      internalID: 421343483925339975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pants_suit_3
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1056
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7337e0179104215c0800000000000000
+      internalID: -4246261020641823945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pants_suit_4
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 1056
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a4bafbe7aa0f54d0800000000000000
+      internalID: -3143782298546424667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pants_suit_5
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 1056
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00451f3a973ca5e0800000000000000
+      internalID: -1897080207406972916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pants_suit_6
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 1056
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c9d867e625d02c0800000000000000
+      internalID: -4463821021265421259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pants_suit_7
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 1056
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb7b7b8427337bf0800000000000000
+      internalID: -327857717769438217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pants_suit_8
+      rect:
+        serializedVersion: 2
+        x: 1931
+        y: 1056
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50bbe3c26d6d60f30800000000000000
+      internalID: 4541553489603377925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pants_suit_9
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 1056
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b20959ea87dc0ce0800000000000000
+      internalID: -1437537189417647431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pants_suit_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 639
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9cb375659d8eeea0800000000000000
+      internalID: -5841575993861227361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pants_suit_11
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 4
+        width: 140
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb55f1f312b1ebc20800000000000000
+      internalID: 3224044212850742719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pants_suit_12
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 639
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d64c0eb4581db56b0800000000000000
+      internalID: -5306417365492120467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pants_suit_13
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 4
+        width: 140
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76213b5007304fab0800000000000000
+      internalID: -4975347908670713241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pants_suit_14
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 639
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d7baaa8b72f6600800000000000000
+      internalID: 463632960733281616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pants_suit_15
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 4
+        width: 140
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72f7dd82aa162ee0800000000000000
+      internalID: -1286311358100934018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pants_suit_16
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 639
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa54d504bcb2ff20800000000000000
+      internalID: 3455031345524529825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pants_suit_17
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 4
+        width: 140
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628832e146b6806a0800000000000000
+      internalID: -6482813585853282266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pants_suit_18
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 639
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130048dda8ff323f0800000000000000
+      internalID: -926616126421204943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pants_suit_19
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 4
+        width: 140
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb06b8a6f18128f60800000000000000
+      internalID: 8035011208392958139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pants_suit_20
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 639
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f051f832cb86f30800000000000000
+      internalID: 4569108682877767426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pants_suit_21
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 4
+        width: 140
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d434fffd7ff0380800000000000000
+      internalID: -9002704588657963756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pants_suit_22
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 639
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c491765a72009490800000000000000
+      internalID: -7741685034990332727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pants_suit_23
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 4
+        width: 140
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b71c5a297c778160800000000000000
+      internalID: 7027722603378513848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pants_suit_24
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 639
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe1ca3466bf86110800000000000000
+      internalID: 1254528912863272634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pants_suit_25
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 4
+        width: 140
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9ad9cf555728930800000000000000
+      internalID: 4144003619305138646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pants_suit_26
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 639
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8549f3b695c7f40800000000000000
+      internalID: 5727551143271487717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pants_suit_27
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 4
+        width: 140
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e58239cbfee53900800000000000000
+      internalID: 663699285286749666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pants_suit_28
+      rect:
+        serializedVersion: 2
+        x: 2311
+        y: 639
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2e03d52651e39c0800000000000000
+      internalID: -3945692711315512629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pants_suit_29
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 4
+        width: 140
+        height: 644
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51812f9b59cf44b70800000000000000
+      internalID: 8882502085081438229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pants_suit_0: 5279232847789205005
+      pants_suit_1: -2961849606355188326
+      pants_suit_10: -5841575993861227361
+      pants_suit_11: 3224044212850742719
+      pants_suit_12: -5306417365492120467
+      pants_suit_13: -4975347908670713241
+      pants_suit_14: 463632960733281616
+      pants_suit_15: -1286311358100934018
+      pants_suit_16: 3455031345524529825
+      pants_suit_17: -6482813585853282266
+      pants_suit_18: -926616126421204943
+      pants_suit_19: 8035011208392958139
+      pants_suit_2: 421343483925339975
+      pants_suit_20: 4569108682877767426
+      pants_suit_21: -9002704588657963756
+      pants_suit_22: -7741685034990332727
+      pants_suit_23: 7027722603378513848
+      pants_suit_24: 1254528912863272634
+      pants_suit_25: 4144003619305138646
+      pants_suit_26: 5727551143271487717
+      pants_suit_27: 663699285286749666
+      pants_suit_28: -3945692711315512629
+      pants_suit_29: 8882502085081438229
+      pants_suit_3: -4246261020641823945
+      pants_suit_4: -3143782298546424667
+      pants_suit_5: -1897080207406972916
+      pants_suit_6: -4463821021265421259
+      pants_suit_7: -327857717769438217
+      pants_suit_8: 4541553489603377925
+      pants_suit_9: -1437537189417647431
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

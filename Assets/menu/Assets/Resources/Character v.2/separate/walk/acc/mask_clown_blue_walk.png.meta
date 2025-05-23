@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: 576c3a99c90a26147b18cff7dec9a791
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8610313691907602079
+    second: mask_clown_blue_walk_0
+  - first:
+      213: -7883415308258328996
+    second: mask_clown_blue_walk_1
+  - first:
+      213: -9032752513365703364
+    second: mask_clown_blue_walk_2
+  - first:
+      213: 2619028505878915817
+    second: mask_clown_blue_walk_3
+  - first:
+      213: 5228251399794621606
+    second: mask_clown_blue_walk_4
+  - first:
+      213: 5005458030838277366
+    second: mask_clown_blue_walk_5
+  - first:
+      213: 190965071275869218
+    second: mask_clown_blue_walk_6
+  - first:
+      213: 8947313123626035427
+    second: mask_clown_blue_walk_7
+  - first:
+      213: 850405479698699838
+    second: mask_clown_blue_walk_8
+  - first:
+      213: 7598909440156873172
+    second: mask_clown_blue_walk_9
+  - first:
+      213: -6252595147767107908
+    second: mask_clown_blue_walk_10
+  - first:
+      213: -2025333071215888163
+    second: mask_clown_blue_walk_11
+  - first:
+      213: 160345220270556504
+    second: mask_clown_blue_walk_12
+  - first:
+      213: -7482404291996261553
+    second: mask_clown_blue_walk_13
+  - first:
+      213: 7344310637032948838
+    second: mask_clown_blue_walk_14
+  - first:
+      213: -8137303571053119331
+    second: mask_clown_blue_walk_15
+  - first:
+      213: 2418614066963902653
+    second: mask_clown_blue_walk_16
+  - first:
+      213: -4506053769559214867
+    second: mask_clown_blue_walk_17
+  - first:
+      213: 5026966793272374267
+    second: mask_clown_blue_walk_18
+  - first:
+      213: 2288869351788225790
+    second: mask_clown_blue_walk_19
+  - first:
+      213: -1237717075437843987
+    second: mask_clown_blue_walk_20
+  - first:
+      213: 2127347273509511525
+    second: mask_clown_blue_walk_21
+  - first:
+      213: 5541849136398152769
+    second: mask_clown_blue_walk_22
+  - first:
+      213: -1966185067899969271
+    second: mask_clown_blue_walk_23
+  - first:
+      213: -524141144499936904
+    second: mask_clown_blue_walk_24
+  - first:
+      213: -5504236679304164632
+    second: mask_clown_blue_walk_25
+  - first:
+      213: -1605640306062265013
+    second: mask_clown_blue_walk_26
+  - first:
+      213: -6467469682363332274
+    second: mask_clown_blue_walk_27
+  - first:
+      213: 5213686349279401751
+    second: mask_clown_blue_walk_28
+  - first:
+      213: 4549407755131655351
+    second: mask_clown_blue_walk_29
+  - first:
+      213: 313827501118040054
+    second: mask_clown_blue_walk_30
+  - first:
+      213: -4156353176942900600
+    second: mask_clown_blue_walk_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mask_clown_blue_walk_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 101
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1694a2d0155028880800000000000000
+      internalID: -8610313691907602079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_walk_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 102
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5eb2669b8b789290800000000000000
+      internalID: -7883415308258328996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_walk_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 103
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3502d8527735a280800000000000000
+      internalID: -9032752513365703364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_walk_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 101
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eae885cc88a85420800000000000000
+      internalID: 2619028505878915817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_walk_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 101
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac723992fa7e8840800000000000000
+      internalID: 5228251399794621606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_walk_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 102
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4ed3a1f85f67540800000000000000
+      internalID: 5005458030838277366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_walk_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 103
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224c7e578b176a200800000000000000
+      internalID: 190965071275869218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_walk_7
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 101
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8abeb81ed3b2c70800000000000000
+      internalID: 8947313123626035427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_walk_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 71
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e369c74374f3dcb00800000000000000
+      internalID: 850405479698699838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_walk_9
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 72
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1b9e400efb47960800000000000000
+      internalID: 7598909440156873172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_walk_10
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 73
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbea20d37d15a39a0800000000000000
+      internalID: -6252595147767107908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_walk_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 71
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8735a6d4294e3e0800000000000000
+      internalID: -2025333071215888163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_walk_12
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 71
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85588a7d029a93200800000000000000
+      internalID: 160345220270556504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_walk_13
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 72
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4364bd90f8292890800000000000000
+      internalID: -7482404291996261553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_walk_14
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 73
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664c870dc9b3ce560800000000000000
+      internalID: 7344310637032948838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_walk_15
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 71
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d987cd1f38d721f80800000000000000
+      internalID: -8137303571053119331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_walk_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 37
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db07526fda4a09120800000000000000
+      internalID: 2418614066963902653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_walk_17
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 38
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de4fc9e78f74771c0800000000000000
+      internalID: -4506053769559214867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_walk_18
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 39
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf33faa1aaf53c540800000000000000
+      internalID: 5026966793272374267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_walk_19
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 37
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4ad9a6c82b3cf10800000000000000
+      internalID: 2288869351788225790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_walk_20
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 37
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9871aa0eeb2dee0800000000000000
+      internalID: -1237717075437843987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_walk_21
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 38
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5612e67f21bd58d10800000000000000
+      internalID: 2127347273509511525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_walk_22
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 39
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14431d57d6a98ec40800000000000000
+      internalID: 5541849136398152769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_walk_23
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 37
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90125291915b6b4e0800000000000000
+      internalID: -1966185067899969271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_walk_24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 5
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8712ae5f760e9b8f0800000000000000
+      internalID: -524141144499936904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_walk_25
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 6
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea466227e50d93b0800000000000000
+      internalID: -5504236679304164632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_walk_26
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 7
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45fb1016ae97b9e0800000000000000
+      internalID: -1605640306062265013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_walk_27
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 5
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49002b079eee36a0800000000000000
+      internalID: -6467469682363332274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_walk_28
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 5
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7171a138c1cba5840800000000000000
+      internalID: 5213686349279401751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_walk_29
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 6
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4970fdf3eb22f30800000000000000
+      internalID: 4549407755131655351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_walk_30
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 7
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7a3e41370fa5400800000000000000
+      internalID: 313827501118040054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_walk_31
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 5
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a804f8ecaa156c0800000000000000
+      internalID: -4156353176942900600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mask_clown_blue_walk_0: -8610313691907602079
+      mask_clown_blue_walk_1: -7883415308258328996
+      mask_clown_blue_walk_10: -6252595147767107908
+      mask_clown_blue_walk_11: -2025333071215888163
+      mask_clown_blue_walk_12: 160345220270556504
+      mask_clown_blue_walk_13: -7482404291996261553
+      mask_clown_blue_walk_14: 7344310637032948838
+      mask_clown_blue_walk_15: -8137303571053119331
+      mask_clown_blue_walk_16: 2418614066963902653
+      mask_clown_blue_walk_17: -4506053769559214867
+      mask_clown_blue_walk_18: 5026966793272374267
+      mask_clown_blue_walk_19: 2288869351788225790
+      mask_clown_blue_walk_2: -9032752513365703364
+      mask_clown_blue_walk_20: -1237717075437843987
+      mask_clown_blue_walk_21: 2127347273509511525
+      mask_clown_blue_walk_22: 5541849136398152769
+      mask_clown_blue_walk_23: -1966185067899969271
+      mask_clown_blue_walk_24: -524141144499936904
+      mask_clown_blue_walk_25: -5504236679304164632
+      mask_clown_blue_walk_26: -1605640306062265013
+      mask_clown_blue_walk_27: -6467469682363332274
+      mask_clown_blue_walk_28: 5213686349279401751
+      mask_clown_blue_walk_29: 4549407755131655351
+      mask_clown_blue_walk_3: 2619028505878915817
+      mask_clown_blue_walk_30: 313827501118040054
+      mask_clown_blue_walk_31: -4156353176942900600
+      mask_clown_blue_walk_4: 5228251399794621606
+      mask_clown_blue_walk_5: 5005458030838277366
+      mask_clown_blue_walk_6: 190965071275869218
+      mask_clown_blue_walk_7: 8947313123626035427
+      mask_clown_blue_walk_8: 850405479698699838
+      mask_clown_blue_walk_9: 7598909440156873172
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

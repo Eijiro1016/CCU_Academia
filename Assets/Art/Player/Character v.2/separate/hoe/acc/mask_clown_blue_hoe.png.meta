@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: bdc9a61fbdeedad40b4146e948b5dd7f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8567150819811421689
+    second: mask_clown_blue_hoe_0
+  - first:
+      213: -5065769191322170687
+    second: mask_clown_blue_hoe_1
+  - first:
+      213: -7990515306143487808
+    second: mask_clown_blue_hoe_2
+  - first:
+      213: -6211280645789450963
+    second: mask_clown_blue_hoe_3
+  - first:
+      213: -7960656007721064357
+    second: mask_clown_blue_hoe_4
+  - first:
+      213: -894211446070599304
+    second: mask_clown_blue_hoe_5
+  - first:
+      213: 5619580295238574398
+    second: mask_clown_blue_hoe_6
+  - first:
+      213: -1639015647191525464
+    second: mask_clown_blue_hoe_7
+  - first:
+      213: 7459447876959654638
+    second: mask_clown_blue_hoe_8
+  - first:
+      213: 2189026876225565964
+    second: mask_clown_blue_hoe_9
+  - first:
+      213: -7499124875229079967
+    second: mask_clown_blue_hoe_10
+  - first:
+      213: -6250297287294573550
+    second: mask_clown_blue_hoe_11
+  - first:
+      213: -6072881684851626184
+    second: mask_clown_blue_hoe_12
+  - first:
+      213: -4595423096640832689
+    second: mask_clown_blue_hoe_13
+  - first:
+      213: -3530369606521559636
+    second: mask_clown_blue_hoe_14
+  - first:
+      213: -1018318858281893817
+    second: mask_clown_blue_hoe_15
+  - first:
+      213: -6105846730190254733
+    second: mask_clown_blue_hoe_16
+  - first:
+      213: -1453519496467336843
+    second: mask_clown_blue_hoe_17
+  - first:
+      213: 5511205312323899598
+    second: mask_clown_blue_hoe_18
+  - first:
+      213: 2106213811370746990
+    second: mask_clown_blue_hoe_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mask_clown_blue_hoe_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 111
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70291f758bd5b1980800000000000000
+      internalID: -8567150819811421689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_hoe_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 108
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cacf1592c5c2b9b0800000000000000
+      internalID: -5065769191322170687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_hoe_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 107
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8eef42aacfb1190800000000000000
+      internalID: -7990515306143487808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_hoe_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 108
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2df57359291dc9a0800000000000000
+      internalID: -6211280645789450963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_hoe_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 107
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58e4b0d981168190800000000000000
+      internalID: -7960656007721064357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_hoe_5
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 71
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871afd27d6f1793f0800000000000000
+      internalID: -894211446070599304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_hoe_6
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 72
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31ea743182ccfd40800000000000000
+      internalID: 5619580295238574398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_hoe_7
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 73
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a797d7e3fb0149e0800000000000000
+      internalID: -1639015647191525464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_hoe_8
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 72
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2d8be7258458760800000000000000
+      internalID: 7459447876959654638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_hoe_9
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 73
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c053531985cf06e10800000000000000
+      internalID: 2189026876225565964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_hoe_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 39
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166dca578a1cde790800000000000000
+      internalID: -7499124875229079967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_hoe_11
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21428329bbb7249a0800000000000000
+      internalID: -6250297287294573550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_hoe_12
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 40
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f617b784ac8bba0800000000000000
+      internalID: -6072881684851626184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_hoe_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 40
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4bf81c8a07c930c0800000000000000
+      internalID: -4595423096640832689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_hoe_14
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 40
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5627d2c8b910fc0800000000000000
+      internalID: -3530369606521559636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_hoe_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 7
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740c608c4643ed1f0800000000000000
+      internalID: -1018318858281893817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_hoe_16
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 8
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d8702cfbca34ba0800000000000000
+      internalID: -6105846730190254733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_hoe_17
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 8
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571b5f218bf04dbe0800000000000000
+      internalID: -1453519496467336843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_hoe_18
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 8
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0df4d280cbb7c40800000000000000
+      internalID: 5511205312323899598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_blue_hoe_19
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 8
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6466cf5d46ca3d10800000000000000
+      internalID: 2106213811370746990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mask_clown_blue_hoe_0: -8567150819811421689
+      mask_clown_blue_hoe_1: -5065769191322170687
+      mask_clown_blue_hoe_10: -7499124875229079967
+      mask_clown_blue_hoe_11: -6250297287294573550
+      mask_clown_blue_hoe_12: -6072881684851626184
+      mask_clown_blue_hoe_13: -4595423096640832689
+      mask_clown_blue_hoe_14: -3530369606521559636
+      mask_clown_blue_hoe_15: -1018318858281893817
+      mask_clown_blue_hoe_16: -6105846730190254733
+      mask_clown_blue_hoe_17: -1453519496467336843
+      mask_clown_blue_hoe_18: 5511205312323899598
+      mask_clown_blue_hoe_19: 2106213811370746990
+      mask_clown_blue_hoe_2: -7990515306143487808
+      mask_clown_blue_hoe_3: -6211280645789450963
+      mask_clown_blue_hoe_4: -7960656007721064357
+      mask_clown_blue_hoe_5: -894211446070599304
+      mask_clown_blue_hoe_6: 5619580295238574398
+      mask_clown_blue_hoe_7: -1639015647191525464
+      mask_clown_blue_hoe_8: 7459447876959654638
+      mask_clown_blue_hoe_9: 2189026876225565964
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

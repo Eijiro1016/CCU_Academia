@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: ac5239fc79447cf49ab348df1bd43288
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1715153472453419040
+    second: pants_suit_die_0
+  - first:
+      213: -320116737829121105
+    second: pants_suit_die_1
+  - first:
+      213: -1246718766651634432
+    second: pants_suit_die_2
+  - first:
+      213: -2704291977875611230
+    second: pants_suit_die_3
+  - first:
+      213: -7040596963410966429
+    second: pants_suit_die_4
+  - first:
+      213: 1467869928719709644
+    second: pants_suit_die_5
+  - first:
+      213: 5512133064930000394
+    second: pants_suit_die_6
+  - first:
+      213: 3768385745079288814
+    second: pants_suit_die_7
+  - first:
+      213: -3283950618581014798
+    second: pants_suit_die_8
+  - first:
+      213: 8591262157625569833
+    second: pants_suit_die_9
+  - first:
+      213: -867358992710686454
+    second: pants_suit_die_10
+  - first:
+      213: 978113299589305895
+    second: pants_suit_die_11
+  - first:
+      213: 7247474822978313702
+    second: pants_suit_die_12
+  - first:
+      213: -6996260798308596112
+    second: pants_suit_die_13
+  - first:
+      213: 5156947004681650900
+    second: pants_suit_die_14
+  - first:
+      213: 5371095658505155564
+    second: pants_suit_die_15
+  - first:
+      213: -8243896592968254598
+    second: pants_suit_die_16
+  - first:
+      213: -5970669229620522144
+    second: pants_suit_die_17
+  - first:
+      213: -5189146467236513003
+    second: pants_suit_die_18
+  - first:
+      213: -8001121560391978398
+    second: pants_suit_die_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pants_suit_die_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0efd22b010d8238e0800000000000000
+      internalID: -1715153472453419040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pants_suit_die_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa3d903e587be8bf0800000000000000
+      internalID: -320116737829121105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pants_suit_die_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d8aea13e3c2bee0800000000000000
+      internalID: -1246718766651634432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pants_suit_die_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a129c926cc687ad0800000000000000
+      internalID: -2704291977875611230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pants_suit_die_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 0
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 368023d4d56ca4e90800000000000000
+      internalID: -7040596963410966429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pants_suit_die_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 0
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5f0dd4cebee5410800000000000000
+      internalID: 1467869928719709644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pants_suit_die_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 0
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e76d961d70f7c40800000000000000
+      internalID: 5512133064930000394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pants_suit_die_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 0
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3c8109edefb4430800000000000000
+      internalID: 3768385745079288814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pants_suit_die_8
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 0
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6ed8fbf401d62d0800000000000000
+      internalID: -3283950618581014798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pants_suit_die_9
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 0
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9223785f96b4a3770800000000000000
+      internalID: 8591262157625569833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pants_suit_die_10
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 0
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a092db2779586f3f0800000000000000
+      internalID: -867358992710686454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pants_suit_die_11
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 0
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7261b1c1dd4f29d00800000000000000
+      internalID: 978113299589305895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pants_suit_die_12
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 0
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed9536e3f3349460800000000000000
+      internalID: 7247474822978313702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pants_suit_die_13
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 0
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07643d82fd948ee90800000000000000
+      internalID: -6996260798308596112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pants_suit_die_14
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 0
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d280936af7219740800000000000000
+      internalID: 5156947004681650900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pants_suit_die_15
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 0
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3b7db4b07f98a40800000000000000
+      internalID: 5371095658505155564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pants_suit_die_16
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 0
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7bf21b0abbc79d80800000000000000
+      internalID: -8243896592968254598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pants_suit_die_17
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 0
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0631d1938fbe32da0800000000000000
+      internalID: -5970669229620522144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pants_suit_die_18
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 0
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51bf4e408c27cf7b0800000000000000
+      internalID: -5189146467236513003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pants_suit_die_19
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 0
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262fd14255e46f090800000000000000
+      internalID: -8001121560391978398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pants_suit_die_0: -1715153472453419040
+      pants_suit_die_1: -320116737829121105
+      pants_suit_die_10: -867358992710686454
+      pants_suit_die_11: 978113299589305895
+      pants_suit_die_12: 7247474822978313702
+      pants_suit_die_13: -6996260798308596112
+      pants_suit_die_14: 5156947004681650900
+      pants_suit_die_15: 5371095658505155564
+      pants_suit_die_16: -8243896592968254598
+      pants_suit_die_17: -5970669229620522144
+      pants_suit_die_18: -5189146467236513003
+      pants_suit_die_19: -8001121560391978398
+      pants_suit_die_2: -1246718766651634432
+      pants_suit_die_3: -2704291977875611230
+      pants_suit_die_4: -7040596963410966429
+      pants_suit_die_5: 1467869928719709644
+      pants_suit_die_6: 5512133064930000394
+      pants_suit_die_7: 3768385745079288814
+      pants_suit_die_8: -3283950618581014798
+      pants_suit_die_9: 8591262157625569833
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

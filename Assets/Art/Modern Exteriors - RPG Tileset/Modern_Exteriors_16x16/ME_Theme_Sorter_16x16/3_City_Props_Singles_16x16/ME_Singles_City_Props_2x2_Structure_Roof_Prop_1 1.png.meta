@@ -1,0 +1,4007 @@
+fileFormatVersion: 2
+guid: a903d2a94bc8f97409773e1db09fac63
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8359148594718601495
+    second: ME_Singles_City_Props_16x16_Structure_Roof_Prop_1_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 2
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 24
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9783d128e6d760b4792df841e2a82bb1
+      internalID: -911234986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 24
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c856742d9a31a4190eb8feec3717c9
+      internalID: -1369925030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_2
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 24
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3313856dfb066c146bdba3eae6ec000b
+      internalID: -1641449656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_3
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 24
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533b3906f92f8a143807a3b0ddf3fada
+      internalID: -490123252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_4
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 24
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb8c4e62ac1bf84cb7798d400772c45
+      internalID: 1493663312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_5
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 24
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac171e1d93866d429cf4fe5ec5d49f2
+      internalID: 1779189684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 24
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada07905d956de743b3b11e220cdb1eb
+      internalID: 366075570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_7
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 24
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c1bdd1ed0243b49bb222a4f2621485
+      internalID: -1247953832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_8
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 24
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782068aad64dc8e40997b4a80630ab6a
+      internalID: 1592736054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_9
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 24
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad05462772e6144e99740ef86af01a4
+      internalID: -883708162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_10
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e3dd41c2768b041859866233a0c7dc
+      internalID: -490890583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_11
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 24
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a6a44d86174bc49af2fea74bedd121
+      internalID: -707568072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_12
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 24
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fc37d0e07a08d4dbeb77293d0091a7
+      internalID: 1442948709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_13
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 22
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eab8f712783cb140b293185733bd50c
+      internalID: 365825261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_14
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 22
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a963f4e3ea198d6439eb8f263fd88991
+      internalID: -1637803744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 22
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc410a9d7f92014d9d446f07cc94601
+      internalID: 266452921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 22
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17d03a2740aa824ba5684b2da2f91f4
+      internalID: -1977723495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_17
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 22
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d685324fd1d74448ae244d69ed38514
+      internalID: 792340872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_18
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 22
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b8528708f272e40abed96ab526340f
+      internalID: 2114202656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_19
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 22
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a954edd315a71384fad2fee97f29c99b
+      internalID: -406708961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_20
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 22
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c7130bf27c61942bbf8a2f1be2645d
+      internalID: -1778118201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_21
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 22
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbe044b56314414e8070c9572a25284
+      internalID: 1850198045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_22
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 22
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5488cc0234cf89d4386c61203d2a91f5
+      internalID: -1922223786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_23
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 22
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f26bf5f08bd32347979ffad0f18737b
+      internalID: -1845975135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_24
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 22
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8789217c27ff247a5332a65d74aea3
+      internalID: 104513760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_25
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 22
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb4ba9d80f92ea4c8489e24b5c16205
+      internalID: -362279389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_26
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 20
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838f50e8064613141966bda77f2b190c
+      internalID: -436638142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_27
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 20
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709516774a650884ba2f45cc747be189
+      internalID: 657961023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_28
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 20
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7098a999f84729e4cb93ffaf16d9dae2
+      internalID: -1520069127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_29
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 20
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862223d750bb2634ebdf547799133337
+      internalID: -1058251022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_30
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 20
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378acf323ded00b489da0b9dbf4e4682
+      internalID: -1121596985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_31
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 20
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe081fbad2a6324183200f9cf9ac23d
+      internalID: 421028437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_32
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 20
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1324970049263d34f8929481b5550a3c
+      internalID: -107750711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_33
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 20
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd78959ed81ec954ea41ccfb8653514b
+      internalID: -1719509476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_34
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 20
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e65e8e34150da49876fc6cd6c61fb0
+      internalID: -1673895776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_35
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 20
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f8a6254fdc6504295d923b6e1d7e85
+      internalID: -576061057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_36
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 20
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658076fdef656dc4c9271d88b7299192
+      internalID: -356714761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_37
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 20
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d60f1eea209c3479add6bc8e57ae7f
+      internalID: 1353948626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_38
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 20
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206c944f918b8de40933f8dbbf39e70b
+      internalID: 798549168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_39
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 18
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dabf202bcd394a42aa12c2f4e9ac2cd
+      internalID: -226678360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_40
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 18
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4699c63707e71d24197d99a2aee03902
+      internalID: 1659421355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_41
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 18
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2427ebe3c97906d4ba07d85a585e6771
+      internalID: 320479332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_42
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 18
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f59a3a7cd009ae429f629f9c8e46ba9
+      internalID: -1963004210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_43
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 18
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f553f8e1cfc60947ba3f57e57abdaf9
+      internalID: 1542538116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_44
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 18
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08259a2d34d6584b87fb06bcf74a71d
+      internalID: 928281252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_45
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 18
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07468921442610f42bcc693cb581f3e2
+      internalID: 1539239045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_46
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 18
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0ea4e078b770d4c8fe08a1de84ef85
+      internalID: 1437730709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_47
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 18
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f95a86e0df3c242bc73a42e30caa32
+      internalID: -2104473535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_48
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 18
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496ba2b5efc24b94f8dea93b56a1b1c8
+      internalID: -1006586756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_49
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 18
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9671976212c2a43a1f1989279c818f
+      internalID: -724736265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_50
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 18
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd022e6e92ab8a4c95d6e0853ce5734
+      internalID: -217285946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_51
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 18
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2808b92da4df26742b71a0ed53f8db86
+      internalID: 281083535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_52
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 16
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b954db8404c02498296275d3ef79d7
+      internalID: 68108022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_53
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 16
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1470c8cdb1889064f9c9678d416c0e35
+      internalID: 1081581785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_54
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 16
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454d5bb8f68ca0c44a55894fb9f9e091
+      internalID: 667370900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_55
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 16
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3abdb24073f8e498adcd1ace9b1bee
+      internalID: -24537564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_56
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 16
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8db2ce956d1364581d3d14ade33219
+      internalID: 1972996194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_57
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 16
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d8491b392df574b92d8fa4b03b1034
+      internalID: -961787883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_58
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d3b5c4e8535b046a9fc43a1bd1941c
+      internalID: 1186755816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_59
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 16
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47144d7f8367484ebace784f5a342a5
+      internalID: -1286230811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_60
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 16
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5360fbba53390ee42a3caa7502de84ee
+      internalID: 1077855166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_61
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 16
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ca9752969636e479fa82c1c252b113
+      internalID: 25558463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_62
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 16
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48d7154fed144b419924e5e4931fbe3
+      internalID: -1390385891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_63
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 16
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51088e536b4316d4193293e285e7f3df
+      internalID: 635506618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_64
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 16
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fc1c0146b922945894515f9f38c03e
+      internalID: 1170946002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_65
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 14
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6df21838f77d342a6e0e6fa1419b77
+      internalID: 1132919883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_66
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 14
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d417db3774f21c439cbd58e312be055
+      internalID: -1589327520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_67
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 14
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7ec980dd1c9d94e931af00efffb5a7
+      internalID: 1167635436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_68
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 14
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f574f560f685cb04ba29d18ddecfa10f
+      internalID: 215730966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_69
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 14
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91f950e892c87b4797c6f0f8a1788eb
+      internalID: -208596172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_70
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 14
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ff39d3cf62f964da61586e0d35fc60
+      internalID: -990645689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_71
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 14
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f69ba4ec5875464b88ca7282075be0a
+      internalID: -1646014124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_72
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 14
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe9e37a90d57f24bb79573627ca3c05
+      internalID: 744387200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_73
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 14
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08724ecf3031264db634ada84429625
+      internalID: -1075875697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_74
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 14
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db53b4a15fc1d124abe8d024f07853d3
+      internalID: 866754177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_75
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 14
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f89f9ac304a49a499b96940b0ca942a
+      internalID: 739934646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_76
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 14
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18d86ab2d146244f8d0baf584e0c19b
+      internalID: -722917338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_77
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 14
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8318953c835ed4d4aa3d2c41b5eeec12
+      internalID: 565511449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_78
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 12
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f0ab4b0d5f432489176b7cd7ee8620
+      internalID: 1705664642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_79
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 12
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54016db5d91cc1b408545a4c607a335f
+      internalID: -1175391622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_80
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 12
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc30b8e30d941a94399257e17620b2aa
+      internalID: -512293468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_81
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 12
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155755fd684508e40b46f4bab9844e09
+      internalID: -664971336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_82
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 12
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff90f1cc7a5544748bfd599195f9c892
+      internalID: -790245099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_83
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 12
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1383246cfc15c5e43b307a2099650d6c
+      internalID: 357042940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_84
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 12
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba4c35576220694c8f6b5de4fe89afb
+      internalID: 2140629377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_85
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 12
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28ceb4dc375b3f4ebb4e8bcbf7dde77
+      internalID: 707575331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_86
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 12
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0dec99d4e30ac54b8560f18be502249
+      internalID: 267067519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_87
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 12
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca52c6dbf65fd8458e61d926b4799de
+      internalID: 112098203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_88
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 12
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a907f27a9870d1a4e9366ccef217239a
+      internalID: 656684066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_89
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 12
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54bdf4d9d030c6a4bb3a125d30552635
+      internalID: 1834534264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_90
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 12
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a718ec14522cf1a4a9af3b2e1109a6d0
+      internalID: -1613031188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_91
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 10
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39032b2d0cf8ce41995816ba8ec88d9
+      internalID: -1687506970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_92
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 10
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076dce326b83d9a4bb477b6407fbd0e7
+      internalID: -1670741887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_93
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 10
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb3587539039254abe85bffff9e5a2c
+      internalID: -322914422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_94
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 10
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df62022862abdc14898ea0097bd47bba
+      internalID: 573669464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_95
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 10
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836385db41e90f0409ead3fd181affdf
+      internalID: -1747374627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_96
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 10
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9c23ebb7681c44f95b662da4728f07
+      internalID: -113440246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_97
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 10
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8b650728c07cd4790c72dfab4cde11
+      internalID: 959984579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_98
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 10
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd1112aefd4a4345a7b40fff879e65b
+      internalID: -1350196788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_99
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 10
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3fc3aba7d05114b95b2e798e81d55a
+      internalID: -911134021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_100
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 10
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac5b1c6b7813274caf505cce9f97faf
+      internalID: -1917809119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_101
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 10
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38072d41a4091ea4e873454c0afbb60b
+      internalID: 771492859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_102
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 10
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f1deaf36803594fba9c66b7409bb76
+      internalID: -1825931431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_103
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 10
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383dbeb4e7f9e4b42a8d9dd01cb9bf91
+      internalID: 1273969210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_104
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 8
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4799768b43bd6041a43269a05b87ae2
+      internalID: 1469131858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_105
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 8
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768f92299d822db4997fad37dd2bf70b
+      internalID: 554262618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_106
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9209ada5d1695ce4a8313769505e5a70
+      internalID: 897625855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_107
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 8
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0671e9b5040a7143b6f744a4b6a7928
+      internalID: -362887305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_108
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 8
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030b5ca1699b2e44d91eeb5a5502362d
+      internalID: 773689666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_109
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 8
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a375a22fe2ca52446949a01db8bd9b5e
+      internalID: -1625207047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_110
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 8
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e6ad5d793733b46b88d34275855845
+      internalID: -1051025383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_111
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 8
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625d6f65c41cd1f4c8207310bb2944d5
+      internalID: -414916731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_112
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 8
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778c35ed43631b84fa7b93b4021659b8
+      internalID: 1682313164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_113
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 8
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694573bec4b89924684a1e71a7d75c94
+      internalID: 953328966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_114
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 8
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde0cecadb171134180e520305e5655e
+      internalID: -1222732319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_115
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 8
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6d15f15bbc05f4b89c0a31e8d83a9f
+      internalID: -1796728770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_116
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 8
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b666693dff3f46419dba688af9e0ce0
+      internalID: 862971432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_117
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 6
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53876165585f1b4ea26eec1eecc9a7a
+      internalID: -48268309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_118
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 6
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50daff7d9f271a4a88cfd5ed934a411
+      internalID: 1947284876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_119
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 6
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa461fa0f75e7b4da1c9a6e50ac4c80
+      internalID: 2020334426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_120
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 6
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01d2cef6f38fae45822031707cadb13
+      internalID: -731782832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_121
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 6
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854f37179ac4ce247af39523e616263a
+      internalID: -113287652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_122
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 6
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a87bc5d0c44ff840904a0a97f046824
+      internalID: -531914830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_123
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 6
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354762bb396a10647b14586866b1df11
+      internalID: -1555778847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_124
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 6
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32172246c1446a409d8e8a27d202186
+      internalID: -1276777040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_125
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 6
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4095954b177658843a197184437175ee
+      internalID: 814411278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_126
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 6
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f344c86bb0e714094bf122ca81359c
+      internalID: -713599409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_127
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 6
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede32cbcfa08376418cff839361e083c
+      internalID: 388120231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_128
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 6
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85be3cc55538ab47a0b942ac171903c
+      internalID: 994936563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_129
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 6
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e62a53243d36140b36bd0af46fc1a3
+      internalID: -1798266254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_130
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c54e9e48c0649a4f93b36727c6347dd
+      internalID: 2130321200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_131
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 4
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806fb05f57ff6d6488c4060851d45026
+      internalID: 79331624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_132
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 4
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c704db071a94e488861e3290e759eb
+      internalID: 58575847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_133
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 4
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85766b408b998934d887ca19c9c95c10
+      internalID: 1393869557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_134
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 4
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77fbb66aff14d4a4ba2bdf88fd1b4281
+      internalID: -1811610532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_135
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 4
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2da07665193e9468ae9da047f25995
+      internalID: -404843069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_136
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 4
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f5b07a4afeb624cb6e8d9bf0160fa7
+      internalID: -930972132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_137
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 4
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9275a2b43352f48b35883cc65cf107
+      internalID: 117186308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_138
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 4
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c9127a82137de40b0c77c50578a503
+      internalID: 830522254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_139
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 4
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f347b2ce9fd7544a288d500fae1bb9
+      internalID: 646947346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_140
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 4
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85aa11d96f9f3c40883a0b1756ed070
+      internalID: -531667967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_141
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 4
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8fa91da40d7d34abaaa0db5f4dfc94
+      internalID: 348060341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_142
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 4
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26dee6987fed61a44a7af752388c985f
+      internalID: -2097751254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_143
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4a830c2cb24a349a75b62ee1c8af37
+      internalID: -1685343959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_144
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa08e7f290e92464e928f7b7c472cf6e
+      internalID: 710658353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_145
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9595bd8a29157564a9c5da0d892c3de0
+      internalID: -1539224347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_146
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1190cbd32abf10458506dc1b88c42b1
+      internalID: -1237723970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_147
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9904e04d9fa9332458d520238bdf2c6b
+      internalID: -294758067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_148
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca568afcf34609488074d102700d170
+      internalID: 1722326885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_149
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e4960b00daa4949bb3e3ad61c7f21d
+      internalID: 1036526343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_150
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88976c207e85d2348bec84135dd80684
+      internalID: 1279370474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_151
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0124fa23778a1bc439b70ce339b4dd52
+      internalID: -1241083941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_152
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50024d10b371c6a43aed71dde7250c20
+      internalID: 311177507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_153
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 2
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7c4fcd0f5dd3b4fafc899bccc21c51
+      internalID: 1563039628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_154
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 2
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73853bf619604624d9869fbb926cdf0c
+      internalID: 1148310762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_155
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 2
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abffe2788ae212f44b46f9cd2d16fa6c
+      internalID: -508746308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_156
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca22f4145b02b244ae9e30729241a51
+      internalID: -1995804021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_157
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ece37be82606848b0d33fc8473b61c
+      internalID: 994766744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_158
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcd3dba7ee59c242ad8c73ad1cb36a4
+      internalID: -1843813563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_159
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bebfda669986554a8bbbb95a983f346
+      internalID: -1922350527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_160
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec2e9f832c2ce942ac6dad9ccf3901e
+      internalID: 345693379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_161
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c9ab5f9ef00fc499e4b35b4da4bc99
+      internalID: -565362869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_162
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c217807dc30ef24e9c5016c08ee9c9c
+      internalID: 1733664075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_163
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3115cc30255184694b4634455e4062
+      internalID: 1335930201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_164
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 0
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2174eb8c99c5247ad8ca71e1da389c
+      internalID: 1429871201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_165
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 0
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce1a772bee55af4fbc74b319118c98d
+      internalID: 303666145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_166
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07bd65266048ba40bc16edd22df0ba7
+      internalID: -2037736897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_167
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 0
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47dcaef3446d91c4da70550b8b630b34
+      internalID: 1300153617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_168
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 0
+        width: 2
+        height: 2
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aeefb2a8dc9a2145936c20ad8e8128b
+      internalID: 1659275457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 10d87e332c676f44e846cfdd5be10a2b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_0: -911234986
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_1: -1369925030
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_10: -490890583
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_100: -1917809119
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_101: 771492859
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_102: -1825931431
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_103: 1273969210
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_104: 1469131858
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_105: 554262618
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_106: 897625855
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_107: -362887305
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_108: 773689666
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_109: -1625207047
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_11: -707568072
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_110: -1051025383
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_111: -414916731
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_112: 1682313164
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_113: 953328966
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_114: -1222732319
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_115: -1796728770
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_116: 862971432
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_117: -48268309
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_118: 1947284876
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_119: 2020334426
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_12: 1442948709
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_120: -731782832
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_121: -113287652
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_122: -531914830
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_123: -1555778847
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_124: -1276777040
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_125: 814411278
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_126: -713599409
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_127: 388120231
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_128: 994936563
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_129: -1798266254
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_13: 365825261
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_130: 2130321200
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_131: 79331624
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_132: 58575847
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_133: 1393869557
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_134: -1811610532
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_135: -404843069
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_136: -930972132
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_137: 117186308
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_138: 830522254
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_139: 646947346
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_14: -1637803744
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_140: -531667967
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_141: 348060341
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_142: -2097751254
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_143: -1685343959
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_144: 710658353
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_145: -1539224347
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_146: -1237723970
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_147: -294758067
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_148: 1722326885
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_149: 1036526343
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_15: 266452921
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_150: 1279370474
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_151: -1241083941
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_152: 311177507
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_153: 1563039628
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_154: 1148310762
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_155: -508746308
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_156: -1995804021
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_157: 994766744
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_158: -1843813563
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_159: -1922350527
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_16: -1977723495
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_160: 345693379
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_161: -565362869
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_162: 1733664075
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_163: 1335930201
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_164: 1429871201
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_165: 303666145
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_166: -2037736897
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_167: 1300153617
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_168: 1659275457
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_17: 792340872
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_18: 2114202656
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_19: -406708961
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_2: -1641449656
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_20: -1778118201
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_21: 1850198045
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_22: -1922223786
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_23: -1845975135
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_24: 104513760
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_25: -362279389
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_26: -436638142
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_27: 657961023
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_28: -1520069127
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_29: -1058251022
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_3: -490123252
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_30: -1121596985
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_31: 421028437
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_32: -107750711
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_33: -1719509476
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_34: -1673895776
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_35: -576061057
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_36: -356714761
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_37: 1353948626
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_38: 798549168
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_39: -226678360
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_4: 1493663312
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_40: 1659421355
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_41: 320479332
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_42: -1963004210
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_43: 1542538116
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_44: 928281252
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_45: 1539239045
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_46: 1437730709
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_47: -2104473535
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_48: -1006586756
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_49: -724736265
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_5: 1779189684
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_50: -217285946
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_51: 281083535
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_52: 68108022
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_53: 1081581785
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_54: 667370900
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_55: -24537564
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_56: 1972996194
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_57: -961787883
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_58: 1186755816
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_59: -1286230811
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_6: 366075570
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_60: 1077855166
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_61: 25558463
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_62: -1390385891
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_63: 635506618
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_64: 1170946002
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_65: 1132919883
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_66: -1589327520
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_67: 1167635436
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_68: 215730966
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_69: -208596172
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_7: -1247953832
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_70: -990645689
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_71: -1646014124
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_72: 744387200
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_73: -1075875697
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_74: 866754177
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_75: 739934646
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_76: -722917338
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_77: 565511449
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_78: 1705664642
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_79: -1175391622
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_8: 1592736054
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_80: -512293468
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_81: -664971336
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_82: -790245099
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_83: 357042940
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_84: 2140629377
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_85: 707575331
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_86: 267067519
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_87: 112098203
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_88: 656684066
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_89: 1834534264
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_9: -883708162
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_90: -1613031188
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_91: -1687506970
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_92: -1670741887
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_93: -322914422
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_94: 573669464
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_95: -1747374627
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_96: -113440246
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_97: 959984579
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_98: -1350196788
+      ME_Singles_City_Props_2x2_Structure_Roof_Prop_1 1_99: -911134021
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

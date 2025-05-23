@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: c6c5f42cc363b77488e683bb529ccae1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4175716262120713815
+    second: Accessory_24_Pumpkin_Head_16x16_0
+  - first:
+      213: -4155130370209569868
+    second: Accessory_24_Pumpkin_Head_16x16_1
+  - first:
+      213: 1193278429679123014
+    second: Accessory_24_Pumpkin_Head_16x16_2
+  - first:
+      213: -3312286745799842953
+    second: Accessory_24_Pumpkin_Head_16x16_3
+  - first:
+      213: -850652759983969478
+    second: Accessory_24_Pumpkin_Head_16x16_4
+  - first:
+      213: 8473427607605475791
+    second: Accessory_24_Pumpkin_Head_16x16_5
+  - first:
+      213: 2817303292105507627
+    second: Accessory_24_Pumpkin_Head_16x16_6
+  - first:
+      213: 7162516758885367395
+    second: Accessory_24_Pumpkin_Head_16x16_7
+  - first:
+      213: 4609302705120460380
+    second: Accessory_24_Pumpkin_Head_16x16_8
+  - first:
+      213: -7218604190196686941
+    second: Accessory_24_Pumpkin_Head_16x16_9
+  - first:
+      213: -2191251214888934527
+    second: Accessory_24_Pumpkin_Head_16x16_10
+  - first:
+      213: -2156344416720698284
+    second: Accessory_24_Pumpkin_Head_16x16_11
+  - first:
+      213: -9223369842196195157
+    second: Accessory_24_Pumpkin_Head_16x16_12
+  - first:
+      213: -2973250496587594268
+    second: Accessory_24_Pumpkin_Head_16x16_13
+  - first:
+      213: 5085154224295836771
+    second: Accessory_24_Pumpkin_Head_16x16_14
+  - first:
+      213: -3593393717443917800
+    second: Accessory_24_Pumpkin_Head_16x16_15
+  - first:
+      213: 7023096675630785518
+    second: Accessory_24_Pumpkin_Head_16x16_16
+  - first:
+      213: -8690351445836803099
+    second: Accessory_24_Pumpkin_Head_16x16_17
+  - first:
+      213: -1625166296761932071
+    second: Accessory_24_Pumpkin_Head_16x16_18
+  - first:
+      213: -360138392201322830
+    second: Accessory_24_Pumpkin_Head_16x16_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Accessory_24_Pumpkin_Head_16x16_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 614
+        width: 65
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a11979fe20ec06c0800000000000000
+      internalID: -4175716262120713815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_24_Pumpkin_Head_16x16_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 582
+        width: 385
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3a83071f20656c0800000000000000
+      internalID: -4155130370209569868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_24_Pumpkin_Head_16x16_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 550
+        width: 385
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64af827d8606f8010800000000000000
+      internalID: 1193278429679123014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_24_Pumpkin_Head_16x16_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 523
+        width: 97
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773ad5201c46802d0800000000000000
+      internalID: -3312286745799842953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_24_Pumpkin_Head_16x16_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 486
+        width: 193
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b23fd52dfd134f0800000000000000
+      internalID: -850652759983969478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_24_Pumpkin_Head_16x16_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 454
+        width: 193
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9ff45d389a79570800000000000000
+      internalID: 8473427607605475791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_24_Pumpkin_Head_16x16_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 422
+        width: 193
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23cc7eda62191720800000000000000
+      internalID: 2817303292105507627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_24_Pumpkin_Head_16x16_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 392
+        width: 193
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ef4272b0f566360800000000000000
+      internalID: 7162516758885367395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_24_Pumpkin_Head_16x16_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 358
+        width: 385
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5eb3f0a36887ff30800000000000000
+      internalID: 4609302705120460380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_24_Pumpkin_Head_16x16_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 324
+        width: 769
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af1e2d1cbd52db90800000000000000
+      internalID: -7218604190196686941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_24_Pumpkin_Head_16x16_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 294
+        width: 641
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183e6ea31ac1791e0800000000000000
+      internalID: -2191251214888934527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_24_Pumpkin_Head_16x16_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 261
+        width: 896
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45447f38d202312e0800000000000000
+      internalID: -2156344416720698284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_24_Pumpkin_Head_16x16_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 896
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba858dbfef1000080800000000000000
+      internalID: -9223369842196195157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_24_Pumpkin_Head_16x16_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 197
+        width: 385
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e584a22d64ecb6d0800000000000000
+      internalID: -2973250496587594268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_24_Pumpkin_Head_16x16_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 165
+        width: 385
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36cfa3f13d8129640800000000000000
+      internalID: 5085154224295836771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_24_Pumpkin_Head_16x16_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 133
+        width: 385
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81882add373b12ec0800000000000000
+      internalID: -3593393717443917800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_24_Pumpkin_Head_16x16_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 102
+        width: 257
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3233e673d077160800000000000000
+      internalID: 7023096675630785518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_24_Pumpkin_Head_16x16_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 385
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e35899476ba56780800000000000000
+      internalID: -8690351445836803099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_24_Pumpkin_Head_16x16_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 193
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d661941ddf3279e0800000000000000
+      internalID: -1625166296761932071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Accessory_24_Pumpkin_Head_16x16_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 193
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be1cd65a08800bf0800000000000000
+      internalID: -360138392201322830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Accessory_24_Pumpkin_Head_16x16_0: -4175716262120713815
+      Accessory_24_Pumpkin_Head_16x16_1: -4155130370209569868
+      Accessory_24_Pumpkin_Head_16x16_10: -2191251214888934527
+      Accessory_24_Pumpkin_Head_16x16_11: -2156344416720698284
+      Accessory_24_Pumpkin_Head_16x16_12: -9223369842196195157
+      Accessory_24_Pumpkin_Head_16x16_13: -2973250496587594268
+      Accessory_24_Pumpkin_Head_16x16_14: 5085154224295836771
+      Accessory_24_Pumpkin_Head_16x16_15: -3593393717443917800
+      Accessory_24_Pumpkin_Head_16x16_16: 7023096675630785518
+      Accessory_24_Pumpkin_Head_16x16_17: -8690351445836803099
+      Accessory_24_Pumpkin_Head_16x16_18: -1625166296761932071
+      Accessory_24_Pumpkin_Head_16x16_19: -360138392201322830
+      Accessory_24_Pumpkin_Head_16x16_2: 1193278429679123014
+      Accessory_24_Pumpkin_Head_16x16_3: -3312286745799842953
+      Accessory_24_Pumpkin_Head_16x16_4: -850652759983969478
+      Accessory_24_Pumpkin_Head_16x16_5: 8473427607605475791
+      Accessory_24_Pumpkin_Head_16x16_6: 2817303292105507627
+      Accessory_24_Pumpkin_Head_16x16_7: 7162516758885367395
+      Accessory_24_Pumpkin_Head_16x16_8: 4609302705120460380
+      Accessory_24_Pumpkin_Head_16x16_9: -7218604190196686941
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

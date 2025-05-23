@@ -1,0 +1,51 @@
+# ========== Unity 基本資料夾 ==========
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+sysinfo.txt
+
+# ========== 忽略 IDE 與作業系統檔案 ==========
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb.meta
+*.mdb.meta
+*.db
+*.DS_Store
+*.apk
+*.aab
+*.exe
+*.app
+*.ipa
+
+# ========== JetBrains Rider 自動生成 ==========
+[Aa]ssets/Plugins/Editor/JetBrains*
+
+# ========== 忽略 VS 設定與分析工具 ==========
+.vs/
+.vsconfig
+.vscode/
+
+# ========== 打包後檔案 ==========
+*.unitypackage
+*.zip
+
+# ========== Mac 系統垃圾檔 ==========
+.DS_Store
+
+# ========== Windows 系統垃圾檔 ==========
+Thumbs.db
+Desktop.ini

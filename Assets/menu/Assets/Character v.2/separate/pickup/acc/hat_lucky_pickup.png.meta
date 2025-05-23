@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 69611bf0f8476e2478b0c4b416f6f57b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9103938170333375059
+    second: hat_lucky_pickup_0
+  - first:
+      213: 8712574799709420944
+    second: hat_lucky_pickup_1
+  - first:
+      213: 5202585613750239761
+    second: hat_lucky_pickup_2
+  - first:
+      213: -6849674839618729380
+    second: hat_lucky_pickup_3
+  - first:
+      213: -1891044723432273207
+    second: hat_lucky_pickup_4
+  - first:
+      213: 3702134574466056640
+    second: hat_lucky_pickup_5
+  - first:
+      213: 8718484195045311704
+    second: hat_lucky_pickup_6
+  - first:
+      213: 3280058913991690731
+    second: hat_lucky_pickup_7
+  - first:
+      213: -6493371399686952959
+    second: hat_lucky_pickup_8
+  - first:
+      213: 2978292270002475885
+    second: hat_lucky_pickup_9
+  - first:
+      213: -233080061972076823
+    second: hat_lucky_pickup_10
+  - first:
+      213: -7717201538310165538
+    second: hat_lucky_pickup_11
+  - first:
+      213: -2445604145231171534
+    second: hat_lucky_pickup_12
+  - first:
+      213: -1692672519319096168
+    second: hat_lucky_pickup_13
+  - first:
+      213: -5243462155736340140
+    second: hat_lucky_pickup_14
+  - first:
+      213: -747563823288279168
+    second: hat_lucky_pickup_15
+  - first:
+      213: 334421773060568774
+    second: hat_lucky_pickup_16
+  - first:
+      213: 9114880760005647999
+    second: hat_lucky_pickup_17
+  - first:
+      213: 6908375271808799970
+    second: hat_lucky_pickup_18
+  - first:
+      213: 829300764323403649
+    second: hat_lucky_pickup_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hat_lucky_pickup_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 108
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5d824087058a180800000000000000
+      internalID: -9103938170333375059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_pickup_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 107
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d33bf7e9849e870800000000000000
+      internalID: 8712574799709420944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_pickup_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 108
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112042d1d0c433840800000000000000
+      internalID: 5202585613750239761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_pickup_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 108
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a4895460111f0a0800000000000000
+      internalID: -6849674839618729380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_pickup_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 108
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca417dd7d8a1c5e0800000000000000
+      internalID: -1891044723432273207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_pickup_5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 76
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1cdbdd7cf906330800000000000000
+      internalID: 3702134574466056640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_pickup_6
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 77
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d48881de274ef870800000000000000
+      internalID: 8718484195045311704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_pickup_7
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 77
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be904da243c158d20800000000000000
+      internalID: 3280058913991690731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_pickup_8
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 76
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1086af68d19e2e5a0800000000000000
+      internalID: -6493371399686952959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_pickup_9
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 76
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d631ac63a05055920800000000000000
+      internalID: 2978292270002475885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_pickup_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 44
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e6ade52beee3ccf0800000000000000
+      internalID: -233080061972076823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_pickup_11
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 43
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edbace0a61ef6e490800000000000000
+      internalID: -7717201538310165538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_pickup_12
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 43
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230f54ebcf77f0ed0800000000000000
+      internalID: -2445604145231171534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_pickup_13
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 44
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8947be4df4b6288e0800000000000000
+      internalID: -1692672519319096168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_pickup_14
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 44
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459a12e43fa7b37b0800000000000000
+      internalID: -5243462155736340140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_pickup_15
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 12
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f18f9d9ae10a5f0800000000000000
+      internalID: -747563823288279168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_pickup_16
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 11
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c67e6ca4da14a400800000000000000
+      internalID: 334421773060568774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_pickup_17
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 11
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7edd2e22cf8e7e70800000000000000
+      internalID: 9114880760005647999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_pickup_18
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 12
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4914325ba7fdf50800000000000000
+      internalID: 6908375271808799970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_pickup_19
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 12
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187d47db6a4428b00800000000000000
+      internalID: 829300764323403649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hat_lucky_pickup_0: -9103938170333375059
+      hat_lucky_pickup_1: 8712574799709420944
+      hat_lucky_pickup_10: -233080061972076823
+      hat_lucky_pickup_11: -7717201538310165538
+      hat_lucky_pickup_12: -2445604145231171534
+      hat_lucky_pickup_13: -1692672519319096168
+      hat_lucky_pickup_14: -5243462155736340140
+      hat_lucky_pickup_15: -747563823288279168
+      hat_lucky_pickup_16: 334421773060568774
+      hat_lucky_pickup_17: 9114880760005647999
+      hat_lucky_pickup_18: 6908375271808799970
+      hat_lucky_pickup_19: 829300764323403649
+      hat_lucky_pickup_2: 5202585613750239761
+      hat_lucky_pickup_3: -6849674839618729380
+      hat_lucky_pickup_4: -1891044723432273207
+      hat_lucky_pickup_5: 3702134574466056640
+      hat_lucky_pickup_6: 8718484195045311704
+      hat_lucky_pickup_7: 3280058913991690731
+      hat_lucky_pickup_8: -6493371399686952959
+      hat_lucky_pickup_9: 2978292270002475885
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

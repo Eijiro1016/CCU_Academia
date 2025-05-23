@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 3dc9d646bf2faf0409249a2cc2df9074
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4726012074420879541
+    second: hat_lucky_pickaxe_0
+  - first:
+      213: 6478388700251860150
+    second: hat_lucky_pickaxe_1
+  - first:
+      213: 1440786277105350745
+    second: hat_lucky_pickaxe_2
+  - first:
+      213: -884086194242872274
+    second: hat_lucky_pickaxe_3
+  - first:
+      213: 7426650478960014570
+    second: hat_lucky_pickaxe_4
+  - first:
+      213: -9108320907639301506
+    second: hat_lucky_pickaxe_5
+  - first:
+      213: 2101642153288015017
+    second: hat_lucky_pickaxe_6
+  - first:
+      213: 8831455707462763981
+    second: hat_lucky_pickaxe_7
+  - first:
+      213: -2997200237392929524
+    second: hat_lucky_pickaxe_8
+  - first:
+      213: -8483649901203996170
+    second: hat_lucky_pickaxe_9
+  - first:
+      213: -8503535902087661677
+    second: hat_lucky_pickaxe_10
+  - first:
+      213: 6935650110441501028
+    second: hat_lucky_pickaxe_11
+  - first:
+      213: -4593192232228168231
+    second: hat_lucky_pickaxe_12
+  - first:
+      213: -3746288071549313663
+    second: hat_lucky_pickaxe_13
+  - first:
+      213: 5609052412466635708
+    second: hat_lucky_pickaxe_14
+  - first:
+      213: 3675455929814210110
+    second: hat_lucky_pickaxe_15
+  - first:
+      213: 2403614326546576515
+    second: hat_lucky_pickaxe_16
+  - first:
+      213: 5306315548052983623
+    second: hat_lucky_pickaxe_17
+  - first:
+      213: 8275047033817456975
+    second: hat_lucky_pickaxe_18
+  - first:
+      213: 4729542050000567562
+    second: hat_lucky_pickaxe_19
+  - first:
+      213: -7234982653202747587
+    second: hat_lucky_pickaxe_20
+  - first:
+      213: -3081842467467358740
+    second: hat_lucky_pickaxe_21
+  - first:
+      213: -7529892196692073501
+    second: hat_lucky_pickaxe_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hat_lucky_pickaxe_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 107
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0401431fa269140800000000000000
+      internalID: 4726012074420879541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_pickaxe_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 108
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bcaa6be23cd7e950800000000000000
+      internalID: 6478388700251860150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_pickaxe_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 108
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9583f144c73bef310800000000000000
+      internalID: 1440786277105350745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_pickaxe_3
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 109
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c93595a481bb3f0800000000000000
+      internalID: -884086194242872274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_pickaxe_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 109
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae475653343c01760800000000000000
+      internalID: 7426650478960014570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_pickaxe_5
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 108
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a55e7746eb89180800000000000000
+      internalID: -9108320907639301506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_pickaxe_6
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 108
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac18b747688a2d10800000000000000
+      internalID: 2101642153288015017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_pickaxe_7
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 108
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc50ae4cc22af8a70800000000000000
+      internalID: 8831455707462763981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_pickaxe_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 75
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d5a71934ec766d0800000000000000
+      internalID: -2997200237392929524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_pickaxe_9
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 75
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f145f7fc55044a80800000000000000
+      internalID: -8483649901203996170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_pickaxe_10
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 76
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397b845962f5df980800000000000000
+      internalID: -8503535902087661677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_pickaxe_11
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 76
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461b34f5701604060800000000000000
+      internalID: 6935650110441501028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_pickaxe_12
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 77
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ddd4f42004b140c0800000000000000
+      internalID: -4593192232228168231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_pickaxe_13
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 43
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d150df8d2820cc0800000000000000
+      internalID: -3746288071549313663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_pickaxe_14
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 43
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb32f9b737b57dd40800000000000000
+      internalID: 5609052412466635708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_pickaxe_15
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 44
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36dd2cd1b7d10330800000000000000
+      internalID: 3675455929814210110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_pickaxe_16
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 44
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38439debe7a5b5120800000000000000
+      internalID: 2403614326546576515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_pickaxe_17
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 46
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f84db70e1d3a940800000000000000
+      internalID: 5306315548052983623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_pickaxe_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 11
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41e6562f6fd6d270800000000000000
+      internalID: 8275047033817456975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_pickaxe_19
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 12
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d7e80bf65b2a140800000000000000
+      internalID: 4729542050000567562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_pickaxe_20
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 12
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3facb70c9d289b90800000000000000
+      internalID: -7234982653202747587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_pickaxe_21
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 12
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced05e8aa981b35d0800000000000000
+      internalID: -3081842467467358740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_pickaxe_22
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 14
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3ee2331f2708790800000000000000
+      internalID: -7529892196692073501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hat_lucky_pickaxe_0: 4726012074420879541
+      hat_lucky_pickaxe_1: 6478388700251860150
+      hat_lucky_pickaxe_10: -8503535902087661677
+      hat_lucky_pickaxe_11: 6935650110441501028
+      hat_lucky_pickaxe_12: -4593192232228168231
+      hat_lucky_pickaxe_13: -3746288071549313663
+      hat_lucky_pickaxe_14: 5609052412466635708
+      hat_lucky_pickaxe_15: 3675455929814210110
+      hat_lucky_pickaxe_16: 2403614326546576515
+      hat_lucky_pickaxe_17: 5306315548052983623
+      hat_lucky_pickaxe_18: 8275047033817456975
+      hat_lucky_pickaxe_19: 4729542050000567562
+      hat_lucky_pickaxe_2: 1440786277105350745
+      hat_lucky_pickaxe_20: -7234982653202747587
+      hat_lucky_pickaxe_21: -3081842467467358740
+      hat_lucky_pickaxe_22: -7529892196692073501
+      hat_lucky_pickaxe_3: -884086194242872274
+      hat_lucky_pickaxe_4: 7426650478960014570
+      hat_lucky_pickaxe_5: -9108320907639301506
+      hat_lucky_pickaxe_6: 2101642153288015017
+      hat_lucky_pickaxe_7: 8831455707462763981
+      hat_lucky_pickaxe_8: -2997200237392929524
+      hat_lucky_pickaxe_9: -8483649901203996170
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: c02a0a10d05b68846bba65b87bda7d21
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4265695634673573861
+    second: beard_block_0
+  - first:
+      213: -3563265025893510644
+    second: beard_block_1
+  - first:
+      213: 7928510982797875366
+    second: beard_block_2
+  - first:
+      213: -7045595236045239601
+    second: beard_block_3
+  - first:
+      213: 7496861703841395439
+    second: beard_block_4
+  - first:
+      213: 6433990321439941198
+    second: beard_block_5
+  - first:
+      213: -790900172586784211
+    second: beard_block_6
+  - first:
+      213: -8896513436106199409
+    second: beard_block_7
+  - first:
+      213: 1186184367556596717
+    second: beard_block_8
+  - first:
+      213: -8685109660833100690
+    second: beard_block_9
+  - first:
+      213: -7208293739400489676
+    second: beard_block_10
+  - first:
+      213: 3814502186635904103
+    second: beard_block_11
+  - first:
+      213: -876393735273694585
+    second: beard_block_12
+  - first:
+      213: 3466281616182669518
+    second: beard_block_13
+  - first:
+      213: -916082192430390632
+    second: beard_block_14
+  - first:
+      213: 5330094723696353029
+    second: beard_block_15
+  - first:
+      213: -2047175623970668173
+    second: beard_block_16
+  - first:
+      213: 6983056251915443698
+    second: beard_block_17
+  - first:
+      213: 2950120419117454455
+    second: beard_block_18
+  - first:
+      213: 4745206883149386274
+    second: beard_block_19
+  - first:
+      213: 6415556016528362918
+    second: beard_block_20
+  - first:
+      213: 5804536379221613281
+    second: beard_block_21
+  - first:
+      213: 4216093121340817823
+    second: beard_block_22
+  - first:
+      213: -8706844340573573348
+    second: beard_block_23
+  - first:
+      213: 4144213370308230894
+    second: beard_block_24
+  - first:
+      213: 3667802798167295537
+    second: beard_block_25
+  - first:
+      213: 5000783289461123006
+    second: beard_block_26
+  - first:
+      213: -2699726103059511423
+    second: beard_block_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: beard_block_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 36
+        width: 427
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10e85fbb643dc4c0800000000000000
+      internalID: -4265695634673573861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beard_block_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 37
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c025b03865dbc8ec0800000000000000
+      internalID: -3563265025893510644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beard_block_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 37
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a853775bbab70e60800000000000000
+      internalID: 7928510982797875366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beard_block_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 37
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcac6544674093e90800000000000000
+      internalID: -7045595236045239601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beard_block_4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 37
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe232b3eff33a0860800000000000000
+      internalID: 7496861703841395439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beard_block_5
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 37
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42aabdcb102a4950800000000000000
+      internalID: 6433990321439941198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beard_block_6
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 37
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a6b20cb782605f0800000000000000
+      internalID: -790900172586784211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beard_block_7
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 37
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e66656a2c398480800000000000000
+      internalID: -8896513436106199409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beard_block_8
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 37
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3155ac56c267010800000000000000
+      internalID: 1186184367556596717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beard_block_9
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 37
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ccab677ca487780800000000000000
+      internalID: -8685109660833100690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beard_block_10
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 37
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4359c52090ff6fb90800000000000000
+      internalID: -7208293739400489676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beard_block_11
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 37
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76442655785dfe430800000000000000
+      internalID: 3814502186635904103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beard_block_12
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 37
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a32a58a8c66d3f0800000000000000
+      internalID: -876393735273694585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beard_block_13
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 37
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0f808c3c4ba1030800000000000000
+      internalID: 3466281616182669518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beard_block_14
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 4
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892202f791c6943f0800000000000000
+      internalID: -916082192430390632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beard_block_15
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 4
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50fda1149ec48f940800000000000000
+      internalID: 5330094723696353029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beard_block_16
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 4
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371c36ccd98f693e0800000000000000
+      internalID: -2047175623970668173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beard_block_17
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 4
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd9dfdc9acc8e060800000000000000
+      internalID: 6983056251915443698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beard_block_18
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 4
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7745f1a04eee0f820800000000000000
+      internalID: 2950120419117454455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beard_block_19
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 4
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2229bdfd48c5ad140800000000000000
+      internalID: 4745206883149386274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beard_block_20
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 4
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad0bc9b432a80950800000000000000
+      internalID: 6415556016528362918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beard_block_21
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 4
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea1659451bdd8050800000000000000
+      internalID: 5804536379221613281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beard_block_22
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 4
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91cc752b52928a30800000000000000
+      internalID: 4216093121340817823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beard_block_23
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 4
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1fed7df3331b2780800000000000000
+      internalID: -8706844340573573348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beard_block_24
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 4
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee75a27a14338930800000000000000
+      internalID: 4144213370308230894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beard_block_25
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 4
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13602fa4637a6e230800000000000000
+      internalID: 3667802798167295537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beard_block_26
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 4
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb72a0f08e9566540800000000000000
+      internalID: 5000783289461123006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: beard_block_27
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 4
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 187c94cb965a88ad0800000000000000
+      internalID: -2699726103059511423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      beard_block_0: -4265695634673573861
+      beard_block_1: -3563265025893510644
+      beard_block_10: -7208293739400489676
+      beard_block_11: 3814502186635904103
+      beard_block_12: -876393735273694585
+      beard_block_13: 3466281616182669518
+      beard_block_14: -916082192430390632
+      beard_block_15: 5330094723696353029
+      beard_block_16: -2047175623970668173
+      beard_block_17: 6983056251915443698
+      beard_block_18: 2950120419117454455
+      beard_block_19: 4745206883149386274
+      beard_block_2: 7928510982797875366
+      beard_block_20: 6415556016528362918
+      beard_block_21: 5804536379221613281
+      beard_block_22: 4216093121340817823
+      beard_block_23: -8706844340573573348
+      beard_block_24: 4144213370308230894
+      beard_block_25: 3667802798167295537
+      beard_block_26: 5000783289461123006
+      beard_block_27: -2699726103059511423
+      beard_block_3: -7045595236045239601
+      beard_block_4: 7496861703841395439
+      beard_block_5: 6433990321439941198
+      beard_block_6: -790900172586784211
+      beard_block_7: -8896513436106199409
+      beard_block_8: 1186184367556596717
+      beard_block_9: -8685109660833100690
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

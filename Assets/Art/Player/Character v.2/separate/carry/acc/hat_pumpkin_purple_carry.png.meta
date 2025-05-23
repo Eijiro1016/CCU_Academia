@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: 7f95f455b3fc8af4d9a953cd93d95ba0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2765744213971241915
+    second: hat_pumpkin_purple_carry_0
+  - first:
+      213: 2244334163458626522
+    second: hat_pumpkin_purple_carry_1
+  - first:
+      213: 5193239422359627146
+    second: hat_pumpkin_purple_carry_2
+  - first:
+      213: 5741459056246650861
+    second: hat_pumpkin_purple_carry_3
+  - first:
+      213: 3766589354311059472
+    second: hat_pumpkin_purple_carry_4
+  - first:
+      213: 6438238145109050631
+    second: hat_pumpkin_purple_carry_5
+  - first:
+      213: 7926101481867094942
+    second: hat_pumpkin_purple_carry_6
+  - first:
+      213: 3643169644779871724
+    second: hat_pumpkin_purple_carry_7
+  - first:
+      213: -4492202341201018333
+    second: hat_pumpkin_purple_carry_8
+  - first:
+      213: 8097113402796010950
+    second: hat_pumpkin_purple_carry_9
+  - first:
+      213: -4943054957626968975
+    second: hat_pumpkin_purple_carry_10
+  - first:
+      213: -4764749206311536478
+    second: hat_pumpkin_purple_carry_11
+  - first:
+      213: -7154211499266211643
+    second: hat_pumpkin_purple_carry_12
+  - first:
+      213: -8165201084093573112
+    second: hat_pumpkin_purple_carry_13
+  - first:
+      213: 6271053957402556214
+    second: hat_pumpkin_purple_carry_14
+  - first:
+      213: 2381916881577867000
+    second: hat_pumpkin_purple_carry_15
+  - first:
+      213: 8638745062410428632
+    second: hat_pumpkin_purple_carry_16
+  - first:
+      213: 4307494304312340757
+    second: hat_pumpkin_purple_carry_17
+  - first:
+      213: -5093470040910349053
+    second: hat_pumpkin_purple_carry_18
+  - first:
+      213: -8158602369814232413
+    second: hat_pumpkin_purple_carry_19
+  - first:
+      213: 2695621793932853785
+    second: hat_pumpkin_purple_carry_20
+  - first:
+      213: -5132969956772516493
+    second: hat_pumpkin_purple_carry_21
+  - first:
+      213: 1246168443058869041
+    second: hat_pumpkin_purple_carry_22
+  - first:
+      213: -5511321162325201263
+    second: hat_pumpkin_purple_carry_23
+  - first:
+      213: -4479572897586326935
+    second: hat_pumpkin_purple_carry_24
+  - first:
+      213: -5498152221393228856
+    second: hat_pumpkin_purple_carry_25
+  - first:
+      213: -6462534492334993677
+    second: hat_pumpkin_purple_carry_26
+  - first:
+      213: 8134926699558027962
+    second: hat_pumpkin_purple_carry_27
+  - first:
+      213: 8489734994976458161
+    second: hat_pumpkin_purple_carry_28
+  - first:
+      213: -1743955342954184125
+    second: hat_pumpkin_purple_carry_29
+  - first:
+      213: -124149205861703374
+    second: hat_pumpkin_purple_carry_30
+  - first:
+      213: 7766119997970354648
+    second: hat_pumpkin_purple_carry_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_carry_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 107
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544f6aa7a4a1e99d0800000000000000
+      internalID: -2765744213971241915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_carry_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 108
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3993ad70a752f10800000000000000
+      internalID: 2244334163458626522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_carry_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 109
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85ec4b5db7121840800000000000000
+      internalID: 5193239422359627146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_carry_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 107
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7f7049792cdaf40800000000000000
+      internalID: 5741459056246650861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_carry_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 107
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0188a7ebf0d954430800000000000000
+      internalID: 3766589354311059472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_carry_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 108
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70548925b77395950800000000000000
+      internalID: 6438238145109050631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_carry_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 109
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ba260bd4b2ffd60800000000000000
+      internalID: 7926101481867094942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_carry_7
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 107
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced17955d732f8230800000000000000
+      internalID: 3643169644779871724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_carry_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 74
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 322098975cd78a1c0800000000000000
+      internalID: -4492202341201018333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_carry_9
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 75
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cde5bf4db9be5070800000000000000
+      internalID: 8097113402796010950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_carry_10
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 76
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 174396994bdb66bb0800000000000000
+      internalID: -4943054957626968975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_carry_11
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 74
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8f9f177d530edb0800000000000000
+      internalID: -4764749206311536478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_carry_12
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 74
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0093acb8227bc90800000000000000
+      internalID: -7154211499266211643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_carry_13
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 75
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808d7f600e06fae80800000000000000
+      internalID: -8165201084093573112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_carry_14
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 76
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637794a4952470750800000000000000
+      internalID: 6271053957402556214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_carry_15
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 74
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f674faa8c44e0120800000000000000
+      internalID: 2381916881577867000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_carry_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 43
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0222e3ddcf2e770800000000000000
+      internalID: 8638745062410428632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_carry_17
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 44
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5113e886f3b47cb30800000000000000
+      internalID: 4307494304312340757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_carry_18
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 45
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30db171fbfb5059b0800000000000000
+      internalID: -5093470040910349053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_carry_19
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 43
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2009bee52d6ce80800000000000000
+      internalID: -8158602369814232413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_carry_20
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 43
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9124b245db5c86520800000000000000
+      internalID: 2695621793932853785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_carry_21
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 44
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d62db150704c8b0800000000000000
+      internalID: -5132969956772516493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_carry_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 45
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13353d2b8974b4110800000000000000
+      internalID: 1246168443058869041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_carry_23
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 43
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e63846a9ad383b0800000000000000
+      internalID: -5511321162325201263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_carry_24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 11
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96256e5fe2c55d1c0800000000000000
+      internalID: -4479572897586326935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_carry_25
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 12
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cbe4d26fa3a2b3b0800000000000000
+      internalID: -5498152221393228856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_carry_26
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 13
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fec9a38e177056a0800000000000000
+      internalID: -6462534492334993677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_carry_27
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 11
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab24ff88bb015e070800000000000000
+      internalID: 8134926699558027962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_carry_28
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 11
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b546c45ff891d570800000000000000
+      internalID: 8489734994976458161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_carry_29
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 12
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342421ffad93cc7e0800000000000000
+      internalID: -1743955342954184125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_carry_30
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 13
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231677d74fee64ef0800000000000000
+      internalID: -124149205861703374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_pumpkin_purple_carry_31
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 11
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d19412ddfcc6cb60800000000000000
+      internalID: 7766119997970354648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hat_pumpkin_purple_carry_0: -2765744213971241915
+      hat_pumpkin_purple_carry_1: 2244334163458626522
+      hat_pumpkin_purple_carry_10: -4943054957626968975
+      hat_pumpkin_purple_carry_11: -4764749206311536478
+      hat_pumpkin_purple_carry_12: -7154211499266211643
+      hat_pumpkin_purple_carry_13: -8165201084093573112
+      hat_pumpkin_purple_carry_14: 6271053957402556214
+      hat_pumpkin_purple_carry_15: 2381916881577867000
+      hat_pumpkin_purple_carry_16: 8638745062410428632
+      hat_pumpkin_purple_carry_17: 4307494304312340757
+      hat_pumpkin_purple_carry_18: -5093470040910349053
+      hat_pumpkin_purple_carry_19: -8158602369814232413
+      hat_pumpkin_purple_carry_2: 5193239422359627146
+      hat_pumpkin_purple_carry_20: 2695621793932853785
+      hat_pumpkin_purple_carry_21: -5132969956772516493
+      hat_pumpkin_purple_carry_22: 1246168443058869041
+      hat_pumpkin_purple_carry_23: -5511321162325201263
+      hat_pumpkin_purple_carry_24: -4479572897586326935
+      hat_pumpkin_purple_carry_25: -5498152221393228856
+      hat_pumpkin_purple_carry_26: -6462534492334993677
+      hat_pumpkin_purple_carry_27: 8134926699558027962
+      hat_pumpkin_purple_carry_28: 8489734994976458161
+      hat_pumpkin_purple_carry_29: -1743955342954184125
+      hat_pumpkin_purple_carry_3: 5741459056246650861
+      hat_pumpkin_purple_carry_30: -124149205861703374
+      hat_pumpkin_purple_carry_31: 7766119997970354648
+      hat_pumpkin_purple_carry_4: 3766589354311059472
+      hat_pumpkin_purple_carry_5: 6438238145109050631
+      hat_pumpkin_purple_carry_6: 7926101481867094942
+      hat_pumpkin_purple_carry_7: 3643169644779871724
+      hat_pumpkin_purple_carry_8: -4492202341201018333
+      hat_pumpkin_purple_carry_9: 8097113402796010950
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

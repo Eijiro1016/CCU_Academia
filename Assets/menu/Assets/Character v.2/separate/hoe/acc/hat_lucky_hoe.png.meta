@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 87d0a992772c8e94da0d4b007e69e10f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8378106646964854170
+    second: hat_lucky_hoe_0
+  - first:
+      213: 8612354627759598984
+    second: hat_lucky_hoe_1
+  - first:
+      213: -1390733522104464416
+    second: hat_lucky_hoe_2
+  - first:
+      213: 4435002175128175463
+    second: hat_lucky_hoe_3
+  - first:
+      213: -8714780132181452234
+    second: hat_lucky_hoe_4
+  - first:
+      213: 769604029310703303
+    second: hat_lucky_hoe_5
+  - first:
+      213: 8613329648939496183
+    second: hat_lucky_hoe_6
+  - first:
+      213: 8896665536521261160
+    second: hat_lucky_hoe_7
+  - first:
+      213: 8960979912922097118
+    second: hat_lucky_hoe_8
+  - first:
+      213: 5432196962771546743
+    second: hat_lucky_hoe_9
+  - first:
+      213: -6505409206240812006
+    second: hat_lucky_hoe_10
+  - first:
+      213: -7217781813934802467
+    second: hat_lucky_hoe_11
+  - first:
+      213: 8631220155859651988
+    second: hat_lucky_hoe_12
+  - first:
+      213: 7602450108367696185
+    second: hat_lucky_hoe_13
+  - first:
+      213: -7438178872822201337
+    second: hat_lucky_hoe_14
+  - first:
+      213: 8705748323436733655
+    second: hat_lucky_hoe_15
+  - first:
+      213: 4580915649660432296
+    second: hat_lucky_hoe_16
+  - first:
+      213: -204118812003085207
+    second: hat_lucky_hoe_17
+  - first:
+      213: -6704163460758921665
+    second: hat_lucky_hoe_18
+  - first:
+      213: 6283318123460700277
+    second: hat_lucky_hoe_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hat_lucky_hoe_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 115
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6622259c46cfabb80800000000000000
+      internalID: -8378106646964854170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_hoe_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 114
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d6d4b57ea358770800000000000000
+      internalID: 8612354627759598984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_hoe_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 113
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb4cb5ea3f13bce0800000000000000
+      internalID: -1390733522104464416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_hoe_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 114
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763899a0bfa4c8d30800000000000000
+      internalID: 4435002175128175463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_hoe_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 113
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a51b584a1ee0780800000000000000
+      internalID: -8714780132181452234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_hoe_5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 75
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c616c089ce2eaa00800000000000000
+      internalID: 769604029310703303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_hoe_6
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 76
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2f06a2ea1b88770800000000000000
+      internalID: 8613329648939496183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_hoe_7
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 77
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8605fcd3b2e477b70800000000000000
+      internalID: 8896665536521261160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_hoe_8
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 76
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5e125e0cbcb5c70800000000000000
+      internalID: 8960979912922097118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_hoe_9
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 77
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77234fb4b5a036b40800000000000000
+      internalID: 5432196962771546743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_hoe_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 44
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14e5774bc428b5a0800000000000000
+      internalID: -6505409206240812006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_hoe_11
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 44
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd934228ea945db90800000000000000
+      internalID: -7217781813934802467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_hoe_12
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 44
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49dc438600148c770800000000000000
+      internalID: 8631220155859651988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_hoe_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 44
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931f2e31814518960800000000000000
+      internalID: 7602450108367696185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_hoe_14
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 44
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7040e9d69b746c890800000000000000
+      internalID: -7438178872822201337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_hoe_15
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 12
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d42662a9f701d870800000000000000
+      internalID: 8705748323436733655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_hoe_16
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 12
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8afa90c338ea29f30800000000000000
+      internalID: 4580915649660432296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_hoe_17
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 12
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964d49e9503da2df0800000000000000
+      internalID: -204118812003085207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_hoe_18
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 12
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e9f454ad606f2a0800000000000000
+      internalID: -6704163460758921665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_hoe_19
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 12
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57826a7fa84d23750800000000000000
+      internalID: 6283318123460700277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hat_lucky_hoe_0: -8378106646964854170
+      hat_lucky_hoe_1: 8612354627759598984
+      hat_lucky_hoe_10: -6505409206240812006
+      hat_lucky_hoe_11: -7217781813934802467
+      hat_lucky_hoe_12: 8631220155859651988
+      hat_lucky_hoe_13: 7602450108367696185
+      hat_lucky_hoe_14: -7438178872822201337
+      hat_lucky_hoe_15: 8705748323436733655
+      hat_lucky_hoe_16: 4580915649660432296
+      hat_lucky_hoe_17: -204118812003085207
+      hat_lucky_hoe_18: -6704163460758921665
+      hat_lucky_hoe_19: 6283318123460700277
+      hat_lucky_hoe_2: -1390733522104464416
+      hat_lucky_hoe_3: 4435002175128175463
+      hat_lucky_hoe_4: -8714780132181452234
+      hat_lucky_hoe_5: 769604029310703303
+      hat_lucky_hoe_6: 8613329648939496183
+      hat_lucky_hoe_7: 8896665536521261160
+      hat_lucky_hoe_8: 8960979912922097118
+      hat_lucky_hoe_9: 5432196962771546743
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

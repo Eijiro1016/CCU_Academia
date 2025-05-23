@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: f8d505f4fd3169e4f8699b7d39af8d60
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5625205598572758301
+    second: mask_spooky_carry_0
+  - first:
+      213: -4939069889119958321
+    second: mask_spooky_carry_1
+  - first:
+      213: -8171083754391148835
+    second: mask_spooky_carry_2
+  - first:
+      213: -3346522060670606234
+    second: mask_spooky_carry_3
+  - first:
+      213: -1216430130382981715
+    second: mask_spooky_carry_4
+  - first:
+      213: -1418051973144376382
+    second: mask_spooky_carry_5
+  - first:
+      213: 2207651741791192986
+    second: mask_spooky_carry_6
+  - first:
+      213: -3556754012156623573
+    second: mask_spooky_carry_7
+  - first:
+      213: 6935275362818603430
+    second: mask_spooky_carry_8
+  - first:
+      213: -240141777441271977
+    second: mask_spooky_carry_9
+  - first:
+      213: 4646794622629342670
+    second: mask_spooky_carry_10
+  - first:
+      213: -5049798582154771785
+    second: mask_spooky_carry_11
+  - first:
+      213: 7762197806486427943
+    second: mask_spooky_carry_12
+  - first:
+      213: 305002210274637307
+    second: mask_spooky_carry_13
+  - first:
+      213: -3642492794901713326
+    second: mask_spooky_carry_14
+  - first:
+      213: -4714992546183228973
+    second: mask_spooky_carry_15
+  - first:
+      213: 5787838811362140198
+    second: mask_spooky_carry_16
+  - first:
+      213: -7740298774709230938
+    second: mask_spooky_carry_17
+  - first:
+      213: 6832466317342595521
+    second: mask_spooky_carry_18
+  - first:
+      213: 3570944202291420665
+    second: mask_spooky_carry_19
+  - first:
+      213: 5246985721247101497
+    second: mask_spooky_carry_20
+  - first:
+      213: -4105166378608870488
+    second: mask_spooky_carry_21
+  - first:
+      213: 927323598936118063
+    second: mask_spooky_carry_22
+  - first:
+      213: -7206250165624819386
+    second: mask_spooky_carry_23
+  - first:
+      213: 5096072405699330683
+    second: mask_spooky_carry_24
+  - first:
+      213: -7510597064614494708
+    second: mask_spooky_carry_25
+  - first:
+      213: -7131928672575781106
+    second: mask_spooky_carry_26
+  - first:
+      213: 2318834756143427434
+    second: mask_spooky_carry_27
+  - first:
+      213: 3341236485647179323
+    second: mask_spooky_carry_28
+  - first:
+      213: -4646558272114528523
+    second: mask_spooky_carry_29
+  - first:
+      213: 5204802032621721798
+    second: mask_spooky_carry_30
+  - first:
+      213: -4454350434179223948
+    second: mask_spooky_carry_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mask_spooky_carry_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 100
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea388ccf414fe1b0800000000000000
+      internalID: -5625205598572758301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_carry_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 101
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca4d2aaa16e47bb0800000000000000
+      internalID: -4939069889119958321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_carry_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 102
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6ec8d1e9a7a9e80800000000000000
+      internalID: -8171083754391148835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_carry_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 100
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66468bc9ae3ce81d0800000000000000
+      internalID: -3346522060670606234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_carry_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 100
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5b078cd3f5e1fe0800000000000000
+      internalID: -1216430130382981715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_carry_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 101
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb00bb5e31125ce0800000000000000
+      internalID: -1418051973144376382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_carry_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 102
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a978c31009723ae10800000000000000
+      internalID: 2207651741791192986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_carry_7
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 100
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2585f7021fd3aec0800000000000000
+      internalID: -3556754012156623573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_carry_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 72
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a93254a23c0f3060800000000000000
+      internalID: 6935275362818603430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_carry_9
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 73
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75fc1e36358daacf0800000000000000
+      internalID: -240141777441271977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_carry_10
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 74
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd640ae61bbc7040800000000000000
+      internalID: 4646794622629342670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_carry_11
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 72
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2c46bc1f28be9b0800000000000000
+      internalID: -5049798582154771785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_carry_12
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 72
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72990f377cdd8bb60800000000000000
+      internalID: 7762197806486427943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_carry_13
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 73
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf5f02fe4e59b3400800000000000000
+      internalID: 305002210274637307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_carry_14
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 74
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ea6fe0a14437dc0800000000000000
+      internalID: -3642492794901713326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_carry_15
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 72
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d15226a24bf09eb0800000000000000
+      internalID: -4714992546183228973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_carry_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 36
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620a570dbb8825050800000000000000
+      internalID: 5787838811362140198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_carry_17
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 37
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2a016364fe49490800000000000000
+      internalID: -7740298774709230938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_carry_18
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 38
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9d6096aebc1de50800000000000000
+      internalID: 6832466317342595521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_carry_19
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 36
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd125215da8e8130800000000000000
+      internalID: 3570944202291420665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_carry_20
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 36
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932fa78b6b901d840800000000000000
+      internalID: 5246985721247101497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_carry_21
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 37
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab3423cde48707c0800000000000000
+      internalID: -4105166378608870488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_carry_22
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 38
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f239c6a66e38edc00800000000000000
+      internalID: 927323598936118063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_carry_23
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 36
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641355b97a14efb90800000000000000
+      internalID: -7206250165624819386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_carry_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 4
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7201635ad2e8b640800000000000000
+      internalID: 5096072405699330683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_carry_25
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 5
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ebf8833cff4c790800000000000000
+      internalID: -7510597064614494708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_carry_26
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 6
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0782bba8ac460d90800000000000000
+      internalID: -7131928672575781106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_carry_27
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 4
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f22cccce72e2020800000000000000
+      internalID: 2318834756143427434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_carry_28
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 4
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e139d81e47e5e20800000000000000
+      internalID: 3341236485647179323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_carry_29
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 5
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fee57abedb148fb0800000000000000
+      internalID: -4646558272114528523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_carry_30
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 6
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c816a85fdb2b3840800000000000000
+      internalID: 5204802032621721798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_spooky_carry_31
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 4
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ee3a951e7fe22c0800000000000000
+      internalID: -4454350434179223948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mask_spooky_carry_0: -5625205598572758301
+      mask_spooky_carry_1: -4939069889119958321
+      mask_spooky_carry_10: 4646794622629342670
+      mask_spooky_carry_11: -5049798582154771785
+      mask_spooky_carry_12: 7762197806486427943
+      mask_spooky_carry_13: 305002210274637307
+      mask_spooky_carry_14: -3642492794901713326
+      mask_spooky_carry_15: -4714992546183228973
+      mask_spooky_carry_16: 5787838811362140198
+      mask_spooky_carry_17: -7740298774709230938
+      mask_spooky_carry_18: 6832466317342595521
+      mask_spooky_carry_19: 3570944202291420665
+      mask_spooky_carry_2: -8171083754391148835
+      mask_spooky_carry_20: 5246985721247101497
+      mask_spooky_carry_21: -4105166378608870488
+      mask_spooky_carry_22: 927323598936118063
+      mask_spooky_carry_23: -7206250165624819386
+      mask_spooky_carry_24: 5096072405699330683
+      mask_spooky_carry_25: -7510597064614494708
+      mask_spooky_carry_26: -7131928672575781106
+      mask_spooky_carry_27: 2318834756143427434
+      mask_spooky_carry_28: 3341236485647179323
+      mask_spooky_carry_29: -4646558272114528523
+      mask_spooky_carry_3: -3346522060670606234
+      mask_spooky_carry_30: 5204802032621721798
+      mask_spooky_carry_31: -4454350434179223948
+      mask_spooky_carry_4: -1216430130382981715
+      mask_spooky_carry_5: -1418051973144376382
+      mask_spooky_carry_6: 2207651741791192986
+      mask_spooky_carry_7: -3556754012156623573
+      mask_spooky_carry_8: 6935275362818603430
+      mask_spooky_carry_9: -240141777441271977
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: 69733c02d466b2a408f85e0704031772
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8123354531689578396
+    second: frenchcurl_die_0
+  - first:
+      213: -6972036491700704153
+    second: frenchcurl_die_1
+  - first:
+      213: -9135249776612912467
+    second: frenchcurl_die_2
+  - first:
+      213: -4758407706336711647
+    second: frenchcurl_die_3
+  - first:
+      213: 5732276543008645450
+    second: frenchcurl_die_4
+  - first:
+      213: 894175155477370516
+    second: frenchcurl_die_5
+  - first:
+      213: -5313716120093483117
+    second: frenchcurl_die_6
+  - first:
+      213: -5983651994812291381
+    second: frenchcurl_die_7
+  - first:
+      213: -311479620992067885
+    second: frenchcurl_die_8
+  - first:
+      213: -3880811964035218375
+    second: frenchcurl_die_9
+  - first:
+      213: 1522567370515924107
+    second: frenchcurl_die_10
+  - first:
+      213: -1548230277790951838
+    second: frenchcurl_die_11
+  - first:
+      213: 5405231750211302397
+    second: frenchcurl_die_12
+  - first:
+      213: -8196483584836161309
+    second: frenchcurl_die_13
+  - first:
+      213: 7924697935829156135
+    second: frenchcurl_die_14
+  - first:
+      213: -4965427569124031257
+    second: frenchcurl_die_15
+  - first:
+      213: 2942048111942862105
+    second: frenchcurl_die_16
+  - first:
+      213: 847947044774061550
+    second: frenchcurl_die_17
+  - first:
+      213: -7547013898893822901
+    second: frenchcurl_die_18
+  - first:
+      213: -7075624632441765621
+    second: frenchcurl_die_19
+  - first:
+      213: -7939771811454749320
+    second: frenchcurl_die_20
+  - first:
+      213: -3154141031358422347
+    second: frenchcurl_die_21
+  - first:
+      213: -8496684230543551901
+    second: frenchcurl_die_22
+  - first:
+      213: -4035975563983725367
+    second: frenchcurl_die_23
+  - first:
+      213: 4251415057082243170
+    second: frenchcurl_die_24
+  - first:
+      213: 2145621635867484785
+    second: frenchcurl_die_25
+  - first:
+      213: -6319810366979457865
+    second: frenchcurl_die_26
+  - first:
+      213: 1253516626201179053
+    second: frenchcurl_die_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: frenchcurl_die_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4604512c71c044f80800000000000000
+      internalID: -8123354531689578396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frenchcurl_die_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c6e1f00c95e3f90800000000000000
+      internalID: -6972036491700704153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frenchcurl_die_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da255829ab2193180800000000000000
+      internalID: -9135249776612912467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frenchcurl_die_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ca157f66db6fdb0800000000000000
+      internalID: -4758407706336711647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frenchcurl_die_4
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41a55c15232d8f40800000000000000
+      internalID: 5732276543008645450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frenchcurl_die_5
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 0
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496553df09fb86c00800000000000000
+      internalID: 894175155477370516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frenchcurl_die_6
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 0
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f9f809753e146b0800000000000000
+      internalID: -5313716120093483117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frenchcurl_die_7
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6e7a5a63cc5fca0800000000000000
+      internalID: -5983651994812291381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frenchcurl_die_8
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 0
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d69efb5fe66dabf0800000000000000
+      internalID: -311479620992067885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frenchcurl_die_9
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 0
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93448938416942ac0800000000000000
+      internalID: -3880811964035218375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frenchcurl_die_10
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84c332e4fe312510800000000000000
+      internalID: 1522567370515924107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frenchcurl_die_11
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 0
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26614c5e3c4938ae0800000000000000
+      internalID: -1548230277790951838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frenchcurl_die_12
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 0
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3f10083ad330b40800000000000000
+      internalID: 5405231750211302397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frenchcurl_die_13
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 0
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0358e3b9d304e80800000000000000
+      internalID: -8196483584836161309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frenchcurl_die_14
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 0
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7214e5929ce2afd60800000000000000
+      internalID: 7924697935829156135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frenchcurl_die_15
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 0
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e44e601fe1471bb0800000000000000
+      internalID: -4965427569124031257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frenchcurl_die_16
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 0
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91586709b2144d820800000000000000
+      internalID: 2942048111942862105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frenchcurl_die_17
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 0
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5a918385384cb00800000000000000
+      internalID: 847947044774061550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frenchcurl_die_18
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 0
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b447f7148de934790800000000000000
+      internalID: -7547013898893822901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frenchcurl_die_19
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 0
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b010e4392e45ecd90800000000000000
+      internalID: -7075624632441765621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frenchcurl_die_20
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 0
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875749caa9340d190800000000000000
+      internalID: -7939771811454749320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frenchcurl_die_21
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 0
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2a56e717d3a34d0800000000000000
+      internalID: -3154141031358422347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frenchcurl_die_22
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 0
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362d9cda5b6b51a80800000000000000
+      internalID: -8496684230543551901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frenchcurl_die_23
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 0
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ccd79aab955df7c0800000000000000
+      internalID: -4035975563983725367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frenchcurl_die_24
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 0
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268522e287f000b30800000000000000
+      internalID: 4251415057082243170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frenchcurl_die_25
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 0
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17226448287c6cd10800000000000000
+      internalID: 2145621635867484785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frenchcurl_die_26
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 0
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bcbb5c74f58b48a0800000000000000
+      internalID: -6319810366979457865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frenchcurl_die_27
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 0
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da374c8eab2656110800000000000000
+      internalID: 1253516626201179053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      frenchcurl_die_0: -8123354531689578396
+      frenchcurl_die_1: -6972036491700704153
+      frenchcurl_die_10: 1522567370515924107
+      frenchcurl_die_11: -1548230277790951838
+      frenchcurl_die_12: 5405231750211302397
+      frenchcurl_die_13: -8196483584836161309
+      frenchcurl_die_14: 7924697935829156135
+      frenchcurl_die_15: -4965427569124031257
+      frenchcurl_die_16: 2942048111942862105
+      frenchcurl_die_17: 847947044774061550
+      frenchcurl_die_18: -7547013898893822901
+      frenchcurl_die_19: -7075624632441765621
+      frenchcurl_die_2: -9135249776612912467
+      frenchcurl_die_20: -7939771811454749320
+      frenchcurl_die_21: -3154141031358422347
+      frenchcurl_die_22: -8496684230543551901
+      frenchcurl_die_23: -4035975563983725367
+      frenchcurl_die_24: 4251415057082243170
+      frenchcurl_die_25: 2145621635867484785
+      frenchcurl_die_26: -6319810366979457865
+      frenchcurl_die_27: 1253516626201179053
+      frenchcurl_die_3: -4758407706336711647
+      frenchcurl_die_4: 5732276543008645450
+      frenchcurl_die_5: 894175155477370516
+      frenchcurl_die_6: -5313716120093483117
+      frenchcurl_die_7: -5983651994812291381
+      frenchcurl_die_8: -311479620992067885
+      frenchcurl_die_9: -3880811964035218375
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

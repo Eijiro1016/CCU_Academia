@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: bdea4350660fe4a4e8eddffe8bcb5d14
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -656433301290393038
+    second: mask_clown_red_hoe_0
+  - first:
+      213: 2695127981897375144
+    second: mask_clown_red_hoe_1
+  - first:
+      213: 5025737034393732552
+    second: mask_clown_red_hoe_2
+  - first:
+      213: -1431823826060126521
+    second: mask_clown_red_hoe_3
+  - first:
+      213: 7273533414592414527
+    second: mask_clown_red_hoe_4
+  - first:
+      213: 7806780378576458041
+    second: mask_clown_red_hoe_5
+  - first:
+      213: 3033415511264228190
+    second: mask_clown_red_hoe_6
+  - first:
+      213: -4050246069519352437
+    second: mask_clown_red_hoe_7
+  - first:
+      213: -6605809211496609363
+    second: mask_clown_red_hoe_8
+  - first:
+      213: -4386566311707565784
+    second: mask_clown_red_hoe_9
+  - first:
+      213: 3295841940213514854
+    second: mask_clown_red_hoe_10
+  - first:
+      213: 7579069004650489235
+    second: mask_clown_red_hoe_11
+  - first:
+      213: 8712416622360428500
+    second: mask_clown_red_hoe_12
+  - first:
+      213: -2506953204702883438
+    second: mask_clown_red_hoe_13
+  - first:
+      213: 3889983461023465656
+    second: mask_clown_red_hoe_14
+  - first:
+      213: 6394243670036398380
+    second: mask_clown_red_hoe_15
+  - first:
+      213: 7894756234685416726
+    second: mask_clown_red_hoe_16
+  - first:
+      213: -5427414136301963060
+    second: mask_clown_red_hoe_17
+  - first:
+      213: -3455072132749344860
+    second: mask_clown_red_hoe_18
+  - first:
+      213: -8301424161729805881
+    second: mask_clown_red_hoe_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mask_clown_red_hoe_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 111
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23269d1f361e3e6f0800000000000000
+      internalID: -656433301290393038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_red_hoe_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 108
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad5531ce94076520800000000000000
+      internalID: 2695127981897375144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_red_hoe_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 107
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5409d84310fb540800000000000000
+      internalID: 5025737034393732552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_red_hoe_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 108
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6debaf0d3212ce0800000000000000
+      internalID: -1431823826060126521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_red_hoe_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 107
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3307be8a18c0f460800000000000000
+      internalID: 7273533414592414527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_red_hoe_5
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 71
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9311a886461475c60800000000000000
+      internalID: 7806780378576458041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_red_hoe_6
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 72
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e537015f55bd81a20800000000000000
+      internalID: 3033415511264228190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_red_hoe_7
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 73
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d706da8a2aac7c0800000000000000
+      internalID: -4050246069519352437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_red_hoe_8
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 72
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9cdbe65837354a0800000000000000
+      internalID: -6605809211496609363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_red_hoe_9
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 73
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821a9f63e29cf13c0800000000000000
+      internalID: -4386566311707565784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_red_hoe_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 39
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662c24258ce2dbd20800000000000000
+      internalID: 3295841940213514854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_red_hoe_11
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395ad56aa134e2960800000000000000
+      internalID: 7579069004650489235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_red_hoe_12
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 40
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df7007f1c8b8e870800000000000000
+      internalID: 8712416622360428500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_red_hoe_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 40
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291582db753853dd0800000000000000
+      internalID: -2506953204702883438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_red_hoe_14
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 40
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0c278095ffbf530800000000000000
+      internalID: 3889983461023465656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_red_hoe_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 7
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c214fcf5dbaecb850800000000000000
+      internalID: 6394243670036398380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_red_hoe_16
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 8
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61589bc97fecf8d60800000000000000
+      internalID: 7894756234685416726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_red_hoe_17
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 8
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8b9c44993fda4b0800000000000000
+      internalID: -5427414136301963060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_red_hoe_18
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 8
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4afbf16733e1d00d0800000000000000
+      internalID: -3455072132749344860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mask_clown_red_hoe_19
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 8
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1004e25ba6bcc80800000000000000
+      internalID: -8301424161729805881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mask_clown_red_hoe_0: -656433301290393038
+      mask_clown_red_hoe_1: 2695127981897375144
+      mask_clown_red_hoe_10: 3295841940213514854
+      mask_clown_red_hoe_11: 7579069004650489235
+      mask_clown_red_hoe_12: 8712416622360428500
+      mask_clown_red_hoe_13: -2506953204702883438
+      mask_clown_red_hoe_14: 3889983461023465656
+      mask_clown_red_hoe_15: 6394243670036398380
+      mask_clown_red_hoe_16: 7894756234685416726
+      mask_clown_red_hoe_17: -5427414136301963060
+      mask_clown_red_hoe_18: -3455072132749344860
+      mask_clown_red_hoe_19: -8301424161729805881
+      mask_clown_red_hoe_2: 5025737034393732552
+      mask_clown_red_hoe_3: -1431823826060126521
+      mask_clown_red_hoe_4: 7273533414592414527
+      mask_clown_red_hoe_5: 7806780378576458041
+      mask_clown_red_hoe_6: 3033415511264228190
+      mask_clown_red_hoe_7: -4050246069519352437
+      mask_clown_red_hoe_8: -6605809211496609363
+      mask_clown_red_hoe_9: -4386566311707565784
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

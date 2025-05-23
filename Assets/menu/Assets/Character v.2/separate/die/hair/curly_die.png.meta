@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: 4d01ea957094cdb4ca26d35248de877b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4082373009734958710
+    second: curly_die_0
+  - first:
+      213: -7256267744960311639
+    second: curly_die_1
+  - first:
+      213: 1153996862943197937
+    second: curly_die_2
+  - first:
+      213: -595039226863873494
+    second: curly_die_3
+  - first:
+      213: 4679069084639511910
+    second: curly_die_4
+  - first:
+      213: -8976205915083556808
+    second: curly_die_5
+  - first:
+      213: -3600881937011172176
+    second: curly_die_6
+  - first:
+      213: 5273704905593856334
+    second: curly_die_7
+  - first:
+      213: -638117899207305651
+    second: curly_die_8
+  - first:
+      213: 7562678092023616658
+    second: curly_die_9
+  - first:
+      213: -426458022764124593
+    second: curly_die_10
+  - first:
+      213: 4040869005469038829
+    second: curly_die_11
+  - first:
+      213: -5326944603959737092
+    second: curly_die_12
+  - first:
+      213: 5762252357321110403
+    second: curly_die_13
+  - first:
+      213: -4944088826059863263
+    second: curly_die_14
+  - first:
+      213: 4995262094798655443
+    second: curly_die_15
+  - first:
+      213: -705428465566528931
+    second: curly_die_16
+  - first:
+      213: -4748076795439118022
+    second: curly_die_17
+  - first:
+      213: 3282744833318486916
+    second: curly_die_18
+  - first:
+      213: -317187355329553427
+    second: curly_die_19
+  - first:
+      213: 5679140065480305592
+    second: curly_die_20
+  - first:
+      213: -8394955917239815633
+    second: curly_die_21
+  - first:
+      213: 114131944237630197
+    second: curly_die_22
+  - first:
+      213: 7800534575532488799
+    second: curly_die_23
+  - first:
+      213: -3932309260536440008
+    second: curly_die_24
+  - first:
+      213: 6981005417171557791
+    second: curly_die_25
+  - first:
+      213: -6253313049192155727
+    second: curly_die_26
+  - first:
+      213: 1300807237245833510
+    second: curly_die_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: curly_die_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 0
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ef4ed7f9087a830800000000000000
+      internalID: 4082373009734958710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curly_die_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae048a6eee8c4b90800000000000000
+      internalID: -7256267744960311639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curly_die_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 0
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1faf4af5802d30010800000000000000
+      internalID: 1153996862943197937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curly_die_3
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 0
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a221b5fc9fefdb7f0800000000000000
+      internalID: -595039226863873494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curly_die_4
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 0
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665437daa846fe040800000000000000
+      internalID: 4679069084639511910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curly_die_5
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 0
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8383fa8374c1e6380800000000000000
+      internalID: -8976205915083556808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curly_die_6
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 0
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc1452e4f8170ec0800000000000000
+      internalID: -3600881937011172176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curly_die_7
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 0
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41282c9ba6ff2940800000000000000
+      internalID: 5273704905593856334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curly_die_8
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 0
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d461eecc623f427f0800000000000000
+      internalID: -638117899207305651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curly_die_9
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 0
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29452b9e7a704f860800000000000000
+      internalID: 7562678092023616658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curly_die_10
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 0
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46678110bae41af0800000000000000
+      internalID: -426458022764124593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curly_die_11
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 0
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de83ed673fc041830800000000000000
+      internalID: 4040869005469038829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curly_die_12
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 0
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4cbc62b14e216b0800000000000000
+      internalID: -5326944603959737092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curly_die_13
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 0
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38338404df1a7ff40800000000000000
+      internalID: 5762252357321110403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curly_die_14
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 0
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b49b85861136bb0800000000000000
+      internalID: -4944088826059863263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curly_die_15
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 0
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df8270c86cb25540800000000000000
+      internalID: 4995262094798655443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curly_die_16
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 0
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a457f4c80d536f0800000000000000
+      internalID: -705428465566528931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curly_die_17
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 0
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3983999f417b1eb0800000000000000
+      internalID: -4748076795439118022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curly_die_18
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 0
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483823e7807ae8d20800000000000000
+      internalID: 3282744833318486916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curly_die_19
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 0
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb1656e7cf199bf0800000000000000
+      internalID: -317187355329553427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curly_die_20
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 0
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb64a8dccb50de40800000000000000
+      internalID: 5679140065480305592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curly_die_21
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 0
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f227bd752102f7b80800000000000000
+      internalID: -8394955917239815633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curly_die_22
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 0
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f20fc9066a759100800000000000000
+      internalID: 114131944237630197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curly_die_23
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 0
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5834c01ed0114c60800000000000000
+      internalID: 7800534575532488799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curly_die_24
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 0
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b1fb2df81ad69c0800000000000000
+      internalID: -3932309260536440008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curly_die_25
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 0
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d9691a07381e060800000000000000
+      internalID: 6981005417171557791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curly_die_26
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 0
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b53699c9e4c739a0800000000000000
+      internalID: -6253313049192155727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: curly_die_27
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 0
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6219b415a456d0210800000000000000
+      internalID: 1300807237245833510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      curly_die_0: 4082373009734958710
+      curly_die_1: -7256267744960311639
+      curly_die_10: -426458022764124593
+      curly_die_11: 4040869005469038829
+      curly_die_12: -5326944603959737092
+      curly_die_13: 5762252357321110403
+      curly_die_14: -4944088826059863263
+      curly_die_15: 4995262094798655443
+      curly_die_16: -705428465566528931
+      curly_die_17: -4748076795439118022
+      curly_die_18: 3282744833318486916
+      curly_die_19: -317187355329553427
+      curly_die_2: 1153996862943197937
+      curly_die_20: 5679140065480305592
+      curly_die_21: -8394955917239815633
+      curly_die_22: 114131944237630197
+      curly_die_23: 7800534575532488799
+      curly_die_24: -3932309260536440008
+      curly_die_25: 6981005417171557791
+      curly_die_26: -6253313049192155727
+      curly_die_27: 1300807237245833510
+      curly_die_3: -595039226863873494
+      curly_die_4: 4679069084639511910
+      curly_die_5: -8976205915083556808
+      curly_die_6: -3600881937011172176
+      curly_die_7: 5273704905593856334
+      curly_die_8: -638117899207305651
+      curly_die_9: 7562678092023616658
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

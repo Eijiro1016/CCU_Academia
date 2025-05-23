@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: 939d9af17976c954c836a80010e7df8a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1943418445498140504
+    second: buzzcut_die_0
+  - first:
+      213: 4684104333612949240
+    second: buzzcut_die_1
+  - first:
+      213: -6739885090352855820
+    second: buzzcut_die_2
+  - first:
+      213: 3885587051722273673
+    second: buzzcut_die_3
+  - first:
+      213: -9016045675185232203
+    second: buzzcut_die_4
+  - first:
+      213: -7915588473178510026
+    second: buzzcut_die_5
+  - first:
+      213: 5556042581518088736
+    second: buzzcut_die_6
+  - first:
+      213: 7511624104853031327
+    second: buzzcut_die_7
+  - first:
+      213: 41507852474897193
+    second: buzzcut_die_8
+  - first:
+      213: 901131495483258090
+    second: buzzcut_die_9
+  - first:
+      213: -6985665743159835649
+    second: buzzcut_die_10
+  - first:
+      213: -297029563679692918
+    second: buzzcut_die_11
+  - first:
+      213: 8091596009697035982
+    second: buzzcut_die_12
+  - first:
+      213: 3881365787079115147
+    second: buzzcut_die_13
+  - first:
+      213: 3863866465599714707
+    second: buzzcut_die_14
+  - first:
+      213: -119666932756145573
+    second: buzzcut_die_15
+  - first:
+      213: -5414960561519867565
+    second: buzzcut_die_16
+  - first:
+      213: 9006331784724216767
+    second: buzzcut_die_17
+  - first:
+      213: -2709860891463338374
+    second: buzzcut_die_18
+  - first:
+      213: -7575351566717590765
+    second: buzzcut_die_19
+  - first:
+      213: -3800991772783424017
+    second: buzzcut_die_20
+  - first:
+      213: -7109308907749480618
+    second: buzzcut_die_21
+  - first:
+      213: -3738085967675055166
+    second: buzzcut_die_22
+  - first:
+      213: 7354443169435287388
+    second: buzzcut_die_23
+  - first:
+      213: 3540668900841832278
+    second: buzzcut_die_24
+  - first:
+      213: 9119169647623388533
+    second: buzzcut_die_25
+  - first:
+      213: -1362719149136453852
+    second: buzzcut_die_26
+  - first:
+      213: 6184378775157099468
+    second: buzzcut_die_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: buzzcut_die_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 0
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8342278379705e0800000000000000
+      internalID: -1943418445498140504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzcut_die_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 0
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe1edfe218410140800000000000000
+      internalID: 4684104333612949240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzcut_die_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f40192483e1772a0800000000000000
+      internalID: -6739885090352855820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzcut_die_3
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 0
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98373c936d06ce530800000000000000
+      internalID: 3885587051722273673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzcut_die_4
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 0
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b623eb3a3290e280800000000000000
+      internalID: -9016045675185232203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzcut_die_5
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63da404e83e262290800000000000000
+      internalID: -7915588473178510026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzcut_die_6
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 0
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a745c6a470b1d40800000000000000
+      internalID: 5556042581518088736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzcut_die_7
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 0
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99c6083356ae3860800000000000000
+      internalID: 7511624104853031327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzcut_die_8
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 0
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923d7220c27739000800000000000000
+      internalID: 41507852474897193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzcut_die_9
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 0
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4323c1256718c00800000000000000
+      internalID: 901131495483258090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzcut_die_10
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff3c75ba40eed0f90800000000000000
+      internalID: -6985665743159835649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzcut_die_11
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 0
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8725118f2db0ebf0800000000000000
+      internalID: -297029563679692918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzcut_die_12
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 0
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6c5ff13bf1b4070800000000000000
+      internalID: 8091596009697035982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzcut_die_13
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 0
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8184367e916dd530800000000000000
+      internalID: 3881365787079115147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzcut_die_14
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 0
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3957d9d24163f9530800000000000000
+      internalID: 3863866465599714707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzcut_die_15
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a95b50f8bd65ef0800000000000000
+      internalID: -119666932756145573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzcut_die_16
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 0
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359cbd91f023ad4b0800000000000000
+      internalID: -5414960561519867565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzcut_die_17
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 0
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbbfbc56a0becfc70800000000000000
+      internalID: 9006331784724216767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzcut_die_18
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 0
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76ba9d60e3a46ad0800000000000000
+      internalID: -2709860891463338374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzcut_die_19
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 0
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3136911d2e1fed690800000000000000
+      internalID: -7575351566717590765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzcut_die_20
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 0
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fedcf050f1a204bc0800000000000000
+      internalID: -3800991772783424017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzcut_die_21
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 0
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65762131739a65d90800000000000000
+      internalID: -7109308907749480618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzcut_die_22
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 0
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c32bdc1e96af1cc0800000000000000
+      internalID: -3738085967675055166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzcut_die_23
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 0
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ffcfad81b301660800000000000000
+      internalID: 7354443169435287388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzcut_die_24
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 0
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f33f52b9bf22130800000000000000
+      internalID: 3540668900841832278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzcut_die_25
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 0
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57dbd15aa7ccd8e70800000000000000
+      internalID: 9119169647623388533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzcut_die_26
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 0
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f59136726a61de0800000000000000
+      internalID: -1362719149136453852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buzzcut_die_27
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 0
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb44b1dab353d550800000000000000
+      internalID: 6184378775157099468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      buzzcut_die_0: -1943418445498140504
+      buzzcut_die_1: 4684104333612949240
+      buzzcut_die_10: -6985665743159835649
+      buzzcut_die_11: -297029563679692918
+      buzzcut_die_12: 8091596009697035982
+      buzzcut_die_13: 3881365787079115147
+      buzzcut_die_14: 3863866465599714707
+      buzzcut_die_15: -119666932756145573
+      buzzcut_die_16: -5414960561519867565
+      buzzcut_die_17: 9006331784724216767
+      buzzcut_die_18: -2709860891463338374
+      buzzcut_die_19: -7575351566717590765
+      buzzcut_die_2: -6739885090352855820
+      buzzcut_die_20: -3800991772783424017
+      buzzcut_die_21: -7109308907749480618
+      buzzcut_die_22: -3738085967675055166
+      buzzcut_die_23: 7354443169435287388
+      buzzcut_die_24: 3540668900841832278
+      buzzcut_die_25: 9119169647623388533
+      buzzcut_die_26: -1362719149136453852
+      buzzcut_die_27: 6184378775157099468
+      buzzcut_die_3: 3885587051722273673
+      buzzcut_die_4: -9016045675185232203
+      buzzcut_die_5: -7915588473178510026
+      buzzcut_die_6: 5556042581518088736
+      buzzcut_die_7: 7511624104853031327
+      buzzcut_die_8: 41507852474897193
+      buzzcut_die_9: 901131495483258090
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

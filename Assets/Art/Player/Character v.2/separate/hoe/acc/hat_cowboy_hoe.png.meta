@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 262fd0339c19d0944bcb445c2e87b713
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2022101951600384295
+    second: hat_cowboy_hoe_0
+  - first:
+      213: 2263186485776509693
+    second: hat_cowboy_hoe_1
+  - first:
+      213: 1867892118826706043
+    second: hat_cowboy_hoe_2
+  - first:
+      213: 6641096535279977687
+    second: hat_cowboy_hoe_3
+  - first:
+      213: -405820225379219254
+    second: hat_cowboy_hoe_4
+  - first:
+      213: -6343718899767345508
+    second: hat_cowboy_hoe_5
+  - first:
+      213: 2780119551810592781
+    second: hat_cowboy_hoe_6
+  - first:
+      213: 8391597613136129294
+    second: hat_cowboy_hoe_7
+  - first:
+      213: -4828374657462747701
+    second: hat_cowboy_hoe_8
+  - first:
+      213: -6515094584838520955
+    second: hat_cowboy_hoe_9
+  - first:
+      213: -2684956480461375868
+    second: hat_cowboy_hoe_10
+  - first:
+      213: 7099660090734154002
+    second: hat_cowboy_hoe_11
+  - first:
+      213: -2704481638921975643
+    second: hat_cowboy_hoe_12
+  - first:
+      213: 421071028675972503
+    second: hat_cowboy_hoe_13
+  - first:
+      213: 191963346141489587
+    second: hat_cowboy_hoe_14
+  - first:
+      213: 4204239695896824121
+    second: hat_cowboy_hoe_15
+  - first:
+      213: -7535414298074854481
+    second: hat_cowboy_hoe_16
+  - first:
+      213: 7793441110035904389
+    second: hat_cowboy_hoe_17
+  - first:
+      213: -4249561654570739542
+    second: hat_cowboy_hoe_18
+  - first:
+      213: -3793459706646908515
+    second: hat_cowboy_hoe_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hat_cowboy_hoe_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 115
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729d3cce203ff0c10800000000000000
+      internalID: 2022101951600384295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_cowboy_hoe_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 114
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa6c213e14786f10800000000000000
+      internalID: 2263186485776509693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_cowboy_hoe_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 113
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74ea6d4cf51ce910800000000000000
+      internalID: 1867892118826706043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_cowboy_hoe_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 114
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4c070ec1ae92c50800000000000000
+      internalID: 6641096535279977687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_cowboy_hoe_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 113
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac84a97b7ac3e5af0800000000000000
+      internalID: -405820225379219254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_cowboy_hoe_5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 75
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e7f68654596f7a0800000000000000
+      internalID: -6343718899767345508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_cowboy_hoe_6
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 76
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00e9cea008f49620800000000000000
+      internalID: 2780119551810592781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_cowboy_hoe_7
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 77
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0daefc8191f47470800000000000000
+      internalID: 8391597613136129294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_cowboy_hoe_8
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 76
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd3f63b4da2efcb0800000000000000
+      internalID: -4828374657462747701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_cowboy_hoe_9
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 77
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ff0a85efbb595a0800000000000000
+      internalID: -6515094584838520955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_cowboy_hoe_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 44
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48677b87e4e1dbad0800000000000000
+      internalID: -2684956480461375868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_cowboy_hoe_11
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 44
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2111a36ac3f078260800000000000000
+      internalID: 7099660090734154002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_cowboy_hoe_12
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 44
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a84d724740c77ad0800000000000000
+      internalID: -2704481638921975643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_cowboy_hoe_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 44
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d8071aed1f7d500800000000000000
+      internalID: 421071028675972503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_cowboy_hoe_14
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 44
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9a8a075adf9a200800000000000000
+      internalID: 191963346141489587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_cowboy_hoe_15
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 12
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939c6887ab5785a30800000000000000
+      internalID: 4204239695896824121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_cowboy_hoe_16
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 12
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab49d7ce94dc6790800000000000000
+      internalID: -7535414298074854481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_cowboy_hoe_17
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 12
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587bd9de56dd72c60800000000000000
+      internalID: 7793441110035904389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_cowboy_hoe_18
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 12
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa89038b0368605c0800000000000000
+      internalID: -4249561654570739542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_cowboy_hoe_19
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 12
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91bd83de7cea5bc0800000000000000
+      internalID: -3793459706646908515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hat_cowboy_hoe_0: 2022101951600384295
+      hat_cowboy_hoe_1: 2263186485776509693
+      hat_cowboy_hoe_10: -2684956480461375868
+      hat_cowboy_hoe_11: 7099660090734154002
+      hat_cowboy_hoe_12: -2704481638921975643
+      hat_cowboy_hoe_13: 421071028675972503
+      hat_cowboy_hoe_14: 191963346141489587
+      hat_cowboy_hoe_15: 4204239695896824121
+      hat_cowboy_hoe_16: -7535414298074854481
+      hat_cowboy_hoe_17: 7793441110035904389
+      hat_cowboy_hoe_18: -4249561654570739542
+      hat_cowboy_hoe_19: -3793459706646908515
+      hat_cowboy_hoe_2: 1867892118826706043
+      hat_cowboy_hoe_3: 6641096535279977687
+      hat_cowboy_hoe_4: -405820225379219254
+      hat_cowboy_hoe_5: -6343718899767345508
+      hat_cowboy_hoe_6: 2780119551810592781
+      hat_cowboy_hoe_7: 8391597613136129294
+      hat_cowboy_hoe_8: -4828374657462747701
+      hat_cowboy_hoe_9: -6515094584838520955
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

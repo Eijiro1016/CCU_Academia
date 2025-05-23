@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: ad31808f51ef7b245b3d0e2c5ad11ac3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7822064839316533963
+    second: hat_lucky_carry_0
+  - first:
+      213: 4293865078552200512
+    second: hat_lucky_carry_1
+  - first:
+      213: 1112327104292265677
+    second: hat_lucky_carry_2
+  - first:
+      213: 351041612827986208
+    second: hat_lucky_carry_3
+  - first:
+      213: 8320558300126488946
+    second: hat_lucky_carry_4
+  - first:
+      213: 5008212717660019814
+    second: hat_lucky_carry_5
+  - first:
+      213: 3696628061297143771
+    second: hat_lucky_carry_6
+  - first:
+      213: 4901355102668901637
+    second: hat_lucky_carry_7
+  - first:
+      213: -6139955928865452308
+    second: hat_lucky_carry_8
+  - first:
+      213: 1318839027932750524
+    second: hat_lucky_carry_9
+  - first:
+      213: 7220187976245202802
+    second: hat_lucky_carry_10
+  - first:
+      213: 2147450711932064024
+    second: hat_lucky_carry_11
+  - first:
+      213: -6629043863003143018
+    second: hat_lucky_carry_12
+  - first:
+      213: 1401204223914654586
+    second: hat_lucky_carry_13
+  - first:
+      213: -1524438647305260689
+    second: hat_lucky_carry_14
+  - first:
+      213: -4299748573156853612
+    second: hat_lucky_carry_15
+  - first:
+      213: -5720898488402385237
+    second: hat_lucky_carry_16
+  - first:
+      213: 6480605532128425998
+    second: hat_lucky_carry_17
+  - first:
+      213: 3111850256859995305
+    second: hat_lucky_carry_18
+  - first:
+      213: -6220140451684150649
+    second: hat_lucky_carry_19
+  - first:
+      213: 3921820948522741380
+    second: hat_lucky_carry_20
+  - first:
+      213: 5478812477269188583
+    second: hat_lucky_carry_21
+  - first:
+      213: -1832878192390347652
+    second: hat_lucky_carry_22
+  - first:
+      213: 3640617740397824644
+    second: hat_lucky_carry_23
+  - first:
+      213: 7213757093124067543
+    second: hat_lucky_carry_24
+  - first:
+      213: -4710234207358699356
+    second: hat_lucky_carry_25
+  - first:
+      213: -4375277527777172086
+    second: hat_lucky_carry_26
+  - first:
+      213: -9064991727337360866
+    second: hat_lucky_carry_27
+  - first:
+      213: 4795464329715596844
+    second: hat_lucky_carry_28
+  - first:
+      213: -1912359490205791694
+    second: hat_lucky_carry_29
+  - first:
+      213: 7780620552396990961
+    second: hat_lucky_carry_30
+  - first:
+      213: -8332804652170389502
+    second: hat_lucky_carry_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hat_lucky_carry_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 107
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2f88d378e8d8c60800000000000000
+      internalID: 7822064839316533963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_carry_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 108
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0450f800a8fd69b30800000000000000
+      internalID: 4293865078552200512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_carry_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 109
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce1165ab97cf6f00800000000000000
+      internalID: 1112327104292265677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_carry_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 107
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0290ef9ac762fd400800000000000000
+      internalID: 351041612827986208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_carry_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 107
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279a7f390bf887370800000000000000
+      internalID: 8320558300126488946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_carry_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 108
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c18bb9eeeb08540800000000000000
+      internalID: 5008212717660019814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_carry_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 109
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf6b5cd2af0d4330800000000000000
+      internalID: 3696628061297143771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_carry_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 107
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50dc0a45f7c150440800000000000000
+      internalID: 4901355102668901637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_carry_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 75
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceecb631d9e7acaa0800000000000000
+      internalID: -6139955928865452308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_carry_9
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 76
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb26adfbb157d4210800000000000000
+      internalID: 1318839027932750524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_carry_10
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 77
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f44afc5b2433460800000000000000
+      internalID: 7220187976245202802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_carry_11
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 75
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811de597b074dcd10800000000000000
+      internalID: 2147450711932064024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_carry_12
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 75
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 694e6319ab7e004a0800000000000000
+      internalID: -6629043863003143018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_carry_13
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 76
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7bb53851d3127310800000000000000
+      internalID: 1401204223914654586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_carry_14
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 77
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f613e79802b18dae0800000000000000
+      internalID: -1524438647305260689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_carry_15
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 75
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4983e7924793454c0800000000000000
+      internalID: -4299748573156853612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_carry_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 43
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6e4baa2294b90b0800000000000000
+      internalID: -5720898488402385237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_carry_17
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 44
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0832ff456cbfe950800000000000000
+      internalID: 6480605532128425998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_carry_18
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 45
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac195242538f2b20800000000000000
+      internalID: 3111850256859995305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_carry_19
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 43
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7821454073f9da9a0800000000000000
+      internalID: -6220140451684150649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_carry_20
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 43
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e226dbf5b1d6630800000000000000
+      internalID: 3921820948522741380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_carry_21
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 44
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef9b9a8be6a80c40800000000000000
+      internalID: 5478812477269188583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_carry_22
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 45
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74630abefe4096e0800000000000000
+      internalID: -1832878192390347652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_carry_23
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 43
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ac56bcb82168230800000000000000
+      internalID: 3640617740397824644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_carry_24
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 11
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d05d972bd96c1460800000000000000
+      internalID: 7213757093124067543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_carry_25
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 12
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8bd7db1f2e1aeb0800000000000000
+      internalID: -4710234207358699356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_carry_26
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 13
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85a71b0544e743c0800000000000000
+      internalID: -4375277527777172086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_carry_27
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 11
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12b3386d0ea23280800000000000000
+      internalID: -9064991727337360866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_carry_28
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 11
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e31c18669ec8240800000000000000
+      internalID: 4795464329715596844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_carry_29
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 12
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23acf6ffc2fe575e0800000000000000
+      internalID: -1912359490205791694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_carry_30
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 13
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9e9bd3b215afb60800000000000000
+      internalID: 7780620552396990961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hat_lucky_carry_31
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 11
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20859a4615eeb5c80800000000000000
+      internalID: -8332804652170389502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hat_lucky_carry_0: 7822064839316533963
+      hat_lucky_carry_1: 4293865078552200512
+      hat_lucky_carry_10: 7220187976245202802
+      hat_lucky_carry_11: 2147450711932064024
+      hat_lucky_carry_12: -6629043863003143018
+      hat_lucky_carry_13: 1401204223914654586
+      hat_lucky_carry_14: -1524438647305260689
+      hat_lucky_carry_15: -4299748573156853612
+      hat_lucky_carry_16: -5720898488402385237
+      hat_lucky_carry_17: 6480605532128425998
+      hat_lucky_carry_18: 3111850256859995305
+      hat_lucky_carry_19: -6220140451684150649
+      hat_lucky_carry_2: 1112327104292265677
+      hat_lucky_carry_20: 3921820948522741380
+      hat_lucky_carry_21: 5478812477269188583
+      hat_lucky_carry_22: -1832878192390347652
+      hat_lucky_carry_23: 3640617740397824644
+      hat_lucky_carry_24: 7213757093124067543
+      hat_lucky_carry_25: -4710234207358699356
+      hat_lucky_carry_26: -4375277527777172086
+      hat_lucky_carry_27: -9064991727337360866
+      hat_lucky_carry_28: 4795464329715596844
+      hat_lucky_carry_29: -1912359490205791694
+      hat_lucky_carry_3: 351041612827986208
+      hat_lucky_carry_30: 7780620552396990961
+      hat_lucky_carry_31: -8332804652170389502
+      hat_lucky_carry_4: 8320558300126488946
+      hat_lucky_carry_5: 5008212717660019814
+      hat_lucky_carry_6: 3696628061297143771
+      hat_lucky_carry_7: 4901355102668901637
+      hat_lucky_carry_8: -6139955928865452308
+      hat_lucky_carry_9: 1318839027932750524
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

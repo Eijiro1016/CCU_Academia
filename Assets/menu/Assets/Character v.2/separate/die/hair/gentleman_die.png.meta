@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: 36be7843540584e41a7485d962344fb1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8958958034063357854
+    second: gentleman_die_0
+  - first:
+      213: 3245501469381144115
+    second: gentleman_die_1
+  - first:
+      213: 3838300735444828526
+    second: gentleman_die_2
+  - first:
+      213: -2287366065140800358
+    second: gentleman_die_3
+  - first:
+      213: -2107187405458507123
+    second: gentleman_die_4
+  - first:
+      213: 8235868795493645304
+    second: gentleman_die_5
+  - first:
+      213: 5737102268956938385
+    second: gentleman_die_6
+  - first:
+      213: 1028157782264183850
+    second: gentleman_die_7
+  - first:
+      213: -3461368056129852931
+    second: gentleman_die_8
+  - first:
+      213: -4089172130536050688
+    second: gentleman_die_9
+  - first:
+      213: 4625769577344502928
+    second: gentleman_die_10
+  - first:
+      213: -7883711871980240189
+    second: gentleman_die_11
+  - first:
+      213: 3113452679860779352
+    second: gentleman_die_12
+  - first:
+      213: 4306287638782044328
+    second: gentleman_die_13
+  - first:
+      213: -8434118862740354576
+    second: gentleman_die_14
+  - first:
+      213: -3627545483097199601
+    second: gentleman_die_15
+  - first:
+      213: 7312381837575876892
+    second: gentleman_die_16
+  - first:
+      213: 7762609924439573053
+    second: gentleman_die_17
+  - first:
+      213: 5177302236970415485
+    second: gentleman_die_18
+  - first:
+      213: -3167483202194319954
+    second: gentleman_die_19
+  - first:
+      213: 4998541416600558125
+    second: gentleman_die_20
+  - first:
+      213: 5263373571894490591
+    second: gentleman_die_21
+  - first:
+      213: -7002564733374619595
+    second: gentleman_die_22
+  - first:
+      213: 3588672925373645547
+    second: gentleman_die_23
+  - first:
+      213: 1072386668550396915
+    second: gentleman_die_24
+  - first:
+      213: 4896075438597826980
+    second: gentleman_die_25
+  - first:
+      213: 2036598174432907694
+    second: gentleman_die_26
+  - first:
+      213: 7370257439747346065
+    second: gentleman_die_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gentleman_die_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 0
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268850672236ba380800000000000000
+      internalID: -8958958034063357854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gentleman_die_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 0
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ea87814665a0d20800000000000000
+      internalID: 3245501469381144115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gentleman_die_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 0
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e614f45ce22644530800000000000000
+      internalID: 3838300735444828526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gentleman_die_3
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 0
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94eff7cea4a140e0800000000000000
+      internalID: -2287366065140800358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gentleman_die_4
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 0
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8af7761834c1c2e0800000000000000
+      internalID: -2107187405458507123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gentleman_die_5
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fb7f14b80fab4270800000000000000
+      internalID: 8235868795493645304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gentleman_die_6
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 0
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190144dfd184e9f40800000000000000
+      internalID: 5737102268956938385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gentleman_die_7
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 0
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2cf8e83e00c44e00800000000000000
+      internalID: 1028157782264183850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gentleman_die_8
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 0
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9ee719710c6ffc0800000000000000
+      internalID: -3461368056129852931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gentleman_die_9
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 0
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000b8f5dc975047c0800000000000000
+      internalID: -4089172130536050688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gentleman_die_10
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c8d661ce8023040800000000000000
+      internalID: 4625769577344502928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gentleman_die_11
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 0
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2861772dd679290800000000000000
+      internalID: -7883711871980240189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gentleman_die_12
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 0
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859f61077b4353b20800000000000000
+      internalID: 3113452679860779352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gentleman_die_13
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 0
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a86242bac103cb30800000000000000
+      internalID: 4306287638782044328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gentleman_die_14
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 0
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f980f8849df3fa80800000000000000
+      internalID: -8434118862740354576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gentleman_die_15
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c2b694a9e58adc0800000000000000
+      internalID: -3627545483097199601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gentleman_die_16
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 0
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c117ab2e98cca7560800000000000000
+      internalID: 7312381837575876892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gentleman_die_17
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 0
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32842429945abb60800000000000000
+      internalID: 7762609924439573053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gentleman_die_18
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 0
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75f47934f879d740800000000000000
+      internalID: 5177302236970415485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gentleman_die_19
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 0
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea5d0354fc6da04d0800000000000000
+      internalID: -3167483202194319954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gentleman_die_20
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 0
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2add8b5fe26e5540800000000000000
+      internalID: 4998541416600558125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gentleman_die_21
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 0
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd533f880624b0940800000000000000
+      internalID: 5263373571894490591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gentleman_die_22
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 0
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5302786e974e1de90800000000000000
+      internalID: -7002564733374619595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gentleman_die_23
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 0
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be245f313078dc130800000000000000
+      internalID: 3588672925373645547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gentleman_die_24
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 0
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb9fc84ef1e1ee00800000000000000
+      internalID: 1072386668550396915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gentleman_die_25
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 0
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9632fbbaa52f340800000000000000
+      internalID: 4896075438597826980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gentleman_die_26
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 0
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea15841df33734c10800000000000000
+      internalID: 2036598174432907694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gentleman_die_27
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 0
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e0257971a684660800000000000000
+      internalID: 7370257439747346065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      gentleman_die_0: -8958958034063357854
+      gentleman_die_1: 3245501469381144115
+      gentleman_die_10: 4625769577344502928
+      gentleman_die_11: -7883711871980240189
+      gentleman_die_12: 3113452679860779352
+      gentleman_die_13: 4306287638782044328
+      gentleman_die_14: -8434118862740354576
+      gentleman_die_15: -3627545483097199601
+      gentleman_die_16: 7312381837575876892
+      gentleman_die_17: 7762609924439573053
+      gentleman_die_18: 5177302236970415485
+      gentleman_die_19: -3167483202194319954
+      gentleman_die_2: 3838300735444828526
+      gentleman_die_20: 4998541416600558125
+      gentleman_die_21: 5263373571894490591
+      gentleman_die_22: -7002564733374619595
+      gentleman_die_23: 3588672925373645547
+      gentleman_die_24: 1072386668550396915
+      gentleman_die_25: 4896075438597826980
+      gentleman_die_26: 2036598174432907694
+      gentleman_die_27: 7370257439747346065
+      gentleman_die_3: -2287366065140800358
+      gentleman_die_4: -2107187405458507123
+      gentleman_die_5: 8235868795493645304
+      gentleman_die_6: 5737102268956938385
+      gentleman_die_7: 1028157782264183850
+      gentleman_die_8: -3461368056129852931
+      gentleman_die_9: -4089172130536050688
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

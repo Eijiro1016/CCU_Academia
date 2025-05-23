@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: c33327a76a2d5c640894986acddf1ce9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6554195775487097304
+    second: spaghetti_hurt_0
+  - first:
+      213: -5552523703069057899
+    second: spaghetti_hurt_1
+  - first:
+      213: 9201825153002392827
+    second: spaghetti_hurt_2
+  - first:
+      213: -4325057795780747549
+    second: spaghetti_hurt_3
+  - first:
+      213: -2316219024217829629
+    second: spaghetti_hurt_4
+  - first:
+      213: -5300425301538087501
+    second: spaghetti_hurt_5
+  - first:
+      213: -99836379232094432
+    second: spaghetti_hurt_6
+  - first:
+      213: -1075208556547120364
+    second: spaghetti_hurt_7
+  - first:
+      213: -5230091192302755538
+    second: spaghetti_hurt_8
+  - first:
+      213: -3157770069014725987
+    second: spaghetti_hurt_9
+  - first:
+      213: 6820666251684626325
+    second: spaghetti_hurt_10
+  - first:
+      213: 8426303458994797384
+    second: spaghetti_hurt_11
+  - first:
+      213: -3717930413160788202
+    second: spaghetti_hurt_12
+  - first:
+      213: 5642791673816793824
+    second: spaghetti_hurt_13
+  - first:
+      213: 2052493307560197050
+    second: spaghetti_hurt_14
+  - first:
+      213: 1336515098323739305
+    second: spaghetti_hurt_15
+  - first:
+      213: 443224246457629770
+    second: spaghetti_hurt_16
+  - first:
+      213: -5860337733088920036
+    second: spaghetti_hurt_17
+  - first:
+      213: -848211431550849060
+    second: spaghetti_hurt_18
+  - first:
+      213: -7061950670922876976
+    second: spaghetti_hurt_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spaghetti_hurt_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 101
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9364a055e25fa50800000000000000
+      internalID: 6554195775487097304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_hurt_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 101
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59cd1af4c1971f2b0800000000000000
+      internalID: -5552523703069057899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_hurt_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 101
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc46f9293373bf70800000000000000
+      internalID: 9201825153002392827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_hurt_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 101
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee547199de4af3c0800000000000000
+      internalID: -4325057795780747549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_hurt_4
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 101
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f8e7fb1132bdfd0800000000000000
+      internalID: -2316219024217829629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_hurt_5
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 101
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd5457654b1176b0800000000000000
+      internalID: -5300425301538087501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_hurt_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 101
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027b530975f4d9ef0800000000000000
+      internalID: -99836379232094432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_hurt_7
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 101
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4136c87b3871411f0800000000000000
+      internalID: -1075208556547120364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_hurt_8
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 101
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2125e355cbfa67b0800000000000000
+      internalID: -5230091192302755538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_hurt_9
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 101
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a34025ad85d24d0800000000000000
+      internalID: -3157770069014725987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_hurt_10
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 5
+        width: 298
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f382781dfd7ae50800000000000000
+      internalID: 6820666251684626325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_hurt_11
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 68
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84bb70bf95e30f470800000000000000
+      internalID: 8426303458994797384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_hurt_12
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 68
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f0ee7dcf1476cc0800000000000000
+      internalID: -3717930413160788202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_hurt_13
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 68
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2c16b61293f4e40800000000000000
+      internalID: 5642791673816793824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_hurt_14
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 68
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abbfdf4e9cbeb7c10800000000000000
+      internalID: 2052493307560197050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_hurt_15
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 68
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2688896614c8210800000000000000
+      internalID: 1336515098323739305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_hurt_16
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 68
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c72f59a16a62600800000000000000
+      internalID: 443224246457629770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_hurt_17
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 68
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1eba6391e5ebaea0800000000000000
+      internalID: -5860337733088920036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_hurt_18
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 68
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf6cff623c8a34f0800000000000000
+      internalID: -848211431550849060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaghetti_hurt_19
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 68
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d77f46d749eefd90800000000000000
+      internalID: -7061950670922876976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spaghetti_hurt_0: 6554195775487097304
+      spaghetti_hurt_1: -5552523703069057899
+      spaghetti_hurt_10: 6820666251684626325
+      spaghetti_hurt_11: 8426303458994797384
+      spaghetti_hurt_12: -3717930413160788202
+      spaghetti_hurt_13: 5642791673816793824
+      spaghetti_hurt_14: 2052493307560197050
+      spaghetti_hurt_15: 1336515098323739305
+      spaghetti_hurt_16: 443224246457629770
+      spaghetti_hurt_17: -5860337733088920036
+      spaghetti_hurt_18: -848211431550849060
+      spaghetti_hurt_19: -7061950670922876976
+      spaghetti_hurt_2: 9201825153002392827
+      spaghetti_hurt_3: -4325057795780747549
+      spaghetti_hurt_4: -2316219024217829629
+      spaghetti_hurt_5: -5300425301538087501
+      spaghetti_hurt_6: -99836379232094432
+      spaghetti_hurt_7: -1075208556547120364
+      spaghetti_hurt_8: -5230091192302755538
+      spaghetti_hurt_9: -3157770069014725987
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: 4ca701edda2bab94291ae48a08478e79
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -21480511416898297
+    second: spacebuns_die_0
+  - first:
+      213: -2041228894743126993
+    second: spacebuns_die_1
+  - first:
+      213: -3399649993795260146
+    second: spacebuns_die_2
+  - first:
+      213: -1531769044428166814
+    second: spacebuns_die_3
+  - first:
+      213: -2650116399802655791
+    second: spacebuns_die_4
+  - first:
+      213: -6737330334176326632
+    second: spacebuns_die_5
+  - first:
+      213: 1392937021408490471
+    second: spacebuns_die_6
+  - first:
+      213: 8972871142587264876
+    second: spacebuns_die_7
+  - first:
+      213: -857529297994711837
+    second: spacebuns_die_8
+  - first:
+      213: -771772255468363085
+    second: spacebuns_die_9
+  - first:
+      213: 7978404395957481512
+    second: spacebuns_die_10
+  - first:
+      213: -2904829749045421429
+    second: spacebuns_die_11
+  - first:
+      213: 6194271798752801138
+    second: spacebuns_die_12
+  - first:
+      213: -4347253156178487974
+    second: spacebuns_die_13
+  - first:
+      213: 6177475375157252007
+    second: spacebuns_die_14
+  - first:
+      213: 3599566314801962206
+    second: spacebuns_die_15
+  - first:
+      213: -8831456749144522234
+    second: spacebuns_die_16
+  - first:
+      213: -4592477474860976590
+    second: spacebuns_die_17
+  - first:
+      213: 8981260430291690578
+    second: spacebuns_die_18
+  - first:
+      213: -3468826272660724563
+    second: spacebuns_die_19
+  - first:
+      213: 1779621959133980196
+    second: spacebuns_die_20
+  - first:
+      213: -6974132559748714140
+    second: spacebuns_die_21
+  - first:
+      213: 1170450688777666560
+    second: spacebuns_die_22
+  - first:
+      213: -3697559783561398828
+    second: spacebuns_die_23
+  - first:
+      213: -1443771103973780306
+    second: spacebuns_die_24
+  - first:
+      213: -5973540145047255713
+    second: spacebuns_die_25
+  - first:
+      213: 1570341300585522947
+    second: spacebuns_die_26
+  - first:
+      213: -106444148151690365
+    second: spacebuns_die_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spacebuns_die_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70de663b69fa3bff0800000000000000
+      internalID: -21480511416898297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacebuns_die_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c929792291ca3e0800000000000000
+      internalID: -2041228894743126993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacebuns_die_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 0
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01bc2fb75402d0d0800000000000000
+      internalID: -3399649993795260146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacebuns_die_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2696be47b201ebae0800000000000000
+      internalID: -1531769044428166814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacebuns_die_4
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db5350ec25e83bd0800000000000000
+      internalID: -2650116399802655791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacebuns_die_5
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 0
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81cc4f8c1c13082a0800000000000000
+      internalID: -6737330334176326632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacebuns_die_6
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 0
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e33b8347d4b45310800000000000000
+      internalID: 1392937021408490471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacebuns_die_7
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f644d83ca068c70800000000000000
+      internalID: 8972871142587264876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacebuns_die_8
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 0
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ecf88895a17914f0800000000000000
+      internalID: -857529297994711837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacebuns_die_9
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 0
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b26e41093d1a45f0800000000000000
+      internalID: -771772255468363085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacebuns_die_10
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820f577d68cf8be60800000000000000
+      internalID: 7978404395957481512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacebuns_die_11
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 0
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a1923dbb8ffa7d0800000000000000
+      internalID: -2904829749045421429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacebuns_die_12
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 0
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27171eed16976f550800000000000000
+      internalID: 6194271798752801138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacebuns_die_13
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 0
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55194589447ba3c0800000000000000
+      internalID: -4347253156178487974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacebuns_die_14
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 0
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af88f0cf1dcab550800000000000000
+      internalID: 6177475375157252007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacebuns_die_15
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 0
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc9b33fd7a34f130800000000000000
+      internalID: 3599566314801962206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacebuns_die_16
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 0
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602c302b0ec507580800000000000000
+      internalID: -8831456749144522234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacebuns_die_17
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 0
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236bdef811e3440c0800000000000000
+      internalID: -4592477474860976590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacebuns_die_18
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 0
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 254eecec6c8d3ac70800000000000000
+      internalID: 8981260430291690578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacebuns_die_19
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 0
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4e38632e04cdfc0800000000000000
+      internalID: -3468826272660724563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacebuns_die_20
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 0
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4266aa43ebc72b810800000000000000
+      internalID: 1779621959133980196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacebuns_die_21
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 0
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46131bf2367e63f90800000000000000
+      internalID: -6974132559748714140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacebuns_die_22
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 0
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00044bb33b64e3010800000000000000
+      internalID: 1170450688777666560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacebuns_die_23
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 0
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d57d05a7f0afacc0800000000000000
+      internalID: -3697559783561398828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacebuns_die_24
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 0
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea45ba294d1b6fbe0800000000000000
+      internalID: -1443771103973780306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacebuns_die_25
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 0
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f554ce223e8b91da0800000000000000
+      internalID: -5973540145047255713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacebuns_die_26
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 0
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3076685c719fac510800000000000000
+      internalID: 1570341300585522947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spacebuns_die_27
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 0
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38bdff87c95d58ef0800000000000000
+      internalID: -106444148151690365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      spacebuns_die_0: -21480511416898297
+      spacebuns_die_1: -2041228894743126993
+      spacebuns_die_10: 7978404395957481512
+      spacebuns_die_11: -2904829749045421429
+      spacebuns_die_12: 6194271798752801138
+      spacebuns_die_13: -4347253156178487974
+      spacebuns_die_14: 6177475375157252007
+      spacebuns_die_15: 3599566314801962206
+      spacebuns_die_16: -8831456749144522234
+      spacebuns_die_17: -4592477474860976590
+      spacebuns_die_18: 8981260430291690578
+      spacebuns_die_19: -3468826272660724563
+      spacebuns_die_2: -3399649993795260146
+      spacebuns_die_20: 1779621959133980196
+      spacebuns_die_21: -6974132559748714140
+      spacebuns_die_22: 1170450688777666560
+      spacebuns_die_23: -3697559783561398828
+      spacebuns_die_24: -1443771103973780306
+      spacebuns_die_25: -5973540145047255713
+      spacebuns_die_26: 1570341300585522947
+      spacebuns_die_27: -106444148151690365
+      spacebuns_die_3: -1531769044428166814
+      spacebuns_die_4: -2650116399802655791
+      spacebuns_die_5: -6737330334176326632
+      spacebuns_die_6: 1392937021408490471
+      spacebuns_die_7: 8972871142587264876
+      spacebuns_die_8: -857529297994711837
+      spacebuns_die_9: -771772255468363085
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
