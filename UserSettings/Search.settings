@@ -13,7 +13,7 @@ scopes = {
 	"picker_visibility_flags.075BCD15" = "264"
 	"picker_item_size.075BCD15" = "96"
 	"picker_inspector.075BCD15" = "0"
-	"last_search.66F56946" = "tile"
+	"last_search.66F56946" = "scene"
 	"OpenInspectorPreview.66F56946" = "0"
 	"currentGroup.66F56946" = "settings"
 }
@@ -66,6 +66,26 @@ providers = {
 	log = {
 		active = false
 		priority = 210
+		defaultAction = null
+	}
+	menu = {
+		active = true
+		priority = 80
+		defaultAction = null
+	}
+	settings = {
+		active = true
+		priority = 100
+		defaultAction = null
+	}
+	calculator = {
+		active = true
+		priority = 10
+		defaultAction = null
+	}
+	static_methods = {
+		active = false
+		priority = 85
 		defaultAction = null
 	}
 }
