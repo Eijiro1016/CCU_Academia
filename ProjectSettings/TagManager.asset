@@ -40,9 +40,6 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: Default
-    uniqueID: 0
-    locked: 0
   - name: solid
     uniqueID: 2002090007
     locked: 0
@@ -51,6 +48,9 @@ TagManager:
     locked: 0
   - name: player
     uniqueID: 4294776961
+    locked: 0
+  - name: Default
+    uniqueID: 0
     locked: 0
   - name: foreground
     uniqueID: 3551911949

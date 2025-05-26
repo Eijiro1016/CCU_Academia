@@ -76,7 +76,7 @@ public class BodyPartsManager : MonoBehaviour
                     animationClip = Resources.Load<AnimationClip>("Player Animations/" + partType + "/" + partType + "_" + partID + "_" + state + "_" + direction);
 
                     // Override default animation
-                    defaultAnimationClips[partType + "_" + partID + "_" + state + "_" + direction] = animationClip;
+                    defaultAnimationClips[partType + "_" + 0 + "_" + state + "_" + direction] = animationClip;
                 }
             }
         }
