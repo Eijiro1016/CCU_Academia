@@ -37,9 +37,28 @@ public class BodyPartsManager : MonoBehaviour
 
     public void UpdateBodyParts()
     {
+        if (characterBody == null)
+        {
+            Debug.LogError("❌ BodyPartsManager：characterBody 為 null，無法更新動畫！");
+            return;
+        }
+
         // Override default animation clips with character body parts
         for (int partIndex = 0; partIndex < bodyPartTypes.Length; partIndex++)
         {
+            if (characterBody.characterBodyParts == null || characterBody.characterBodyParts.Length <= partIndex)
+            {
+                Debug.LogError($"❌ characterBody.characterBodyParts 長度不足！index: {partIndex}");
+                continue;
+            }
+
+            if (characterBody.characterBodyParts[partIndex].bodyPart == null)
+            {
+                Debug.LogError($"❌ characterBody.characterBodyParts[{partIndex}].bodyPart 是 null！");
+                continue;
+            }
+
+
             // Get current body part
             string partType = bodyPartTypes[partIndex];
             // Get current body part ID
@@ -57,7 +76,7 @@ public class BodyPartsManager : MonoBehaviour
                     animationClip = Resources.Load<AnimationClip>("Player Animations/" + partType + "/" + partType + "_" + partID + "_" + state + "_" + direction);
 
                     // Override default animation
-                    defaultAnimationClips[partType + "_" + 0 + "_" + state + "_" + direction] = animationClip;
+                    defaultAnimationClips[partType + "_" + partID + "_" + state + "_" + direction] = animationClip;
                 }
             }
         }
