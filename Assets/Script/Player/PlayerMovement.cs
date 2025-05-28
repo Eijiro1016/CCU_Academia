@@ -8,7 +8,7 @@ public class PlayerMovement : MonoBehaviour
     // ~~ 1. Controls All Player Movement
     // ~~ 2. Updates Animator to Play Idle & Walking Animations
 
-    private float speed = 10f;
+    [SerializeField] private float speed = 10f;
     private Rigidbody2D myRigidbody;
     private Vector3 playerMovement;
     private Animator animator;

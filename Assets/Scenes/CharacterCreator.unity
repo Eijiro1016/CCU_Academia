@@ -1471,7 +1471,7 @@ SpriteRenderer:
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1, y: 2}
+  m_Size: {x: 0.32, y: 0.32}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 0
@@ -1763,6 +1763,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 712634fd76252fa4c9cfbd332058a5b7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 2.5
 --- !u!50 &790482759
 Rigidbody2D:
   serializedVersion: 5
