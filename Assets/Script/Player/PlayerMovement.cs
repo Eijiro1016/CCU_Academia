@@ -2,6 +2,7 @@
 // For help, check out the tutorial - https://youtu.be/PNWK5o9l54w
 
 using UnityEngine;
+using System.Collections;
 
 public class PlayerMovement : MonoBehaviour
 {
@@ -10,10 +11,13 @@ public class PlayerMovement : MonoBehaviour
 
     private float speed = 10f;
     private Rigidbody2D myRigidbody;
-    private Vector3 playerMovement;
+    private Vector3 input;
     private Animator animator;
 
-    private void Start()
+    public LayerMask SolidObject_layer;     // 碰撞層（不能穿越）
+    public LayerMask Interactable_layer;    // 可互動對象層（如 NPC）
+
+    private void Awake()
     {
         animator = GetComponent<Animator>();
         myRigidbody = GetComponent<Rigidbody2D>();
@@ -21,30 +25,48 @@ public class PlayerMovement : MonoBehaviour
 
     private void FixedUpdate()
     {
-        playerMovement = Vector3.zero;
-        playerMovement.x = Input.GetAxisRaw("Horizontal");
-        playerMovement.y = Input.GetAxisRaw("Vertical");
+        input = Vector3.zero;
+        input.x = Input.GetAxisRaw("Horizontal");
+        input.y = Input.GetAxisRaw("Vertical");
 
-        UpdateAnimationAndMove();
+        HandleUpdate();
     }
 
-    private void UpdateAnimationAndMove()
+    public void HandleUpdate()
     {
-        if (playerMovement != Vector3.zero)
+        if (input != Vector3.zero)
         {
             MoveCharacter();
-            animator.SetFloat("moveX", playerMovement.x);
-            animator.SetFloat("moveY", playerMovement.y);
+            animator.SetFloat("moveX", input.x);
+            animator.SetFloat("moveY", input.y);
             animator.SetBool("moving", true);
         }
         else
         {
             animator.SetBool("moving", false);
         }
+        // 按下 F 鍵執行互動
+        if (Input.GetKeyDown(KeyCode.F))
+        {
+            interact();
+        }
+    }
+
+    void interact()
+    {
+        var facingDir = new Vector3(animator.GetFloat("moveX"), animator.GetFloat("moveY"));
+        var interactPos = transform.position + facingDir;
+
+        // 嘗試在面前找到可互動的物件
+        var collider = Physics2D.OverlapCircle(interactPos, 0.2f, Interactable_layer);
+        if (collider != null)
+        {
+            collider.GetComponent<interactable>()?.Interact();
+        }
     }
 
     private void MoveCharacter()
     {
-        myRigidbody.MovePosition(transform.position + playerMovement * speed * Time.deltaTime);
+        myRigidbody.MovePosition(transform.position + input * speed * Time.deltaTime);
     }
 }
