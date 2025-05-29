@@ -99,6 +99,25 @@ Script/
 3. 開啟 `Assets/Scenes/MainScene.unity`（或其他主場景）
 4. 點擊 `▶️ Play` 開始遊戲
 
+
+# 團隊 Git LFS 使用教學
+
+📦 本專案使用 Git LFS 來管理大檔（如 Unity 的場景檔與圖片等），請依照以下步驟設定：
+
+## ✅ 第一次使用的成員需執行：
+
+1. 安裝 Git LFS：
+   https://git-lfs.github.com/
+
+2. 安裝完成後，打開 Terminal 或 Git Bash 執行：
+   ```bash
+   git lfs install
+
+3. Clone 專案：
+git clone https://github.com/XinEnLin/Dcardbucks_Boss.git
+cd Dcardbucks_Boss
+git lfs pull  # 建議第一次補拉大檔
+
 ---
 
 ## 💡 功能規劃（未來可擴充）
