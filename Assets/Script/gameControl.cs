@@ -18,14 +18,14 @@ public enum GameState
 /// </summary>
 public class gameControl : MonoBehaviour
 {
-    [SerializeField] PlayerMovement playerMovement; // 參考玩家控制腳本
+    [SerializeField] player_control player_Control; // 參考玩家控制腳本
 
     GameState state; // 目前的遊戲狀態（預設為 FreeRoam）
 
     private void Start()
     {
         // 載入主選單畫面（Additive 方式不會覆蓋現有場景）
-        //SceneManager.LoadScene("Menu", LoadSceneMode.Additive);
+        SceneManager.LoadScene("Menu", LoadSceneMode.Additive);
 
         // 當 DialogManager 發出「對話開始」事件時，切換遊戲狀態為 Dialog
         DialogManager.instance.OnShowDialog += () =>
@@ -47,7 +47,7 @@ public class gameControl : MonoBehaviour
         if (state == GameState.FreeRoam)
         {
             // 玩家可以自由移動與互動
-            playerMovement.HandleUpdate();
+            player_Control.HandleUpdate();
         }
         else if (state == GameState.Dialog)
         {

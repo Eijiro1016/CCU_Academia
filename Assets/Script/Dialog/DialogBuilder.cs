@@ -5,7 +5,7 @@ using UnityEngine;
 /// ✅ 用來建構一個 Dialog（ScriptableObject）的工具類別
 /// 支援以鏈式寫法逐行加入對話，最後產出一個 Dialog 實例
 /// </summary>
-public class DialogBuilder : MonoBehaviour
+public class DialogBuilder
 {
     // 🔸 暫存對話內容的文字列表
     private List<string> lines = new List<string>();
