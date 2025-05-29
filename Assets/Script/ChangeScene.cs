@@ -8,6 +8,7 @@ public class ChangeScene : MonoBehaviour
 {
     public void SelectScene(int sceneIndex)
     {
+        Debug.Log("場景切換");
         SceneManager.LoadScene(sceneIndex);
     }
 }

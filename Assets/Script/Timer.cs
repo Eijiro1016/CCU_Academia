@@ -3,7 +3,7 @@ using TMPro;
 
 public class Timer : MonoBehaviour {
     [SerializeField]
-    private float timerDuration = 3f * 60f; //Duration of the timer in seconds
+    private float timerDuration = 5f * 60f; //Duration of the timer in seconds
 
     [SerializeField]
     private bool countDown = true;
