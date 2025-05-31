@@ -17,12 +17,12 @@ public class OllamaAPI : MonoBehaviour{
     public string chatUrl = "http://127.0.0.1:5000/api/chat";
     public string historyUrl = "http://127.0.0.1:5000/api/history/";
 
-    public void SendMessage(string npcName, string message, System.Action<string> onReply){
-        StartCoroutine(SendChatCoroutine(npcName, message, onReply));
+    public void SendMessage(int npcID, string message, System.Action<string> onReply){
+        StartCoroutine(SendChatCoroutine(npcID, message, onReply));
     }
 
-    IEnumerator SendChatCoroutine(string npcName, string message, System.Action<string> onReply){
-        var payload = new { character = npcName, message = message };
+    IEnumerator SendChatCoroutine(int npcID, string message, System.Action<string> onReply){
+        var payload = new { character = npcID, message = message };
         string json = JsonUtility.ToJson(payload);
         UnityWebRequest www = new UnityWebRequest(chatUrl, "POST");
         www.uploadHandler = new UploadHandlerRaw(Encoding.UTF8.GetBytes(json));
@@ -39,12 +39,12 @@ public class OllamaAPI : MonoBehaviour{
         }
     }
 
-    public void GetHistory(string npcName, System.Action<List<string>> onHistory){
-        StartCoroutine(GetHistoryCoroutine(npcName, onHistory));
+    public void GetHistory(int npcID, System.Action<List<string>> onHistory){
+        StartCoroutine(GetHistoryCoroutine(npcID, onHistory));
     }
 
-    IEnumerator GetHistoryCoroutine(string npcName, System.Action<List<string>> onHistory){
-        UnityWebRequest www = UnityWebRequest.Get(historyUrl + UnityWebRequest.EscapeURL(npcName));
+    IEnumerator GetHistoryCoroutine(int npcID, System.Action<List<string>> onHistory){
+        UnityWebRequest www = UnityWebRequest.Get(historyUrl + npcID);
         yield return www.SendWebRequest();
 
         if (www.result == UnityWebRequest.Result.Success){

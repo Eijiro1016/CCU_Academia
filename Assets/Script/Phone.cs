@@ -13,8 +13,7 @@ public class Phone : MonoBehaviour
     public GameObject phonePanel;                 // 手機 UI 面板本體
     public TMP_InputField playerInput;            // 玩家輸入框（TextMeshPro）
     public TMP_Text npcResponseText;              // 顯示 AI 回覆的文字欄位
-    //public OllamaDialog ollamaDialog;             // 與本地 AI 模型通訊的腳本
-    public OllamaAPI ollamaDialog;
+    public OllamaDialog ollamaDialog;             // 與本地 AI 模型通訊的腳本
 
     private bool isPhoneVisible = false;          // 手機目前是否開啟
 
