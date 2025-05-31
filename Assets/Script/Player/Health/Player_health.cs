@@ -35,11 +35,11 @@ public class Player_health : MonoBehaviour
         {
             health = maxHealth; // 不超過最大值
         }
-        else if (health <= 0f)
-        {
-            health = 0f;        // 死亡處理（此處暫時只印出訊息）
-            Debug.Log("Player Respawn");
-        }
+        // else if (health <= 0f)
+        // {
+        //     health = 0f;        // 死亡處理（此處暫時只印出訊息）
+        //     Debug.Log("Player Respawn");
+        // }
 
         // ? 以下為擊退功能（目前註解）
         // 若啟用可讓玩家受到攻擊後向後推一段距離（需手動解開以下區塊）
@@ -51,4 +51,17 @@ public class Player_health : MonoBehaviour
         //    transform.position += displacement;
         //}
     }
+
+    public float CurrentHealthRatio()//回傳當前玩家血量比例
+    {
+        return health / maxHealth;
+    }
+
+    public void ResetHealth()
+{
+    health = maxHealth;
+    Debug.Log("Player revived.");
+}
+
+
 }
