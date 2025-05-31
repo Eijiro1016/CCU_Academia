@@ -18,7 +18,7 @@ public class LoadingManager : MonoBehaviour
     private readonly string[] tips = new string[]
     {
         "傳聞中，路邊遇到的鳳梨都是沒有畢業的學生轉生而來。",
-        "小提示：按 E 與 NPC 對話。",
+        "小提示：按 F 與 NPC 對話。",
         "在校園內，遇到什麼都不要覺得驚訝。",
         "小提示：按 TAB 可以開啟手機介面。"
     };
@@ -36,8 +36,8 @@ public class LoadingManager : MonoBehaviour
         AsyncOperation asyncLoad = SceneManager.LoadSceneAsync(nextSceneName);
         asyncLoad.allowSceneActivation = false;
 
-        // 第一階段：載入到 0.9
-        while (asyncLoad.progress < 0.9f)
+        // 第一階段：載入到 0.5
+        while (asyncLoad.progress < 0.5f)
         {
             loadingSlider.value = Mathf.Lerp(loadingSlider.value, asyncLoad.progress, fakeLoadTime);
             percentText.text = $"載入中... {(loadingSlider.value * 100f):0}%";
