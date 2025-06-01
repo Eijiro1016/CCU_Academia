@@ -29,6 +29,8 @@ public class DialogManager : MonoBehaviour
     int currentLine = 0;       // 當前顯示到第幾行
     Dialog dialog;             // 目前要顯示的 Dialog 資料
     bool isTyping = false;     // 是否正在逐字顯示文字中
+    private Coroutine typingCoroutine = null;// 當前的打字協程
+
 
     /// <summary>
     /// ✅ 開始顯示一整段對話（由 Dialog 提供）
@@ -39,9 +41,10 @@ public class DialogManager : MonoBehaviour
 
         OnShowDialog?.Invoke();       // 通知遊戲其他部分「對話開始」
         this.dialog = dialog;
+        currentLine = 0;              // 重置當前行數
 
         dialogBox.SetActive(true);    // 開啟對話框 UI
-        StartCoroutine(TypeDialog(dialog.Lines[0])); // 顯示第一行
+        typingCoroutine = StartCoroutine(TypeDialog(dialog.Lines[currentLine]));
     }
 
     /// <summary>
@@ -49,12 +52,21 @@ public class DialogManager : MonoBehaviour
     /// </summary>
     public void HandleUpdate()
     {
-        if (Input.GetKeyDown(KeyCode.F) && !isTyping)
+        if (Input.GetKeyDown(KeyCode.F))
         {
+            if (isTyping)
+            {
+                // 如果正在打字，則立即顯示完整內容
+                StopCoroutine(typingCoroutine);
+                dialogText.text = dialog.Lines[currentLine];
+                isTyping = false;
+                return;
+            }
+
             ++currentLine;
             if (currentLine < dialog.Lines.Count)
             {
-                StartCoroutine(TypeDialog(dialog.Lines[currentLine]));
+                typingCoroutine = StartCoroutine(TypeDialog(dialog.Lines[currentLine]));
             }
             else
             {
@@ -81,5 +93,10 @@ public class DialogManager : MonoBehaviour
         }
 
         isTyping = false;
+    }
+    
+    public bool IsDialogActive()
+    {
+        return dialogBox.activeSelf;
     }
 }
