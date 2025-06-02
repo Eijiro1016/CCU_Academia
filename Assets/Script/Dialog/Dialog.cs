@@ -2,20 +2,20 @@ using System.Collections.Generic;
 using UnityEngine;
 
 /// <summary>
-/// âœ… è¡¨ç¤ºä¸€æ®µ NPC æˆ–åŠ‡æƒ…å°è©±è³‡æ–™çš„ ScriptableObject
-/// å¯ä»¥åœ¨ Unity å°ˆæ¡ˆä¸­å»ºç«‹å¤šå€‹ Dialog è³‡æ–™ï¼Œç”¨æ–¼å„²å­˜æ–‡å­—å°è©±å…§å®¹
+/// ? ªí¥Ü¤@¬q NPC ©Î¼@±¡¹ï¸Ü¸ê®Æªº ScriptableObject
+/// ¥i¥H¦b Unity ±M®×¤¤«Ø¥ß¦h­Ó Dialog ¸ê®Æ¡A¥Î©óÀx¦s¤å¦r¹ï¸Ü¤º®e
 /// </summary>
 [CreateAssetMenu(menuName = "Dialog")]
 public class Dialog : ScriptableObject
 {
-    // ğŸ”¸ å„²å­˜å¤šè¡Œå°è©±æ–‡å­—ï¼ˆæ¯ä¸€è¡Œä»£è¡¨ä¸€æ®µé€å¥é¡¯ç¤ºï¼‰
+    // ? Àx¦s¦h¦æ¹ï¸Ü¤å¦r¡]¨C¤@¦æ¥Nªí¤@¬q³v¥yÅã¥Ü¡^
     [SerializeField] List<string> lines = new List<string>();
 
-    // ğŸ”¹ å…¬é–‹å”¯è®€å±¬æ€§ï¼Œè®“å…¶ä»–é¡åˆ¥å¯å­˜å–é€™äº›å°è©±
+    // ? ¤½¶}°ßÅªÄİ©Ê¡AÅı¨ä¥LÃş§O¥i¦s¨ú³o¨Ç¹ï¸Ü
     public List<string> Lines => lines;
 
     /// <summary>
-    /// ğŸ”§ å…è¨±å¤–éƒ¨ä¸€æ¬¡è¨­å®šæ•´çµ„å°è©±å…§å®¹
+    /// ? ¤¹³\¥~³¡¤@¦¸³]©w¾ã²Õ¹ï¸Ü¤º®e
     /// </summary>
     public void SetLines(List<string> newLines)
     {

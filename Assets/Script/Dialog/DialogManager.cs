@@ -5,19 +5,19 @@ using UnityEngine;
 using UnityEngine.UI;
 
 /// <summary>
-/// âœ… ç®¡ç†å°è©±æ¡†çš„é¡¯ç¤ºã€é€å­—è¼¸å‡ºèˆ‡æ§åˆ¶æµç¨‹çš„ç³»çµ±
+/// ? ºŞ²z¹ï¸Ü®ØªºÅã¥Ü¡B³v¦r¿é¥X»P±±¨î¬yµ{ªº¨t²Î
 /// </summary>
 public class DialogManager : MonoBehaviour
 {
-    [SerializeField] GameObject dialogBox;      // å°è©±æ¡† UI ç‰©ä»¶
-    [SerializeField] Text dialogText;           // é¡¯ç¤ºå°è©±æ–‡å­—çš„ UI Text
-    [SerializeField] int lettersPerSecond;      // æ¯ç§’é¡¯ç¤ºå¹¾å€‹å­—ï¼ˆæ‰“å­—é€Ÿåº¦ï¼‰
+    [SerializeField] GameObject dialogBox;      // ¹ï¸Ü®Ø UI ª«¥ó
+    [SerializeField] Text dialogText;           // Åã¥Ü¹ï¸Ü¤å¦rªº UI Text
+    [SerializeField] int lettersPerSecond;      // ¨C¬íÅã¥Ü´X­Ó¦r¡]¥´¦r³t«×¡^
 
-    // äº‹ä»¶ï¼šå°è©±é–‹å§‹ / çµæŸæ™‚é€šçŸ¥å¤–éƒ¨ï¼ˆä¾‹å¦‚æš«åœéŠæˆ²ï¼‰
+    // ¨Æ¥ó¡G¹ï¸Ü¶}©l / µ²§ô®É³qª¾¥~³¡¡]¨Ò¦p¼È°±¹CÀ¸¡^
     public event Action OnShowDialog;
     public event Action OnHideDialog;
 
-    // å–®ä¾‹æ¨¡å¼ï¼ˆæ–¹ä¾¿å…¶ä»–è…³æœ¬å­˜å–ï¼‰
+    // ³æ¨Ò¼Ò¦¡¡]¤è«K¨ä¥L¸}¥»¦s¨ú¡^
     public static DialogManager instance { get; private set; }
 
     private void Awake()
@@ -25,49 +25,68 @@ public class DialogManager : MonoBehaviour
         instance = this;
     }
 
-    // å°è©±ç‹€æ…‹ç´€éŒ„
-    int currentLine = 0;       // ç•¶å‰é¡¯ç¤ºåˆ°ç¬¬å¹¾è¡Œ
-    Dialog dialog;             // ç›®å‰è¦é¡¯ç¤ºçš„ Dialog è³‡æ–™
-    bool isTyping = false;     // æ˜¯å¦æ­£åœ¨é€å­—é¡¯ç¤ºæ–‡å­—ä¸­
+    // ¹ï¸Üª¬ºA¬ö¿ı
+    int currentLine = 0;       // ·í«eÅã¥Ü¨ì²Ä´X¦æ
+    Dialog dialog;             // ¥Ø«e­nÅã¥Üªº Dialog ¸ê®Æ
+    bool isTyping = false;     // ¬O§_¥¿¦b³v¦rÅã¥Ü¤å¦r¤¤
+    private Coroutine typingCoroutine = null;// ·í«eªº¥´¦r¨óµ{
+
 
     /// <summary>
-    /// âœ… é–‹å§‹é¡¯ç¤ºä¸€æ•´æ®µå°è©±ï¼ˆç”± Dialog æä¾›ï¼‰
+    /// ? ¶}©lÅã¥Ü¤@¾ã¬q¹ï¸Ü¡]¥Ñ Dialog ´£¨Ñ¡^
     /// </summary>
     public IEnumerator ShowDialog(Dialog dialog)
     {
-        yield return new WaitForEndOfFrame();
+        // yield return new WaitForEndOfFrame();
+        if (typingCoroutine != null)
+        {
+            StopCoroutine(typingCoroutine);  // °±¤î«e¤@¦¸ªº¥´¦r¨óµ{
+            typingCoroutine = null;
+        }
 
-        OnShowDialog?.Invoke();       // é€šçŸ¥éŠæˆ²å…¶ä»–éƒ¨åˆ†ã€Œå°è©±é–‹å§‹ã€
+        OnShowDialog?.Invoke();       // ³qª¾¹CÀ¸¨ä¥L³¡¤À¡u¹ï¸Ü¶}©l¡v
         this.dialog = dialog;
+        currentLine = 0;              // ­«¸m·í«e¦æ¼Æ
 
-        dialogBox.SetActive(true);    // é–‹å•Ÿå°è©±æ¡† UI
-        StartCoroutine(TypeDialog(dialog.Lines[0])); // é¡¯ç¤ºç¬¬ä¸€è¡Œ
+        dialogBox.SetActive(true);    // ¶}±Ò¹ï¸Ü®Ø UI
+        typingCoroutine = StartCoroutine(TypeDialog(dialog.Lines[currentLine]));
+        yield return null;
     }
 
     /// <summary>
-    /// âœ… å°è©±ä¸­æ¯æ¬¡æŒ‰ä¸‹éµç›¤ï¼ˆé€šå¸¸æ˜¯ Fï¼‰åˆ‡åˆ°ä¸‹ä¸€å¥
+    /// ? ¹ï¸Ü¤¤¨C¦¸«ö¤UÁä½L¡]³q±`¬O F¡^¤Á¨ì¤U¤@¥y
     /// </summary>
     public void HandleUpdate()
     {
-        if (Input.GetKeyDown(KeyCode.F) && !isTyping)
+        if (Input.GetKeyDown(KeyCode.F))
         {
+            if (isTyping)
+            {
+                // ? ­Y¥¿¦b¥´¦r¤¤¡A«h§Ö³tÅã¥Ü¾ã¥y¸Ü¡]¸õ¹L³v¦r¡^
+                StopCoroutine(typingCoroutine);
+                dialogText.text = dialog.Lines[currentLine];
+                isTyping = false;
+                return;
+            }
+
             ++currentLine;
             if (currentLine < dialog.Lines.Count)
             {
-                StartCoroutine(TypeDialog(dialog.Lines[currentLine]));
+                typingCoroutine = StartCoroutine(TypeDialog(dialog.Lines[currentLine]));
             }
             else
             {
-                // å°è©±çµæŸï¼Œé—œé–‰ UI ä¸¦é€šçŸ¥å¤–éƒ¨
+                // ¹ï¸Üµ²§ô¡AÃö³¬ UI ¨Ã³qª¾¥~³¡
                 dialogBox.SetActive(false);
                 currentLine = 0;
+                typingCoroutine = null;
                 OnHideDialog?.Invoke();
             }
         }
     }
 
     /// <summary>
-    /// âœ… é€å­—è¼¸å‡ºå–®è¡Œå°è©±å…§å®¹
+    /// ? ³v¦r¿é¥X³æ¦æ¹ï¸Ü¤º®e
     /// </summary>
     public IEnumerator TypeDialog(string lines)
     {
@@ -81,5 +100,10 @@ public class DialogManager : MonoBehaviour
         }
 
         isTyping = false;
+    }
+    
+    public bool IsDialogActive()
+    {
+        return dialogBox.activeSelf;
     }
 }
