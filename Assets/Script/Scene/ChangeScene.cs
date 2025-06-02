@@ -6,21 +6,19 @@ public class ChangeScene : MonoBehaviour
 
     void Awake()
     {
-        if (sceneTransition == null)
-        {
-            sceneTransition = FindObjectOfType<SceneTransition>();
-        }
+        // 使用新版 Unity 建議的方法
+        sceneTransition = Object.FindFirstObjectByType<SceneTransition>();
     }
 
-    public void SelectScene(int sceneIndex)
+    public void SelectScene(int index)
     {
         if (sceneTransition != null)
         {
-            sceneTransition.FadeToScene(sceneIndex);
+            sceneTransition.FadeToScene(index);
         }
         else
         {
-            Debug.LogWarning(" SceneTransition reference not assigned!");
+            Debug.LogWarning("SceneTransition 未找到，無法切場景！");
         }
     }
 }

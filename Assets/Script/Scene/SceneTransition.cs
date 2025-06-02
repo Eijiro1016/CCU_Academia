@@ -10,19 +10,18 @@ public class SceneTransition : MonoBehaviour
 
     void Awake()
     {
-        // 避免重複建立
-        if (FindObjectsOfType<SceneTransition>().Length > 1)
+        if (FindObjectsByType<SceneTransition>(FindObjectsSortMode.None).Length > 1)
         {
             Destroy(gameObject);
             return;
         }
 
-        DontDestroyOnLoad(gameObject); // 切場景也保留
+        DontDestroyOnLoad(gameObject);
+        SceneManager.sceneLoaded += OnSceneLoaded;
     }
 
-    void Start()
+    void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
-        // Scene 加載完後淡入
         StartCoroutine(FadeIn());
     }
 
@@ -63,7 +62,6 @@ public class SceneTransition : MonoBehaviour
     {
         if (fadeImage != null)
         {
-            Debug.Log($"[SceneTransition] SetAlpha to {alpha}");
             Color c = fadeImage.color;
             c.a = alpha;
             fadeImage.color = c;
