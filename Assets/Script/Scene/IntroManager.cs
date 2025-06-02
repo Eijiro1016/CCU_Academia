@@ -8,7 +8,7 @@ public class IntroManager : MonoBehaviour {
     public float initialDelay = 2f;       // 進場延遲（秒）
 
     private bool canSkipIntro = false;
-    private bool showingInstruction = false;
+    // private bool showingInstruction = false;
 
     void Start() {
         introPanel.SetActive(false);
@@ -27,18 +27,21 @@ public class IntroManager : MonoBehaviour {
     IEnumerator ShowIntroAfterDelay() {
         yield return new WaitForSeconds(initialDelay);    // 等幾秒再出現
         introPanel.SetActive(true);
-        StartCoroutine(ShowInstructionAfterIntro());
+        canSkipIntro = true; // 允許跳過劇情
     }
 
-    IEnumerator ShowInstructionAfterIntro() {
-        yield return new WaitForSeconds(introTime);
-        SkipToInstruction();
-    }
+    // IEnumerator ShowInstructionAfterIntro() {
+    //     yield return new WaitForSeconds(introTime);
+    //     if(Input.anyKeyDown) {
+    //         SkipToInstruction();
+    //     }
+        
+    // }
 
     void SkipToInstruction() {
         introPanel.SetActive(false);
         instructionPanel.SetActive(true);
-        showingInstruction = true;
+        // showingInstruction = true;
     }
 
     void StartGame() {

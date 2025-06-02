@@ -4,36 +4,36 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 
 /// <summary>
-/// âœ… éŠæˆ²ç‹€æ…‹åˆ—èˆ‰é¡å‹
+/// ? ¹CÀ¸ª¬ºA¦CÁ|Ãş«¬
 /// </summary>
 public enum GameState
 {
-    FreeRoam,  // ç©å®¶è‡ªç”±ç§»å‹•ç‹€æ…‹
-    Dialog,    // æ­£åœ¨å°è©±ä¸­ï¼ˆç„¡æ³•æ§åˆ¶è§’è‰²ï¼‰
-    Battle     // é€²å…¥æˆ°é¬¥ï¼ˆé ç•™ï¼‰
+    FreeRoam,  // ª±®a¦Û¥Ñ²¾°Êª¬ºA
+    Dialog,    // ¥¿¦b¹ï¸Ü¤¤¡]µLªk±±¨î¨¤¦â¡^
+    Battle     // ¶i¤J¾Ô°«¡]¹w¯d¡^
 }
 
 /// <summary>
-/// âœ… éŠæˆ²ç¸½æ§åˆ¶å™¨ï¼Œç®¡ç†æ•´é«”ç‹€æ…‹èˆ‡è¼¸å…¥åˆ‡æ›
+/// ? ¹CÀ¸Á`±±¨î¾¹¡AºŞ²z¾ãÅéª¬ºA»P¿é¤J¤Á´«
 /// </summary>
 public class gameControl : MonoBehaviour
 {
-    [SerializeField] PlayerMovement playerMovement; // åƒè€ƒç©å®¶æ§åˆ¶è…³æœ¬
+    [SerializeField] PlayerMovement playerMovement; // °Ñ¦Òª±®a±±¨î¸}¥»
 
-    GameState state; // ç›®å‰çš„éŠæˆ²ç‹€æ…‹ï¼ˆé è¨­ç‚º FreeRoamï¼‰
+    GameState state; // ¥Ø«eªº¹CÀ¸ª¬ºA¡]¹w³]¬° FreeRoam¡^
 
     private void Start()
     {
-        // è¼‰å…¥ä¸»é¸å–®ç•«é¢ï¼ˆAdditive æ–¹å¼ä¸æœƒè¦†è“‹ç¾æœ‰å ´æ™¯ï¼‰
+        // ¸ü¤J¥D¿ï³æµe­±¡]Additive ¤è¦¡¤£·|ÂĞ»\²{¦³³õ´º¡^
         //SceneManager.LoadScene("Menu", LoadSceneMode.Additive);
 
-        // ç•¶ DialogManager ç™¼å‡ºã€Œå°è©±é–‹å§‹ã€äº‹ä»¶æ™‚ï¼Œåˆ‡æ›éŠæˆ²ç‹€æ…‹ç‚º Dialog
+        // ·í DialogManager µo¥X¡u¹ï¸Ü¶}©l¡v¨Æ¥ó®É¡A¤Á´«¹CÀ¸ª¬ºA¬° Dialog
         DialogManager.instance.OnShowDialog += () =>
         {
             state = GameState.Dialog;
         };
 
-        // ç•¶å°è©±çµæŸæ™‚ï¼ˆDialogManager é€šçŸ¥ï¼‰ï¼Œå›å¾©ç‚ºè‡ªç”±ç§»å‹•ç‹€æ…‹
+        // ·í¹ï¸Üµ²§ô®É¡]DialogManager ³qª¾¡^¡A¦^´_¬°¦Û¥Ñ²¾°Êª¬ºA
         DialogManager.instance.OnHideDialog += () =>
         {
             if (state == GameState.Dialog)
@@ -43,20 +43,20 @@ public class gameControl : MonoBehaviour
 
     private void Update()
     {
-        // æ ¹æ“šä¸åŒç‹€æ…‹é€²è¡Œä¸åŒè¼¸å…¥è™•ç†
+        // ®Ú¾Ú¤£¦Pª¬ºA¶i¦æ¤£¦P¿é¤J³B²z
         if (state == GameState.FreeRoam)
         {
-            // ç©å®¶å¯ä»¥è‡ªç”±ç§»å‹•èˆ‡äº’å‹•
+            // ª±®a¥i¥H¦Û¥Ñ²¾°Ê»P¤¬°Ê
             playerMovement.HandleUpdate();
         }
         else if (state == GameState.Dialog)
         {
-            // å°è©±ç‹€æ…‹æ™‚ï¼Œäº¤ç”± DialogManager æ§åˆ¶å°è©±æµç¨‹
+            // ¹ï¸Üª¬ºA®É¡A¥æ¥Ñ DialogManager ±±¨î¹ï¸Ü¬yµ{
             DialogManager.instance.HandleUpdate();
         }
         else if (state == GameState.Battle)
         {
-            // âš ï¸ å°šæœªå¯¦ä½œæˆ°é¬¥ç‹€æ…‹
+            // ?? ©|¥¼¹ê§@¾Ô°«ª¬ºA
         }
     }
 }

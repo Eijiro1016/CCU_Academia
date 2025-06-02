@@ -1,11 +1,24 @@
-
 using UnityEngine;
-using UnityEngine.SceneManagement;
 
 public class ChangeScene : MonoBehaviour
 {
-    public void SelectScene(int sceneIndex)
+    private SceneTransition sceneTransition;
+
+    void Awake()
     {
-        SceneManager.LoadScene(sceneIndex);
+        // 使用新版 Unity 建議的方法
+        sceneTransition = Object.FindFirstObjectByType<SceneTransition>();
+    }
+
+    public void SelectScene(int index)
+    {
+        if (sceneTransition != null)
+        {
+            sceneTransition.FadeToScene(index);
+        }
+        else
+        {
+            Debug.LogWarning("SceneTransition 未找到，無法切場景！");
+        }
     }
 }
