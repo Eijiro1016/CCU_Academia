@@ -43,6 +43,7 @@ public class ChatUIManager : MonoBehaviour
         contactPanel.SetActive(false);
         chatPanel.SetActive(true);
 
+        inputField.text = "";
         LoadHistory();
     }
 
