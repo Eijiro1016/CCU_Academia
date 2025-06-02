@@ -5,24 +5,36 @@ using System.Collections;
 using UnityEngine.Networking;
 using System.Collections.Generic;
 
-[System.Serializable]public class MyChatResponse{
-    public string response;
+[System.Serializable]public class MyChatResponse {
+    public List<string> responses;
 }
 
 [System.Serializable]public class MyChatHistory{
-    public List<string> history;
+    public List<Conversation> dialogue;
+}
+
+[System.Serializable]public class Conversation {
+    public string role;
+    public string content;
+}
+
+[System.Serializable]public class ChatPayload{
+    public int character;
+    public string message;
 }
 
 public class OllamaAPI : MonoBehaviour{
-    public string chatUrl = "http://127.0.0.1:5000/api/chat";
-    public string historyUrl = "http://127.0.0.1:5000/api/history/";
+    //public string chatUrl = "http://127.0.0.1:5000/api/chat";
+    //public string historyUrl = "http://127.0.0.1:5000/api/history/";
+    public string chatUrl = "https://192.168.0.137:5000/api/chat";
+    public string historyUrl = "https://192.168.0.137:5000/api/history/";
 
     public void SendMessage(int npcID, string message, System.Action<string> onReply){
         StartCoroutine(SendChatCoroutine(npcID, message, onReply));
     }
 
     IEnumerator SendChatCoroutine(int npcID, string message, System.Action<string> onReply){
-        var payload = new { character = npcID, message = message };
+        ChatPayload payload = new ChatPayload { character = npcID, message = message };
         string json = JsonUtility.ToJson(payload);
         UnityWebRequest www = new UnityWebRequest(chatUrl, "POST");
         www.uploadHandler = new UploadHandlerRaw(Encoding.UTF8.GetBytes(json));
@@ -30,29 +42,37 @@ public class OllamaAPI : MonoBehaviour{
         www.SetRequestHeader("Content-Type", "application/json");
         yield return www.SendWebRequest();
 
-        if (www.result == UnityWebRequest.Result.Success){
+        if (www.result == UnityWebRequest.Result.Success) {
+            Debug.Log(www.downloadHandler.text); // ??•Á???????? JSON
             MyChatResponse res = JsonUtility.FromJson<MyChatResponse>(www.downloadHandler.text);
-            onReply?.Invoke(res.response);
-        }
-        else{
-            onReply?.Invoke("ÔºàÂÇ≥ÈÄÅÂ§±ÊïóÔºâ");
+
+            if (res.responses != null && res.responses.Count > 0) {
+                foreach (var msg in res.responses) {
+                    onReply?.Invoke(msg);
+                }
+            } else {
+                onReply?.Invoke("Ôº?‰º∫Ê????®Â???????∫Á©∫Ôº?");
+            }
+        } else {
+            onReply?.Invoke("Ôº???≥È??Â§±Ê??Ôº?");
         }
     }
 
-    public void GetHistory(int npcID, System.Action<List<string>> onHistory){
+    public void GetHistory(int npcID, System.Action<List<Conversation>> onHistory){
         StartCoroutine(GetHistoryCoroutine(npcID, onHistory));
     }
 
-    IEnumerator GetHistoryCoroutine(int npcID, System.Action<List<string>> onHistory){
+    IEnumerator GetHistoryCoroutine(int npcID, System.Action<List<Conversation>> onHistory){
         UnityWebRequest www = UnityWebRequest.Get(historyUrl + npcID);
         yield return www.SendWebRequest();
-
+        
         if (www.result == UnityWebRequest.Result.Success){
+            Debug.Log($"[GET HISTORY] ?????? JSON: {www.downloadHandler.text}");
             MyChatHistory history = JsonUtility.FromJson<MyChatHistory>(www.downloadHandler.text);
-            onHistory?.Invoke(history.history);
-        }
-        else{
-            onHistory?.Invoke(new List<string> { "ÔºàÁÑ°Ê≥ïËÆÄÂèñÊ≠∑Âè≤Á¥ÄÈåÑÔºâ" });
+            onHistory?.Invoke(history.dialogue);
+        } else {
+            Debug.LogWarning($"[GET HISTORY] Â§±Ê??: {www.error}");
+            onHistory?.Invoke(new List<Conversation>());
         }
     }
 }

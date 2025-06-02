@@ -51,7 +51,7 @@ public class ContactListManager : MonoBehaviour {
             Color color = styleColors.TryGetValue(npc.style, out Color c) ? c : Color.gray;
 
             // 延遲一幀再更新 UI，避免 Graphic Rebuild 錯誤
-            StartCoroutine(DelayedSetup(ui, npc.name, npc.style, color, title));
+            StartCoroutine(DelayedSetup(ui, npc.ID, npc.name, npc.style, color, title));
         }
     }
 
@@ -69,11 +69,10 @@ public class ContactListManager : MonoBehaviour {
         };
     }
 
-    private IEnumerator DelayedSetup(ContactItemUI ui, string name, string style, Color color, string rawTitle) {
+    private IEnumerator DelayedSetup(ContactItemUI ui, int ID, string name, string style, Color color, string rawTitle) {
         yield return null; // 等一幀，避免在 UI 初始化中更新 TMP
 
-        // string parsed = EmojiReplacer.Replace(rawTitle);
-        ui.Setup(name, style, color,rawTitle);
+        ui.Setup(ID, name, style, color,rawTitle);
 
         Debug.Log("Title" + rawTitle);
     }
