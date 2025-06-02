@@ -1,53 +1,51 @@
 ﻿using UnityEngine;
 
-/// <summary>
-/// ✅ 控制敵人的基本邏輯：追蹤玩家、設定攻擊資訊
-/// </summary>
 public class Enemy : MonoBehaviour
 {
     [Header("移動與攻擊設定")]
-    public float speed = 10f;             // 敵人移動速度
-    [SerializeField] public float attackDamage = 10f; // 攻擊時造成的傷害
-    [SerializeField] public float attackSpeed = 1f;   // 攻擊間隔（秒）
-    public float canAttack;               // 攻擊冷卻計時器（由 AttackZone 控制）
+    public float speed = 10f;
+    [SerializeField] public float attackDamage = 10f;
+    [SerializeField] public float attackSpeed = 1f;
+    public float canAttack;
 
-    private Transform target;            // 玩家位置參考（由 DetectionZone 設定）
+    private Transform target;
+    private SpriteRenderer spriteRenderer;
 
-    /// <summary>
-    /// 每幀更新：若有追蹤目標則朝該方向移動
-    /// </summary>
+    [Header("四方向圖")]
+    public Sprite spriteDown;   // cars_0
+    public Sprite spriteLeft;   // cars_0_1
+    public Sprite spriteRight;  // cars_1
+    public Sprite spriteUp;     // cars_4
+
+    void Start()
+    {
+        spriteRenderer = GetComponent<SpriteRenderer>();
+    }
+
     void Update()
     {
         if (target != null)
         {
+            Vector2 direction = target.position - transform.position;
             float step = speed * Time.deltaTime;
-            // 將敵人位置移動到玩家方向（等速追蹤）
             transform.position = Vector2.MoveTowards(transform.position, target.position, step);
+
+            // ✅ 根據方向切換 sprite
+            if (Mathf.Abs(direction.x) > Mathf.Abs(direction.y))
+            {
+                // 左右
+                spriteRenderer.sprite = direction.x > 0 ? spriteRight : spriteLeft;
+            }
+            else
+            {
+                // 上下
+                spriteRenderer.sprite = direction.y > 0 ? spriteUp : spriteDown;
+            }
         }
     }
 
-    /// <summary>
-    /// ✅ 由 DetectionZone 設定或清除追蹤目標
-    /// </summary>
     public void SetTarget(Transform t)
     {
         target = t;
     }
-
-    // 📝 以下是預備封裝 getter，可選擇是否啟用
-
-    // public float GetAttackDamage()
-    // {
-    //     return attackDamage;
-    // }
-
-    // public float GetAttackSpeed()
-    // {
-    //     return attackSpeed;
-    // }
-
-    // public float GetCanAttack()
-    // {
-    //     return canAttack;
-    // }
 }
