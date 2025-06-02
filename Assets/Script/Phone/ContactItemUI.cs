@@ -8,12 +8,22 @@ public class ContactItemUI : MonoBehaviour {
     public TMP_Text styleText;
     public Image styleBackground;
     public TMP_Text summaryText;
+    public Button contactButton;
 
-    // 設定 NPC 顯示資料與樣式顏色
-    public void Setup(string npcName, string npcStyle, Color styleColor, string npcTitle) {
+    public ChatUIManager chatUIManager;  // 指派用
+
+    public void Setup(int npcID, string npcName, string npcStyle, Color styleColor, string npcTitle) {
         nameText.text = npcName;
         styleText.text = npcStyle;
         styleBackground.color = styleColor;
         summaryText.text = npcTitle;
+
+        GetComponent<Button>().onClick.AddListener(() => {
+            chatUIManager.OpenChat(npcID, npcName);
+        });
+
+        contactButton.onClick.AddListener(() => {
+            chatUIManager.OpenChat(npcID, npcName);
+        });
     }
 }
