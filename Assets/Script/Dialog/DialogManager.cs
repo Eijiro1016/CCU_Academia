@@ -4,20 +4,15 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-/// <summary>
-/// ? 管理對話框的顯示、逐字輸出與控制流程的系統
-/// </summary>
 public class DialogManager : MonoBehaviour
 {
-    [SerializeField] GameObject dialogBox;      // 對話框 UI 物件
-    [SerializeField] Text dialogText;           // 顯示對話文字的 UI Text
-    [SerializeField] int lettersPerSecond;      // 每秒顯示幾個字（打字速度）
+    [SerializeField] GameObject dialogBox;
+    [SerializeField] Text dialogText;
+    [SerializeField] int lettersPerSecond;
 
-    // 事件：對話開始 / 結束時通知外部（例如暫停遊戲）
     public event Action OnShowDialog;
     public event Action OnHideDialog;
 
-    // 單例模式（方便其他腳本存取）
     public static DialogManager instance { get; private set; }
 
     private void Awake()
@@ -25,44 +20,43 @@ public class DialogManager : MonoBehaviour
         instance = this;
     }
 
-    // 對話狀態紀錄
-    int currentLine = 0;       // 當前顯示到第幾行
-    Dialog dialog;             // 目前要顯示的 Dialog 資料
-    bool isTyping = false;     // 是否正在逐字顯示文字中
-    private Coroutine typingCoroutine = null;// 當前的打字協程
+    int currentLine = 0;
+    Dialog dialog;
+    bool isTyping = false;
+    private Coroutine typingCoroutine = null;
+    private bool isDialogFinished = false; // ? 對話結束旗標
 
-
-    /// <summary>
-    /// ? 開始顯示一整段對話（由 Dialog 提供）
-    /// </summary>
     public IEnumerator ShowDialog(Dialog dialog)
     {
-        // yield return new WaitForEndOfFrame();
         if (typingCoroutine != null)
         {
-            StopCoroutine(typingCoroutine);  // 停止前一次的打字協程
+            StopCoroutine(typingCoroutine);
             typingCoroutine = null;
         }
 
-        OnShowDialog?.Invoke();       // 通知遊戲其他部分「對話開始」
+        OnShowDialog?.Invoke();
         this.dialog = dialog;
-        currentLine = 0;              // 重置當前行數
+        currentLine = 0;
+        isDialogFinished = false;
 
-        dialogBox.SetActive(true);    // 開啟對話框 UI
+        dialogBox.SetActive(true);
         typingCoroutine = StartCoroutine(TypeDialog(dialog.Lines[currentLine]));
+
+        // ? 等待對話整體流程結束
+        while (!isDialogFinished)
+        {
+            yield return null;
+        }
+
         yield return null;
     }
 
-    /// <summary>
-    /// ? 對話中每次按下鍵盤（通常是 F）切到下一句
-    /// </summary>
     public void HandleUpdate()
     {
         if (Input.GetKeyDown(KeyCode.F))
         {
             if (isTyping)
             {
-                // ? 若正在打字中，則快速顯示整句話（跳過逐字）
                 StopCoroutine(typingCoroutine);
                 dialogText.text = dialog.Lines[currentLine];
                 isTyping = false;
@@ -76,24 +70,21 @@ public class DialogManager : MonoBehaviour
             }
             else
             {
-                // 對話結束，關閉 UI 並通知外部
                 dialogBox.SetActive(false);
                 currentLine = 0;
                 typingCoroutine = null;
                 OnHideDialog?.Invoke();
+                isDialogFinished = true; // ? 標記對話完成
             }
         }
     }
 
-    /// <summary>
-    /// ? 逐字輸出單行對話內容
-    /// </summary>
-    public IEnumerator TypeDialog(string lines)
+    public IEnumerator TypeDialog(string line)
     {
         isTyping = true;
         dialogText.text = "";
 
-        foreach (var letter in lines.ToCharArray())
+        foreach (var letter in line.ToCharArray())
         {
             dialogText.text += letter;
             yield return new WaitForSeconds(1f / lettersPerSecond);
@@ -101,7 +92,7 @@ public class DialogManager : MonoBehaviour
 
         isTyping = false;
     }
-    
+
     public bool IsDialogActive()
     {
         return dialogBox.activeSelf;

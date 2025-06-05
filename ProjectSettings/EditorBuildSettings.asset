@@ -14,7 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/LoadingScene.unity
     guid: a9a5427ae310d234bac66d885575decc
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/WorldMapScene.unity
     guid: d8c1c55dcfd3ceb44add549c65d37650
   - enabled: 1
@@ -23,6 +23,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Ending_Failure.unity
     guid: 82ca95d63a6453140a6b804ae8f2acd8
+  - enabled: 1
+    path: Assets/Scenes/EndingScene.unity
+    guid: 9bf01a6224b51b7488331ed0a39e2534
   m_configObjects:
     com.unity.dt.app-ui: {fileID: 11400000, guid: 99f9c9493070a9d4c979a8fec7c5a8d3, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}

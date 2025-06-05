@@ -10,6 +10,7 @@ public class PlayerMovement : MonoBehaviour
     // ~~ 2. Updates Animator to Play Idle & Walking Animations
 
     [SerializeField] private float speed = 10f;
+    [SerializeField] private float sprintMultiplier = 1.5f; // 加速倍率
     private Rigidbody2D myRigidbody;
     private Vector3 input;
     private Animator animator;
@@ -67,6 +68,14 @@ public class PlayerMovement : MonoBehaviour
 
     private void MoveCharacter()
     {
-        myRigidbody.MovePosition(transform.position + input * speed * Time.deltaTime);
+        float currentSpeed = speed;
+
+        // 如果按下左 Shift，就提高速度
+        if (Input.GetKey(KeyCode.LeftShift))
+        {
+            currentSpeed *= sprintMultiplier;
+        }
+
+        myRigidbody.MovePosition(transform.position + input * currentSpeed * Time.deltaTime);
     }
 }

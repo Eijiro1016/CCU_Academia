@@ -5,7 +5,7 @@ public class EndingSceneManager : MonoBehaviour
 {
     public void RestartGame()
     {
-        SceneManager.LoadScene("CharacterCreator");  // 替換成遊戲主場景名稱
+        SceneManager.LoadScene("Overworld");  // 替換成遊戲主場景名稱
     }
 
     public void GoToMainMenu()

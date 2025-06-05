@@ -1,3 +1,4 @@
+using UnityEngine.SceneManagement;
 using UnityEngine;
 using TMPro;
 
@@ -24,6 +25,8 @@ public class Timer : MonoBehaviour {
     //[SerializeField]
     //private TextMeshProUGUI timerText;
 
+    private bool hasEnded = false; // ??²æ­¢???è¤?????????´æ??
+
     private float flashTimer;
     [SerializeField]
     private float flashDuration = 1f; //The full length of the flash
@@ -49,7 +52,11 @@ public class Timer : MonoBehaviour {
             timer += Time.deltaTime;
             UpdateTimerDisplay(timer);
         } else {
-            FlashTimer();
+            //FlashTimer();
+            if (!hasEnded && timer <= 0f) {
+                hasEnded = true;
+                LoadEndScene();
+            }
         }
     }
 
@@ -119,5 +126,9 @@ public class Timer : MonoBehaviour {
 
         //Use this for a single text object
         //timerText.enabled = enabled;
+    }
+
+    private void LoadEndScene() {
+        SceneManager.LoadScene("Ending_Failure"); // ???è£¡è????? "EndScene" ??????ä½????çµ??????«é?¢å?´æ?¯å??ç¨?
     }
 }
