@@ -1,141 +1,125 @@
 # 🏡 我的鳳梨學院 - 2D Pixel RPG 專案
 
 ## 🎯 專案簡介
-這是一款以 2D 像素風格製作的校園 RPG 遊戲，玩家能在校園中自由探索、與 NPC 聊天互動，甚至體驗來自 Dcard 真實留言生成的 AI 角色對話。遊戲以模組化方式設計，具備地圖遮擋、建築透明、怪物追擊與攻擊、樓層顯示控制等完整功能。
+
+《我的鳳梨學院》是一款以國立中正大學為背景、融合 Dcard 熱門貼文與本地語言模型（LLaMA 3.2B）的 2D 校園 RPG 像素遊戲。  
+玩家可以在熟悉的校園中自由探索，與 AI NPC 對話、躲避電動車敵人、完成任務主線，體驗結合真實社群資料與生成式 AI 的沉浸式冒險。
+
+### 🔥 遊戲特色
+- 🌟 真實 Dcard 熱門貼文轉化 NPC，具人格風格  
+- 🤖 串接本地 Ollama 模型，支援 AI 即時回應  
+- 🗺️ 中正校園像素地圖、樓層切換、建築透明  
+- 🎮 任務主線、敵人追擊、手機 UI 對話面板  
 
 ---
 
 ## 🎮 遊戲玩法
-- 使用方向鍵或 WASD 控制角色上下左右單方向移動
-- 按下 `F` 與 NPC 互動，展開對話（支援 AI 回應）
-- 按下 `Tab` 呼叫手機，輸入訊息與 AI 聊天
-- 玩家接近建築會使建築淡出透明
-- 樓梯區域自動切換樓層顯示
-- 敵人靠近會追擊並攻擊，玩家會扣血與擊退
+
+- 使用方向鍵 / WASD 控制角色移動  
+- 按 `F` 與 NPC 對話（AI 風格回應）  
+- 按 `Tab` 呼叫手機輸入訊息與 NPC 聊天  
+- 按 `M` 查看小地圖、`Esc` 開啟設定畫面  
+- 樓梯區域會自動切換樓層顯示  
+- 敵人靠近會追擊攻擊，玩家會扣血與擊退  
 
 ---
 
-## 🛠️ 開發技術與工具
-- Unity 2021 / 2022（2D 專案模板）
-- C# 腳本編寫
-- Tilemap + Sorting Layer 管理遮擋
-- Rigidbody2D + Trigger 判斷碰撞
-- ScriptableObject 對話資料管理
-- Coroutine 實作打字與透明效果
-- 自製 AI 聊天：串接本地 FastAPI / Ollama / GPT API
-
----
-
-## 📂 腳本結構（Script 資料夾說明）
+## 🧱 系統架構與整合
 
 ```plaintext
-Script/
-├── AI/                        -> AI 聊天模組（Ollama / GPT）
-│   ├── GPTDialog.cs           -> 串接 OpenAI GPT API
-│   └── OllamaDialog.cs        -> 串接本地 FastAPI 模型
-│
-├── Building/                 -> 建築相關模組
-│   ├── BuildingFade.cs        -> 玩家進入時建築淡出透明
-│   ├── FloorLayer.cs          -> 控制單一樓層顯示 / 隱藏
-│   └── FloorZone.cs           -> 玩家進入區域時切換樓層
-│
-├── Dialog/                   -> 對話系統模組
-│   ├── Dialog.cs              -> 對話資料容器（ScriptableObject）
-│   ├── DialogBuilder.cs       -> 動態建立對話內容
-│   └── DialogManager.cs       -> 控制對話框顯示與打字動畫
-│
-├── Enemy/                    -> 敵人 AI 模組
-│   ├── Enemy.cs               -> 敵人追蹤與移動控制
-│   ├── AttackZone.cs          -> 攻擊區域、冷卻與扣血邏輯
-│   └── DetectionZone.cs       -> 偵測玩家進入並開始追蹤
-│
-├── NPC/                      -> NPC 互動模組
-│   └── NPCcontrol.cs          -> 接收玩家互動並呼叫 AI 對話
-│
-├── Player/                   -> 玩家控制模組
-│   ├── Player_control.cs      -> 移動、動畫、互動邏輯
-│   └── Player_health.cs       -> 扣血與擊退處理
-│
-├── gameControl.cs            -> 遊戲狀態控制（自由/對話/戰鬥）
-├── Phone.cs                  -> 手機 UI 開啟、輸入與 AI 回覆
-├── interactable.cs           -> 可互動物件介面（供 NPC 使用）
+[Dcard 爬蟲 (Python)]
+        ↓
+[NPC 個性分類 + Prompt 建立 (Ollama LLaMA3.2B)]
+        ↓
+[Flask API → 本地 Web Server]
+        ↓
+[Unity C# 腳本 → 呼叫 API 串接對話系統]
+
 ```
 
+## 🛠️ 開發技術與工具
+- Unity：2D 專案模板
 
+- C#：物件導向腳本編寫
+
+- Python：Dcard 爬蟲 + 對話分類處理
+
+- Flask API：串接 Ollama 模型
+
+- Ollama：本地部署 LLaMA 3.2B
+
+- GitHub + Git LFS：版本控制與大型檔案管理
 ---
+## 📂 腳本結構
+```plaintext
+Script/
+├── AI/                  → 串接 GPT / Ollama API 的對話功能
+├── Building/            → 建築淡出與樓層控制
+├── Dialog/              → ScriptableObject 對話資料管理系統
+├── Enemy/               → 敵人偵測、攻擊與追蹤行為
+├── NPC/                 → NPC 對話控制（串接 AI 回應）
+├── Player/              → 玩家移動、血量、動畫
+├── Phone.cs             → 手機 UI 與聊天面板功能
+├── gameControl.cs       → 控制整體遊戲狀態
+├── interactable.cs      → 可互動物件的共用介面
 
-## 🧪 開發紀錄（Changelog）
+```
+---
+## 🧪 開發歷程（精選）
+✅ 第1階段：遊戲雛形建立
+- 玩家基本移動、建築遮擋、對話框與打字動畫
 
-### ✅ 2025-04-29
-- 實作基本玩家移動控制
-- 實作建築淡出與 Tilemap 遮擋
-- 建立對話框 UI 與逐字顯示功能
+✅ 第2階段：功能拓展
+- 串接 Ollama + 手機 UI 實現 AI 對話
 
-### ✅ 2025-05-04
-- 新增 NPC 互動對話系統（整合 Dcard 設定）
-- 支援成就收集（櫻桃）
+- 加入地圖面板與 UI 系統
 
-### ✅ 2025-05-12
-- 敵人 AI 追擊與攻擊邏輯
-- 玩家被攻擊會扣血與向後推退
-- 手機 UI 串接本地 Ollama API 對話
+✅ 第3階段：內容增強
+- 主畫面、角色換裝、配樂
+
+- 支援角色外觀自訂（髮型、衣褲、膚色）
+
+✅ 第4階段：核心機制建置
+- 敵人追擊與攻擊邏輯、玩家死亡與退場動畫
+
+- 主線任務、成功 / 失敗場景切換
   
-### ✅ 2025-05-15
-- 遊戲首頁設計
-- 遊戲開始及離開按鈕設定
-
-### ✅ 2025-05-20
-- 開發角色選擇介面：
-  1.角色預覽框設計
-  2.角色可在預覽中移動（走動）
-  3.角色可自訂髮型、上衣、下褲、膚色
-  
 ---
-
-## ▶️ 安裝與執行方式
-
-1. **下載專案** 或 `git clone` 本倉庫
-2. 使用 Unity Hub 加入專案
-3. 開啟 `Assets/Scenes/MainScene.unity`（或其他主場景）
-4. 點擊 `▶️ Play` 開始遊戲
-
-
-# 團隊 Git LFS 使用教學
-
-📦 本專案使用 Git LFS 來管理大檔（如 Unity 的場景檔與圖片等），請依照以下步驟設定：
-
-## ✅ 第一次使用的成員需執行：
-
-1. 安裝 Git LFS：
-   https://git-lfs.github.com/
-
-2. 安裝完成後，打開 Terminal 或 Git Bash 執行：
-   ```bash
-   git lfs install
-
-3. Clone 專案：
-git clone https://github.com/XinEnLin/Dcardbucks_Boss.git
-cd Dcardbucks_Boss
-git lfs pull  # 建議第一次補拉大檔
-
+## ▶️ 執行方式
+點選以下連結即可直接於瀏覽器遊玩（無需安裝）：
+👉 🎮 Unity Play - [我的鳳梨學院](https://play.unity.com/en/games/0b839150-5aed-4c84-affa-60d44727fdbf/ccuacademia)
 ---
+## 🔧 功能規劃（未來擴充）
+- 對話選項 / 分支 / 好感度系統
 
-## 💡 功能規劃（未來可擴充）
+- 任務系統 + 成就獎勵機制
 
-- [ ] 加入血條 UI（搭配 Player_health）
-- [ ] 對話選項與分支選擇
-- [ ] 玩家輸入自由提問 NPC（手機與對話皆支援）
-- [ ] 任務系統與地圖傳送點
-- [ ] AI 角色記憶與情感系統
+- 地圖傳送點與快速移動
 
+- 多人連線遊玩（伺服器同步）
+
+- 一鍵刷新 Dcard → 即時生成新 NPC
 ---
-
 ## 🙏 特別感謝
+- [OpenGameArt.org](https://opengameart.org/)
 
-- [OpenGameArt.org](https://opengameart.org/) 提供免費角色素材
-- 參考 YouTube 教學：《Brackeys》、《Pixeland》、《Blackthornprod》
-- Unity 官方文檔：Tilemap、2D Physics、Coroutine 教學
+- 素材來源：
+
+  - 建築：[ModernExteriors](https://limezu.itch.io/modernexteriors)
+
+  - UI：[Fairytale UI Pack](https://toffeecraft.itch.io/fairytale-ui-pack)
+
+  - 人物：[Cozy People](https://shubibubi.itch.io/cozy-people)
+
+  - 手機面板：[Pixelized Phone](https://ashizian.itch.io/pixelized-phone)
+
+- YouTube 教學參考：
+
+  - [Pixeland 系列](https://www.youtube.com/playlist?list=PL_Pb2I110MfGAsoqtDs8-6kEU55wU8CnE)
+
+  - [角色換裝教學](https://www.youtube.com/watch?v=PNWK5o9l54w)
+
+  - [敵人與血量教學](https://www.youtube.com/watch?v=VOdYtqV_meo)
 
 ---
-
-🎓 本專案為課程《程式設計（二）》期末專題，由學生自製，學習 Unity 遊戲開發、AI 對話整合、遊戲系統
+🎓 本專案為《程式設計（二）》期末專題，由中正大學資工與資管學生協作完成。
